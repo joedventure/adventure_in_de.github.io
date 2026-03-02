@@ -5,7 +5,7 @@ description: >-
 baseurl: "/adventure_in_de" # 如果是個人主頁則留空 ""
 url: "https://joedventure.github.io"
 
-# permalink: /:categories/:title/
+permalink: /:categories/:title/
 markdown: kramdown
 theme: minima # 或自定義主題
 
