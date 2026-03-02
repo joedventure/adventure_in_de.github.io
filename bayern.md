@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: state
 title: 巴伐利亞 (Bayern)
-map_type: state
+geojson_name: "Bayern"    # 對應 GeoJSON 裡的 name
 permalink: /bayern/
 cities:
   - name: "慕尼黑 (München)"
@@ -16,3 +16,4 @@ cities:
 
 ### 巴伐利亞熱門城市
 點擊地圖上的大頭針，查看更深入的景點解析。
+
