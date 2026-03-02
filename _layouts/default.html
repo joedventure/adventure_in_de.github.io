@@ -1,22 +1,25 @@
 <!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
-    </head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        .container { max-width: 1000px; margin: 0 auto; padding: 20px; font-family: sans-serif; }
+        #map { background: #f0f0f0; border-radius: 8px; margin-bottom: 20px; width: 100%; }
+        .nav-btn { display: inline-block; margin-bottom: 15px; padding: 8px 15px; background: #eee; text-decoration: none; color: #333; border-radius: 5px; }
+    </style>
+</head>
 <body>
-    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 20px;">
+    <div class="container">
         {% if page.url != "/" %}
-            <a href="{{ site.baseurl }}/" style="text-decoration:none;">🏠 返回全德地圖</a>
-        {% endif %}
-
-        {% if page.url == "/" %}
-            <h1>{{ page.title }}</h1>
-            <div id="map" style="height: 600px;"></div>
-            <script>
-                // 這裡放原本首頁載入全德 16 邦的 fetch 邏輯...
-            </script>
+            <a href="{{ site.baseurl }}/" class="nav-btn">🏠 返回全德地圖</a>
         {% endif %}
 
         {{ content }}
     </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 </body>
 </html>
