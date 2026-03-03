@@ -6,63 +6,201 @@
     <title>{{ page.title }} | {{ site.title }}</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
-        #map { height: 600px; width: 100%; background: #f8f9fa; border-radius: 12px; }
-        .nav-buttons { margin-bottom: 15px; display: flex; gap: 10px; }
-        .btn { padding: 8px 16px; border-radius: 6px; text-decoration: none; color: white; background: #333; font-size: 14px; }
-        .btn-home { background: #007bff; }
-        .btn-back { background: #6c757d; }
-        /* 懸停時的樣式 */
+        /* --- 基礎配色與字體 --- */
+        body { 
+            font-family: "Helvetica Neue", "Helvetica", "Main", "Microsoft JhengHei", sans-serif; 
+            background-color: #f4f7f9; 
+            color: #333; 
+            margin: 0; 
+            line-height: 1.7; 
+        }
+        
+        /* --- 兩欄式容器佈局 --- */
+        .main-container { 
+            max-width: 1200px; 
+            margin: 30px auto; 
+            padding: 0 20px; 
+            display: flex; 
+            gap: 30px; 
+        }
+
+        /* 左側主欄位 */
+        .content-area { 
+            flex: 3; 
+            min-width: 0; 
+            background: white; 
+            padding: 30px; 
+            border-radius: 12px; 
+            box-shadow: 0 2px 15px rgba(0,0,0,0.05); 
+        }
+
+        /* 地圖樣式 */
+        #map { 
+            height: 550px; 
+            width: 100%; 
+            background: #e9ecef; 
+            border-radius: 8px; 
+            margin-bottom: 20px; 
+            border: 1px solid #ddd;
+        }
+
+        /* --- 右側側邊欄樣式 --- */
+        .sidebar { 
+            flex: 1; 
+            display: flex; 
+            flex-direction: column; 
+            gap: 20px; 
+        }
+        .sidebar-card { 
+            background: white; 
+            padding: 20px; 
+            border-radius: 12px; 
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05); 
+            border-top: 4px solid #2c3e50;
+        }
+        .sidebar-card h3 { 
+            color: #2c3e50; 
+            font-size: 1.1rem; 
+            margin-top: 0; 
+            border-bottom: 1px solid #eee; 
+            padding-bottom: 10px; 
+        }
+        .sidebar-card ul { list-style: none; padding: 0; margin: 0; }
+        .sidebar-card li { 
+            margin: 12px 0; 
+            border-bottom: 1px dashed #eee; 
+            padding-bottom: 8px; 
+            font-size: 14px;
+        }
+        .sidebar-card a { 
+            text-decoration: none; 
+            color: #3498db; 
+            font-weight: 500; 
+            transition: color 0.2s;
+        }
+        .sidebar-card a:hover { color: #1a5a96; text-decoration: underline; }
+
+        /* --- 導覽按鈕 --- */
+        .nav-buttons { margin-bottom: 20px; display: flex; gap: 10px; }
+        .btn { 
+            padding: 8px 18px; 
+            border-radius: 25px; 
+            text-decoration: none; 
+            color: white; 
+            font-size: 14px; 
+            font-weight: 500;
+            transition: opacity 0.2s;
+        }
+        .btn-home { background: #2c3e50; }
+        .btn-back { background: #7f8c8d; }
+        .btn:hover { opacity: 0.9; }
+
+        /* --- 訪客統計數字 --- */
+        .visitor-stat { 
+            font-family: "Courier New", Courier, monospace; 
+            font-weight: bold; 
+            color: #2c3e50; 
+            font-size: 1.2rem; 
+        }
+
+        /* --- 頁尾 --- */
+        footer { 
+            margin-top: 60px; 
+            padding: 40px 20px; 
+            background: #2c3e50; 
+            color: #bdc3c7; 
+            text-align: center; 
+            font-size: 14px; 
+        }
+        .footer-line { display: block; margin-bottom: 5px; }
+
+        /* 響應式：手機看時改為單欄 */
+        @media (max-width: 900px) {
+            .main-container { flex-direction: column; }
+            .sidebar { order: 2; }
+            #map { height: 400px; }
+        }
+
         .leaflet-interactive:hover { cursor: pointer; }
     </style>
 </head>
 <body>
-    <div style="max-width: 1100px; margin: 0 auto; padding: 20px;">
-        <div class="nav-buttons">
-            {% if page.url != "/" %}
-                <a href="{{ site.baseurl }}/" class="btn btn-home">🏠 返回全德地圖</a>
+
+    <div class="main-container">
+        <main class="content-area">
+            <div class="nav-buttons">
+                {% if page.url != "/" %}
+                    <a href="{{ site.baseurl }}/" class="btn btn-home">🏠 返回全德地圖</a>
+                {% endif %}
+                
+                {% if page.layout == "post" %}
+                    <a href="{{ site.baseurl }}/{{ page.state_id }}/" class="btn btn-back">⬅️ 返回 {{ page.state_name }} 列表</a>
+                {% endif %}
+            </div>
+
+            <h1>{{ page.title }}</h1>
+
+            {% if page.show_map != false %}
+                <div id="map"></div>
             {% endif %}
-            
-            {% if page.layout == "post" %}
-                <a href="{{ site.baseurl }}/{{ page.state_id }}/" class="btn btn-back">⬅️ 返回 {{ page.state_name }} 列表</a>
-            {% endif %}
-        </div>
 
-        <h1>{{ page.title }}</h1>
+            <div class="content">
+                {{ content }}
+            </div>
+        </main>
 
-        {% if page.show_map != false %}
-            <div id="map"></div>
-        {% endif %}
+        <aside class="sidebar">
+            <section class="sidebar-card">
+                <h3>🔍 探索專題</h3>
+                <ul>
+                    <li><a href="#">🇩🇪 德國世界遺產全紀錄</a></li>
+                    <li><a href="#">🥨 巴伐利亞美食地圖</a></li>
+                    <li><a href="#">🏰 浪漫之路古堡巡禮</a></li>
+                    <li><a href="#">🚆 德鐵 DB 乘車教學</a></li>
+                </ul>
+            </section>
 
-        <div class="content" style="margin-top: 20px;">
-            {{ content }}
-        </div>
+            <section class="sidebar-card">
+                <h3>📈 網站統計</h3>
+                <p style="font-size: 14px; margin-bottom: 5px;">總訪客人數：</p>
+                <span class="visitor-stat" id="busuanzi_value_site_pv">--</span>
+            </section>
+        </aside>
     </div>
 
+    <footer>
+        <span class="footer-line">Copyright © {{ "now" | date: "%Y" }} {{ site.title }}. All Rights Reserved.</span>
+        <span class="footer-line">版權所有，未經許可請勿轉載或用於任何商業用途。</span>
+    </footer>
+
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
         const baseUrl = "{{ site.baseurl }}";
         
-        // 只有在需要地圖的頁面才初始化
         if (document.getElementById('map')) {
             const map = L.map('map').setView([51.1657, 10.4515], 6);
+
+            // --- 注入 OpenStreetMap 底圖 ---
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
 
             {% if page.map_type == "germany" %}
             // --- 首頁邏輯：邦區塊懸停變色 + 首府大頭針 ---
             let geojson;
 
-            // 樣式設定
             function style(feature) {
-                return { fillOpacity: 0.1, color: "#3388ff", weight: 2 };
+                return { fillOpacity: 0.1, color: "#3498db", weight: 2 };
             }
 
-            // 懸停變色
             function highlightFeature(e) {
                 var layer = e.target;
-                layer.setStyle({ weight: 5, color: '#666', fillOpacity: 0.5 });
+                layer.setStyle({ weight: 5, color: '#2c3e50', fillOpacity: 0.4 });
                 layer.bringToFront();
             }
 
-            // 移開還原
             function resetHighlight(e) {
                 geojson.resetStyle(e.target);
             }
@@ -78,10 +216,8 @@
                                 mouseout: resetHighlight,
                                 click: () => { window.location.href = `${baseUrl}/${feature.properties.id}/`; }
                             });
-                            // 綁定簡單提示
                             layer.bindTooltip(feature.properties.name);
 
-                            // 在各邦首府座標處加上大頭針 (座標需在 GeoJSON 的 properties 內提供)
                             if (feature.properties.capital_lat) {
                                 L.marker([feature.properties.capital_lat, feature.properties.capital_lng])
                                     .addTo(map)
@@ -93,46 +229,33 @@
 
             {% elsif page.map_type == "state" %}
             // --- 邦頁面邏輯：顯示邦輪廓與城市標記 ---
-            // 1. 載入全德國的 GeoJSON (請確認路徑正確)
-                fetch('{{ site.baseurl }}/assets/germany_states.json')
-                    .then(res => res.json())
-                    .then(data => {
-                        // 2. 篩選出當前頁面的邦 (假設你的 GeoJSON 屬性名稱是 'name')
-                        // 請根據你 GeoJSON 實際的 properties 欄位名稱修改 'name'
-                        const currentStateId = "{{ page.state_id }}"; // 取得邦頁面中的state_id
-                        const stateLayer = L.geoJSON(data, {
-                            filter: function(feature) {
-                                return (feature.id === currentStateId || feature.properties.id === currentStateId);
-                            },
-                            style: {
-                                color: "#2c3e50",
-                                weight: 2,
-                                fillColor: "#3498db",
-                                fillOpacity: 0.2
-                            }
-                        }).addTo(map);
-                        
-                        // 3. 自動縮放地圖到該邦的邊界
-                        if (stateLayer.getLayers().length > 0) {
-                            // 使用 fitBounds 會自動計算該邦所有邊界並將其完整顯示在螢幕內
-                            map.fitBounds(stateLayer.getBounds(), {
-                                padding: [20, 20] // 增加一點邊距，讓邊界不會貼死螢幕邊緣
-                                });
-                        } else {
-                            // 如果 GeoJSON 沒抓到，才退而求其次縮放到第一個城市
-                            if (cities.length > 0) map.setView([cities[0].lat, cities[0].lng], 8);
+            fetch(`${baseUrl}/assets/germany_states.json`)
+                .then(res => res.json())
+                .then(data => {
+                    const currentStateId = "{{ page.state_id }}";
+                    const stateLayer = L.geoJSON(data, {
+                        filter: function(feature) {
+                            return (feature.id === currentStateId || feature.properties.id === currentStateId);
+                        },
+                        style: {
+                            color: "#2c3e50",
+                            weight: 3,
+                            fillColor: "#3498db",
+                            fillOpacity: 0.1
                         }
-                    });
+                    }).addTo(map);
+                    
+                    if (stateLayer.getLayers().length > 0) {
+                        map.fitBounds(stateLayer.getBounds(), { padding: [30, 30] });
+                    }
+                });
 
-            //處理城市標記
             const cities = {{ page.cities | jsonify }};
-        
             cities.forEach(city => {
                 L.marker([city.lat, city.lng])
                     .addTo(map)
                     .bindPopup(`<b>${city.name}</b><br><a href="${baseUrl}${city.url}">查看景點介紹</a>`);
             });
-
             {% endif %}
         }
     </script>
