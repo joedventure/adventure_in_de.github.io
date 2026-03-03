@@ -94,7 +94,7 @@
             {% elsif page.map_type == "state" %}
             // --- 邦頁面邏輯：顯示邦輪廓與城市標記 ---
             // 1. 載入全德國的 GeoJSON (請確認路徑正確)
-                fetch('{{ site.baseurl }}/assets/geodata/germany_states.json')
+                fetch('{{ site.baseurl }}/assets/germany_states.json')
                     .then(res => res.json())
                     .then(data => {
                         // 2. 篩選出當前頁面的邦 (假設你的 GeoJSON 屬性名稱是 'name')
