@@ -215,7 +215,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Niedersachsen",
+        "name": "下薩克森 (Niedersachsen)",
+		"id": "niedersachsen",
         "cartodb_id": 2,
         "created_at": "2013-11-30T06:05:29+0100",
         "updated_at": "2013-11-30T06:05:29+0100"
@@ -2462,7 +2463,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bremen",
+        "name": "布萊梅 (Bremen)",
+		"id": "bremen",
         "cartodb_id": 3,
         "created_at": "2013-11-30T06:05:29+0100",
         "updated_at": "2013-11-30T06:05:29+0100"
@@ -2624,7 +2626,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nordrhein-Westfalen",
+        "name": "北萊茵-西發利亞 (Nordrhein-Westfalen)",
+		"id": "nordrhein-westfalen",
         "cartodb_id": 4,
         "created_at": "2013-11-30T06:05:29+0100",
         "updated_at": "2013-11-30T06:05:29+0100"
@@ -3877,7 +3880,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hessen",
+        "name": "黑森 (Hessen)",
+		"id": "hessen",
         "cartodb_id": 5,
         "created_at": "2013-11-30T06:05:29+0100",
         "updated_at": "2013-11-30T06:05:29+0100"
@@ -4994,7 +4998,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rheinland-Pfalz",
+        "name": "萊茵蘭-普法爾茨 (Rheinland-Pfalz)",
+		"id": "rheinland-pfalz",
         "cartodb_id": 6,
         "created_at": "2013-11-30T06:05:29+0100",
         "updated_at": "2013-11-30T06:05:29+0100"
@@ -6061,7 +6066,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Baden-Württemberg",
+        "name": "巴登-符騰堡 (Baden-Württemberg)",
+		"id": "baden-wuerttemberg",
         "cartodb_id": 7,
         "created_at": "2013-11-30T06:05:29+0100",
         "updated_at": "2013-11-30T06:05:29+0100"
@@ -7761,7 +7767,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bayern",
+        "name": "巴伐利亞 (Bayern)",
 		"id": "bayern",
         "cartodb_id": 8,
         "created_at": "2013-11-30T06:05:29+0100",
@@ -9807,7 +9813,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Saarland",
+        "name": "薩爾蘭 (Saarland)",
+		"id": "saarland",
         "cartodb_id": 9,
         "created_at": "2013-11-30T06:05:29+0100",
         "updated_at": "2013-11-30T06:05:29+0100"
@@ -10098,7 +10105,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Berlin",
+        "name": "柏林 (Berlin)",
+		"id": "berlin",
         "cartodb_id": 10,
         "created_at": "2013-11-30T06:05:29+0100",
         "updated_at": "2013-11-30T06:05:29+0100"
@@ -10297,7 +10305,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Brandenburg",
+        "name": "布蘭登堡 (Brandenburg)",
+		"id": "brandenburg",
         "cartodb_id": 11,
         "created_at": "2013-11-30T06:05:29+0100",
         "updated_at": "2013-11-30T06:05:29+0100"
@@ -11746,7 +11755,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mecklenburg-Vorpommern",
+        "name": "梅克倫堡-西波美拉尼亞 (Mecklenburg-Vorpommern)",
+		"id": "mecklenburg-vorpommern",
         "cartodb_id": 12,
         "created_at": "2013-11-30T06:05:29+0100",
         "updated_at": "2013-11-30T06:05:29+0100"
@@ -14254,7 +14264,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sachsen",
+        "name": "薩克森 (Sachsen)",
+		"id": "sachsen",
         "cartodb_id": 13,
         "created_at": "2013-11-30T06:05:29+0100",
         "updated_at": "2013-11-30T06:05:29+0100"
@@ -15184,7 +15195,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sachsen-Anhalt",
+        "name": "薩克森-安哈特 (Sachsen-Anhalt)",
+		"id": "sachsen-anhalt",
         "cartodb_id": 14,
         "created_at": "2013-11-30T06:05:29+0100",
         "updated_at": "2013-11-30T06:05:29+0100"
@@ -16164,7 +16176,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Thüringen",
+        "name": "圖林根 (Thüringen)",
+		"id": "thueringen",
         "cartodb_id": 15,
         "created_at": "2013-11-30T06:05:29+0100",
         "updated_at": "2013-11-30T06:05:29+0100"
@@ -17017,7 +17030,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Schleswig-Holstein",
+        "name": "什勒斯維希-霍爾斯坦 (Schleswig-Holstein)",
+		"id": "schleswig-holstein",
         "cartodb_id": 16,
         "created_at": "2013-11-30T06:05:29+0100",
         "updated_at": "2013-11-30T06:05:29+0100"
