@@ -92,8 +92,34 @@
                 });
 
             {% elsif page.map_type == "state" %}
-            // --- 邦頁面邏輯：顯示城市標記 ---
+            // --- 邦頁面邏輯：顯示邦輪廓與城市標記 ---
+            // 1. 載入全德國的 GeoJSON (請確認路徑正確)
+                fetch('{{ site.baseurl }}/assets/geodata/germany_states.json')
+                    .then(res => res.json())
+                    .then(data => {
+                        // 2. 篩選出當前頁面的邦 (假設你的 GeoJSON 屬性名稱是 'name')
+                        // 請根據你 GeoJSON 實際的 properties 欄位名稱修改 'name'
+                        const stateLayer = L.geoJSON(data, {
+                            filter: function(feature) {
+                                return feature.properties.name === "{{ page.title | split: ' ' | first }}"; 
+                                // 這裡用 page.title 的第一個詞（巴伐利亞）去比對
+                            },
+                            style: {
+                                color: "#2c3e50",
+                                weight: 2,
+                                fillColor: "#3498db",
+                                fillOpacity: 0.2
+                            }
+                        }).addTo(map);
+                        
+                        // 3. 自動縮放地圖到該邦的邊界
+                        if (stateLayer.getBounds().isValid()) {
+                            map.fitBounds(stateLayer.getBounds());
+                        }
+                    });
+            
             const cities = {{ page.cities | jsonify }};
+        
             cities.forEach(city => {
                 L.marker([city.lat, city.lng])
                     .addTo(map)
