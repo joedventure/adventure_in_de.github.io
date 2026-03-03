@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 德國冒險地圖：城鎮歷史與景點全紀錄
+title: 德國城鎮歷史景點全紀錄
 map_type: germany
 ---
 
