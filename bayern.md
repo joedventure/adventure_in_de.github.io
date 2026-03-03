@@ -2,6 +2,7 @@
 layout: default
 title: 巴伐利亞 (Bayern)
 map_type: state
+state_id: "bayern"
 permalink: /bayern/
 cities:
   - name: "慕尼黑 (München)"
