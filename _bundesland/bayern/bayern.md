@@ -3,6 +3,7 @@ layout: default
 title: 巴伐利亞 (Bayern)
 map_type: state
 state_id: bayern
+state_name: 巴伐利亞 # name for the return button
 permalink: /bayern/
 slug: bayern
 lang: zh
