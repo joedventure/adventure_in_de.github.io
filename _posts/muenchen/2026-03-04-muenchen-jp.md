@@ -9,7 +9,7 @@ lang: jp
 permalink: /jp/bayern/muenchen/
 ---
 
-THis is english page for M[nchen
+THis is Japanese page for Muenchen
 這是關於慕尼黑（München）的深度旅遊介紹，我們為您整理了五個最具代表性的景點。
 
 ## 瑪利亞廣場 (Marienplatz)
