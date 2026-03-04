@@ -166,7 +166,16 @@
             <div class="nav-buttons">
                 {% comment %} 只要這頁的身分證不是 home，就顯示返回首頁按鈕 {% endcomment %}
                 {% if page.slug != "home" %}
+                    {% comment %} 設定首頁路徑變數 {% endcomment %}
+                    {% assign home_url = "/" %}
+                    {% if page.lang == "en" %}
+                        {% assign home_url = "/en/" %}
+                    {% elsif page.lang == "jp" %}
+                        {% assign home_url = "/jp/" %}
+                    {% endif %}
+                
                     <a href="{{ site.baseurl }}/" class="btn btn-home">
+                        {% comment %} set language display of the button {% endcomment %}
                         {% if page.lang == "en" %} 🏠 Return to Germany Map
                         {% elsif page.lang == "jp" %} 🏠 全ドイツ地圖へ
                         {% else %} 🏠 返回全德地圖
@@ -175,7 +184,17 @@
                 {% endif %}
                 
                 {% if page.layout == "post" %}
+                    {% comment %} 設定州列表路徑變數 {% endcomment %}
+                    {% assign state_url = "/" | append: page.state_id | append: "/" %}
+    
+                    {% if page.lang == "en" %}
+                        {% assign state_url = "/en/" | append: page.state_id | append: "/" %}
+                    {% elsif page.lang == "jp" %}
+                        {% assign state_url = "/jp/" | append: page.state_id | append: "/" %}
+                    {% endif %}
+                
                     <a href="{{ site.baseurl }}/{{ page.state_id }}/" class="btn btn-back">
+                        {% comment %} set language display of the button {% endcomment %}
                         {% if page.lang == "en" %} ⬅️ Back to {{ page.state_name }} List
                         {% elsif page.lang == "jp" %} ⬅️ {{ page.state_name }} 一覧へ
                         {% else %} ⬅️ 返回 {{ page.state_name }} 列表
