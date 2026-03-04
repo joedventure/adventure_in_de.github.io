@@ -146,11 +146,26 @@
         }
         .footer-line { display: block; margin-bottom: 5px; }
 
-        @media (max-width: 900px) {
-            .main-container { flex-direction: column; }
-            .sidebar { order: 2; }
-            #map { height: 400px; }
-        }
+        /* --- 手機版導覽按鈕優化 --- */
+        @media (max-width: 600px) {
+            .nav-buttons {
+                flex-wrap: wrap; /* 允許按鈕自動換行，避免擠壓 */
+                gap: 8px;
+            }
+
+            .btn, .btn-lang {
+                flex: 1 1 auto;   /* 讓按鈕在必要時自動分配寬度 */
+                min-width: fit-content; /* 確保按鈕不會縮小到文字溢出 */
+                padding: 0 12px;  /* 稍微縮小內距以節省空間 */
+                font-size: 13px;  /* 稍微縮小字體 */
+                white-space: nowrap; /* 限制文字不換行 */
+            }
+
+    /* 如果有三個按鈕，讓語言切換按鈕在手機上可以更明顯 */
+    .btn-lang {
+        justify-content: center;
+    }
+}
 
         .leaflet-interactive:hover { cursor: pointer; }
     </style>
