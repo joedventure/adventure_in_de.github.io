@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 德國城鎮歷史景點全紀錄
+title: The Definitive Guide to German Towns: History and Sights
 map_type: germany
 slug: home
 lang: en
 permalink: /en/
 ---
 
-## English Homepage歡迎來到Joe的德國冒險地圖
-請點擊上方地圖中你想探索的邦！
+## Welcome to Joe's German Adventure Map!
+Click on the state in the map above to start exploring!
