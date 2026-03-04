@@ -145,12 +145,9 @@
                     {% for sibling in siblings %}
                         {% if sibling.lang != page.lang %}
                             <a href="{{ sibling.url | relative_url }}" class="btn btn-lang">
-                                {% if sibling.lang == "zh" %}
-                                    <img src="https://flagcdn.com/w20/tw.png" width="20" style="margin-right:5px; vertical-align:middle;"> 中文
-                                {% elsif sibling.lang == "en" %}
-                                    <img src="https://flagcdn.com/w20/us.png" width="20" style="margin-right:5px; vertical-align:middle;"> EN
-                                {% elsif sibling.lang == "jp" %}
-                                    <img src="https://flagcdn.com/w20/jp.png" width="20" style="margin-right:5px; vertical-align:middle;"> JP
+                                {% if sibling.lang == "zh" %} 🇹🇼 中文
+                                {% elsif sibling.lang == "en" %} 🇺🇸 EN
+                                {% elsif sibling.lang == "de" %} 🇩🇪 DE
                                 {% endif %}
                             </a>
                         {% endif %}
@@ -170,26 +167,6 @@
         </main>
 
         <aside class="sidebar">
-            <section class="sidebar-card">
-                <nav class="language-switcher">
-                    {% comment %} 
-                    搜尋範圍改為 site.documents，這能同時抓到 _bundesland 和 _posts 
-                    {% endcomment %}
-                    {% assign all_pages = site.documents %}
-                    {% assign siblings = all_pages | where: "slug", page.slug %}
-                    
-                    {% for sibling in siblings %}
-                    {% if sibling.lang != page.lang %}
-                    <a href="{{ site.baseurl }}{{ sibling.url }}" class="lang-btn">
-                        {% if sibling.lang == "zh" %} 🇹🇼 中文
-                        {% elsif sibling.lang == "en" %} 🇺🇸 EN
-                        {% elsif sibling.lang == "de" %} 🇩🇪 DE
-                        {% endif %}
-                    </a>
-                    {% endif %}
-                    {% endfor %}
-                </nav>
-            </section>
             
             <section class="sidebar-card">
                 <h3>🔍 探索專題</h3>
