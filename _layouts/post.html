@@ -77,14 +77,14 @@ layout: default
 <div class="toc-box" id="toc-container" style="display: none;">
     <div class="toc-title">
         {% if page.lang == "en" %}
-            Table of Contents [<span id="toc-toggle">Show</span>]
+            Table of Contents [<span id="toc-toggle">Hide</span>]
         {% elsif page.lang == "jp" %}
-            目次 [<span id="toc-toggle">表示</span>]
+            目次 [<span id="toc-toggle">非表示</span>]
         {% else %}
-            目錄 [<span id="toc-toggle">顯示</span>]
+            目錄 [<span id="toc-toggle">隱藏</span>]
         {% endif %}
     </div>
-    <ul class="toc-list" id="markdown-toc" style="display: none;">
+    <ul class="toc-list" id="markdown-toc">
         {% comment %} 目錄內容由 JavaScript 動態生成 {% endcomment %}
     </ul>
 </div>
@@ -121,16 +121,16 @@ layout: default
             // 目錄顯示/隱藏切換邏輯
             if (tocToggle) {
                 tocToggle.addEventListener('click', function() {
-                    const isHidden = tocList.style.display === 'none';
-                    tocList.style.display = isHidden ? 'block' : 'none';
+                    const isHidden = tocList.style.display === 'block';
+                    tocList.style.display = isHidden ? 'none' : 'block';
 
                     // 根據語言設定切換按鈕文字
                     if (lang === "en") {
-                        this.textContent = isHidden ? 'Hide' : 'Show';
+                        this.textContent = isHidden ? 'Show' : 'Hide';
                     } else if (lang === "jp") {
-                        this.textContent = isHidden ? '非表示' : '表示';
+                        this.textContent = isHidden ? '表示' : '非表示';
                     } else {
-                        this.textContent = isHidden ? '隱藏' : '顯示';
+                        this.textContent = isHidden ? '顯示' : '隱藏';
                     }
                 });
             }
