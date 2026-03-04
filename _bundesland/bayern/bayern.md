@@ -4,6 +4,8 @@ title: 巴伐利亞 (Bayern)
 map_type: state
 state_id: bayern
 permalink: /bayern/
+slug: bayern
+lang: zh
 cities:
   - name: "慕尼黑 (München)"
     lat: 48.1351
