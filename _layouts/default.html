@@ -115,14 +115,20 @@
         /* --- 導覽按鈕 --- */
         .nav-buttons { margin-bottom: 20px; display: flex; gap: 10px; }
         .btn { 
-            padding: 8px 18px; 
+            display: inline-flex;    /* 讓按鈕變成彈性盒子，這是置中的關鍵 */
+            align-items: center;     /* 垂直置中 */
+            justify-content: center; /* 水平置中 */
+            height: 38px;            /* 強制高度與 .btn-lang 一致 (38px) */
+            padding: 0 18px;         /* 左右維持間距，上下交給 height 處理 */
             border-radius: 25px; 
             text-decoration: none; 
             color: white; 
             font-size: 14px; 
             font-weight: 500;
             transition: opacity 0.2s;
+            line-height: 1;          /* 消除行高干擾，讓垂直置中更精準 */
         }
+        
         .btn-home { background: #2c3e50; }
         .btn-back { background: #2c3e50; }
         .btn:hover { opacity: 0.9; }
