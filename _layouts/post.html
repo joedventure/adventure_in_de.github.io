@@ -29,6 +29,15 @@ layout: default
         text-align: center;
         margin-bottom: 8px;
     }
+    #toc-toggle {
+        cursor: pointer;
+        color: #0645ad;
+        font-weight: normal;
+        font-size: 0.85em;
+        margin-left: 5px;
+    }
+    #toc-toggle:hover { text-decoration: underline; }
+    
     .toc-list {
         list-style: none;
         padding-left: 0;
@@ -57,7 +66,7 @@ layout: default
         {% if page.lang == "en" %}
             📍 You are in: {{ page.state_name }}
         {% elsif page.lang == "jp" %}
-            📍 現在地：{{ page.state_name }}
+            📍 現在地：{{ page.state_name }}{% unless page.state_name contains "州" %}州{% endunless %}
         {% else %}
             📍 所在聯邦州：{{ page.state_name }}
         {% endif %}
@@ -75,8 +84,8 @@ layout: default
             目錄 [<span id="toc-toggle">顯示</span>]
         {% endif %}
     </div>
-    <ul class="toc-list" id="markdown-toc">
-        {% comment %} 目錄內容由 JavaScript 或 kramdown 自動生成 {% endcomment %}
+    <ul class="toc-list" id="markdown-toc" style="display: none;">
+        {% comment %} 目錄內容由 JavaScript 動態生成 {% endcomment %}
     </ul>
 </div>
 
@@ -88,17 +97,18 @@ layout: default
     document.addEventListener("DOMContentLoaded", function() {
         const tocList = document.getElementById('markdown-toc');
         const tocContainer = document.getElementById('toc-container');
-        // 抓取文章內所有的 h2 標籤 (即景點標題)
+        const tocToggle = document.getElementById('toc-toggle');
         const headings = document.querySelectorAll('.post-content h2');
+        const lang = "{{ page.lang }}";
         
         if (headings.length > 0) {
-            tocContainer.style.display = 'table'; // 有景點才顯示目錄
+            tocContainer.style.display = 'table'; 
+            
+            // 生成目錄列表
             headings.forEach((heading, index) => {
-                // 為每個 h2 設定 ID 以便錨點跳轉
                 const id = `spot-${index}`;
                 heading.setAttribute('id', id);
                 
-                // 建立目錄清單項
                 const li = document.createElement('li');
                 const a = document.createElement('a');
                 a.href = `#${id}`;
@@ -107,6 +117,23 @@ layout: default
                 li.appendChild(a);
                 tocList.appendChild(li);
             });
+
+            // 目錄顯示/隱藏切換邏輯
+            if (tocToggle) {
+                tocToggle.addEventListener('click', function() {
+                    const isHidden = tocList.style.display === 'none';
+                    tocList.style.display = isHidden ? 'block' : 'none';
+
+                    // 根據語言設定切換按鈕文字
+                    if (lang === "en") {
+                        this.textContent = isHidden ? 'Hide' : 'Show';
+                    } else if (lang === "jp") {
+                        this.textContent = isHidden ? '非表示' : '表示';
+                    } else {
+                        this.textContent = isHidden ? '隱藏' : '顯示';
+                    }
+                });
+            }
         }
     });
 </script>
