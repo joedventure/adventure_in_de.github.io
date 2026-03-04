@@ -8,9 +8,9 @@ slug: berlin
 lang: zh
 cities:
   - name: "柏林 (Berlin)"
-    lat: 52.3112  
-    lng: 13.2418
-    url: "/berlin/berlin/"
+    lat: 52.52  
+    lng: 13.405
+    url: "/berlin/berlin-city/"
 ---
 
 ### 柏林熱門景點
