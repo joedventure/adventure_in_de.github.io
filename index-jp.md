@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 德國城鎮歷史景點全紀錄
+title: ドイツの町の歴史と観光スポット完全記録
 map_type: germany
 slug: home
 lang: jp
 permalink: /jp/
 ---
 
-## Japanese homepage 歡迎來到Joe的德國冒險地圖
-請點擊上方地圖中你想探索的邦！
+## Joeのドイツ冒険マップへようこそ
+上の地図から、探索したい州をクリックしてください！
