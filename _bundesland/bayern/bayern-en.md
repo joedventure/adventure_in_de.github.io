@@ -3,6 +3,7 @@ layout: default
 title: 巴伐利亞 (Bayern)
 map_type: state
 state_id: bayern
+state_name: Bavaria # name for the return button
 permalink: /en/bayern/
 slug: bayern
 lang: en
@@ -17,5 +18,5 @@ cities:
     url: "/bayern/nuernberg/"
 ---
 
-### Bayern in English
+### Bayern in Japanese
 點擊地圖上的大頭針，查看更深入的景點解析。
