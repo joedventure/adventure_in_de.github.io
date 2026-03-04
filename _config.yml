@@ -7,6 +7,12 @@ baseurl: "/adventure_in_de" # 如果是個人主頁則留空 ""
 url: "https://joedventure.github.io"
 
 permalink: /:categories/:title/
+
+# 集合設定 (針對底線資料夾)
+collections:
+  bundesland:
+    output: true
+    
 markdown: kramdown
 theme: minima # 或自定義主題
 
