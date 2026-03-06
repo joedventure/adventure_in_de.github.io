@@ -1,1 +1,21 @@
-add city data here
+bayern:
+  - zh_name: "慕尼黑 (München)"
+    en_name: "Munich (München)"
+    jp_name: "ミュンヘン (München)"
+    lat: 48.1351
+    lng: 11.5820
+    url: "/bayern/muenchen/"
+  - zh_name: "紐倫堡 (Nürnberg)"
+    en_name: "Nuremberg (Nürnberg)"
+    jp_name: "ニュルンベルク (Nürnberg)"
+    lat: 49.4521
+    lng: 11.0767
+    url: "/bayern/nuernberg/"
+
+berlin:
+  - zh_name: "柏林 (Berlin)"
+    en_name: "Berlin (Berlin)"
+    jp_name: "ベルリン (Berlin)"
+    lat: 52.52
+    lng: 13.405
+    url: "/berlin/berlin-city/"
