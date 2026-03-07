@@ -492,6 +492,9 @@
 
             // 2. 顯示城市圖釘 (更新為從 _data/cities.yml 抓取)
             const stateCities = [
+                {% assign current_page_lang = page.lang | default: "zh" %} // 設定預設值防止為空
+                {% assign name_key = current_page_lang | append: "_name" %}
+        
                 {% assign raw_cities = site.data.cities[page.state_id] %}
                 {% for city in raw_cities %}
                     {
