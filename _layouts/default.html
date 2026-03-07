@@ -498,7 +498,7 @@
                 {% assign raw_cities = site.data.cities[page.state_id] %}
                 {% for city in raw_cities %}
                     {
-                        "name": {{ city.[page.lang | append: "_name"] | jsonify }},
+                        "name": {{ city[name_key] | jsonify }},
                         "lat": {{ city.lat }},
                         "lng": {{ city.lng }},
                         "url": {{ city.url | jsonify }}
