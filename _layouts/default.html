@@ -387,6 +387,7 @@
                 attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             }).addTo(map);
 
+            // Set map style for the home page
             {% if page.map_type == "germany" %}
             let geojson;
             function style(feature) { return { fillOpacity: 0.1, color: "#3498db", weight: 2 }; }
@@ -423,6 +424,7 @@
                     }).addTo(map);
                 });
 
+            // Set map style for each state
             {% elsif page.map_type == "state" %}
             fetch(`${baseUrl}/assets/germany_states.json`)
                 .then(res => res.json())
