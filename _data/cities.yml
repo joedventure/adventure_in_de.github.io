@@ -1,5 +1,11 @@
 baden-wuerttemberg:
-
+  - zh_name: 
+    en_name: 
+    jp_name: 
+    lat: 
+    lng: 
+    url: 
+    
 bayern:
   - zh_name: "慕尼黑 (München)"
     en_name: "Munich (München)"
@@ -23,27 +29,106 @@ berlin:
     url: "/berlin/berlin-city/"
 
 brandenburg:
-
+  - zh_name: 
+    en_name: 
+    jp_name: 
+    lat: 
+    lng: 
+    url: 
+    
 bremen:
-
+  - zh_name: 
+    en_name: 
+    jp_name: 
+    lat: 
+    lng: 
+    url: 
+    
 hamburg:
-
+  - zh_name: 
+    en_name: 
+    jp_name: 
+    lat: 
+    lng: 
+    url: 
+    
 hessen:
-
+  - zh_name: 
+    en_name: 
+    jp_name: 
+    lat: 
+    lng: 
+    url: 
+    
 mecklenburg-vorpommern:
-
+  - zh_name: 
+    en_name: 
+    jp_name: 
+    lat: 
+    lng: 
+    url: 
+    
 niedersachsen:
-
+  - zh_name: 
+    en_name: 
+    jp_name: 
+    lat: 
+    lng: 
+    url: 
+    
 nordrhein-westfalen:
-
+  - zh_name: 
+    en_name: 
+    jp_name: 
+    lat: 
+    lng: 
+    url: 
+    
 rheinland-pfalz:
-
+  - zh_name: 
+    en_name: 
+    jp_name: 
+    lat: 
+    lng: 
+    url: 
+    
 saarland:
-
+  - zh_name: 
+    en_name: 
+    jp_name: 
+    lat: 
+    lng: 
+    url: 
+    
 sachsen-anhalt:
-
+  - zh_name: 
+    en_name: 
+    jp_name: 
+    lat: 
+    lng: 
+    url: 
+    
 sachsen:
-
+  - zh_name: 
+    en_name: 
+    jp_name: 
+    lat: 
+    lng: 
+    url: 
+    
 schleswig-holstein:
-
+  - zh_name: 
+    en_name: 
+    jp_name: 
+    lat: 
+    lng: 
+    url: 
+    
 thueringen:
+  - zh_name: 
+    en_name: 
+    jp_name: 
+    lat: 
+    lng: 
+    url: 
+    
