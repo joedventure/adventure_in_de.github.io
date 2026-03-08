@@ -113,7 +113,7 @@ layout: default
         {% elsif page.lang == "jp" %}
             📍 現在地：{{ page.state_name }}{% unless page.state_name contains "州" %}州{% endunless %}
         {% else %}
-            📍 所在聯邦州：{{ page.state_name }}
+            📍 所在聯邦：{{ page.state_name }}
         {% endif %}
     </span>
     {% endif %}
