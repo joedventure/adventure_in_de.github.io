@@ -69,8 +69,26 @@ layout: default
         line-height: 1.4;
     }
 
+      /* --- 圖片自動縮放 --- */
+    .post-content img {
+        display: block;
+        /* 在手機上自動適應寬度，最高不超過容器 */
+        width: 100%; 
+        /* 設定最大寬度，避免在電腦版看圖片太大（可依喜好調整，如 600px） */
+        max-width: 600px; 
+        height: auto;
+        margin: 2em auto; /* 上下留空，水平置中 */
+        border-radius: 8px; /* 圓角 */
+        box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* 淡淡的陰影 */
+    }
+
     /* --- 手機版 RWD 修正 --- */
     @media (max-width: 900px) {
+        .post-content img {
+            max-width: 100%; /* 手機版讓它貼近邊界 */
+            margin: 1.5em auto;
+        }
+      
         .info-row {
             flex-direction: column; /* 讓目錄與地圖垂直排列 */
             gap: 15px;
