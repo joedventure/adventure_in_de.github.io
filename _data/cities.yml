@@ -1,3 +1,5 @@
+baden-wuerttemberg:
+
 bayern:
   - zh_name: "慕尼黑 (München)"
     en_name: "Munich (München)"
@@ -19,3 +21,29 @@ berlin:
     lat: 52.52
     lng: 13.405
     url: "/berlin/berlin-city/"
+
+brandenburg:
+
+bremen:
+
+hamburg:
+
+hessen:
+
+mecklenburg-vorpommern:
+
+niedersachsen:
+
+nordrhein-westfalen:
+
+rheinland-pfalz:
+
+saarland:
+
+sachsen-anhalt:
+
+sachsen:
+
+schleswig-holstein:
+
+thueringen:
