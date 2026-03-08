@@ -8,6 +8,10 @@ url: "https://joedventure.github.io"
 
 permalink: /:categories/:title/
 
+#add _image folder for website
+include:
+  - _image
+  
 # 集合設定 (針對底線資料夾)
 collections:
   bundesland:
