@@ -17,6 +17,12 @@ baden-wuerttemberg:
     lat: 47.9990
     lng: 7.8421
     url: "/baden-wuerttemberg/freiburg/"
+  - zh_name: "埃伯巴赫 (Eberbach)"
+    en_name: "Eberbach"
+    jp_name: "エーベルバッハ (Eberbach)"
+    lat: 49.4639
+    lng: 8.9858
+    url: "/baden-wuerttemberg/eberbach/"
     
 bayern:
   - zh_name: "慕尼黑 (München)"
@@ -143,6 +149,30 @@ hessen:
     lat: 49.9833
     lng: 7.9306
     url: "/hessen/ruedesheim/"
+  - zh_name: "希爾施霍恩 (Hirschhorn (Neckar))"
+    en_name: "Hirschhorn (Neckar)"
+    jp_name: "ヒルシュホルン (Hirschhorn (Neckar))"
+    lat: 49.4469
+    lng: 8.8986
+    url: "/baden-wuerttemberg/hirschhorn/" 
+  - zh_name: "布羅伊貝格 (Breuberg)"
+    en_name: "Breuberg"
+    jp_name: "ブロイベルク (Breuberg)"
+    lat: 49.8189
+    lng: 9.0347
+    url: "/hessen/breuberg/"
+  - zh_name: "伊德施泰因 (Idstein)"
+    en_name: "Idstein"
+    jp_name: "イドシュタイン (Idstein)"
+    lat: 50.2206
+    lng: 8.2694
+    url: "/hessen/idstein/"
+  - zh_name: "梅塞爾 (Messel)"
+    en_name: "Messel"
+    jp_name: "メッセル (Messel)"
+    lat: 49.9389
+    lng: 8.7417
+    url: "/hessen/messel/"
     
 mecklenburg-vorpommern:
   - zh_name: "施威林 (Schwerin)"
@@ -271,7 +301,13 @@ sachsen:
     lat: 51.3397
     lng: 12.3731
     url: "/sachsen/leipzig/"
-    
+  - zh_name: "邁森 (Meissen)"
+    en_name: "Meissen"
+    jp_name: "マイセン (Meissen)"
+    lat: 51.1636
+    lng: 13.4775
+    url: "/sachsen/meissen/"
+
 schleswig-holstein:
   - zh_name: "呂貝克 (Lübeck)"
     en_name: "Lübeck"
