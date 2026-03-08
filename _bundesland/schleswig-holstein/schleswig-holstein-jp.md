@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: シュレースヴィヒ＝ホルシュタイン州 (Schleswig-Holstein)       #need to fit translation
