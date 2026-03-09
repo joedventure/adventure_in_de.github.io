@@ -26,13 +26,13 @@ baden-wuerttemberg:
     
 bayern:
   - zh_name: "慕尼黑 (München)"
-    en_name: "Munich (München)"
+    en_name: "Munich"
     jp_name: "ミュンヘン (München)"
     lat: 48.1351
     lng: 11.5820
     url: "/bayern/muenchen/"
   - zh_name: "紐倫堡 (Nürnberg)"
-    en_name: "Nuremberg (Nürnberg)"
+    en_name: "Nuremberg"
     jp_name: "ニュルンベルク (Nürnberg)"
     lat: 49.4521
     lng: 11.0767
@@ -46,16 +46,16 @@ bayern:
     
 berlin:
   - zh_name: "柏林 (Berlin)"
-    en_name: "Berlin (Berlin)"
+    en_name: "Berlin"
     jp_name: "ベルリン (Berlin)"
     lat: 52.52
     lng: 13.405
     url: "/berlin/berlin-city/"
 
 brandenburg:
-  - zh_name: "奧得河畔法蘭克福 (Frankfurt an der Oder)"
-    en_name: "Frankfurt an der Oder"
-    jp_name: "フランクフルト・アン・デア・オーダー (Frankfurt an der Oder)"
+  - zh_name: "奧得河畔法蘭克福 (Frankfurt Oder)"
+    en_name: "Frankfurt Oder"
+    jp_name: "フランクフルト・アン・デア・オーダー (Frankfurt Oder)"
     lat: 52.3419
     lng: 14.5517
     url: "/brandenburg/frankfurt-oder/"
@@ -161,7 +161,7 @@ hessen:
     lat: 49.8189
     lng: 9.0347
     url: "/hessen/breuberg/"
-  - zh_name: "伊德施泰因 (Idstein)"
+  - zh_name: "伊德斯坦 (Idstein)"
     en_name: "Idstein"
     jp_name: "イドシュタイン (Idstein)"
     lat: 50.2206
@@ -190,7 +190,7 @@ mecklenburg-vorpommern:
     
 niedersachsen:
   - zh_name: "漢諾威 (Hannover)"
-    en_name: "Hanover (Hannover)"
+    en_name: "Hanover"
     jp_name: "ハノーファー (Hannover)"
     lat: 52.3759
     lng: 9.7320
@@ -198,7 +198,7 @@ niedersachsen:
     
 nordrhein-westfalen:
   - zh_name: "科隆 (Köln)"
-    en_name: "Cologne (Köln)"
+    en_name: "Cologne"
     jp_name: "ケルン (Köln)"
     lat: 50.9364
     lng: 6.9528
@@ -243,7 +243,7 @@ rheinland-pfalz:
     url: "/rheinland-pfalz/speyer/"
   - zh_name: "巴特明斯特 (Bad Münster am Stein-Ebernburg)"
     en_name: "Bad Münster am Stein-Ebernburg"
-    jp_name: "バート・ミュンスター・アム・シュタイン＝エーベルンブルク"
+    jp_name: "バート・ミュンスター・アム・シュタイン＝エーベルンブルク  (Bad Münster am Stein-Ebernburg)"
     lat: 49.8092
     lng: 7.8439
     url: "/rheinland-pfalz/bad-muenster/"
