@@ -1,0 +1,98 @@
+---
+layout: post
+---
+
+<style>
+    /* 1. 隱藏原本 post.html 的靜態小地圖 */
+    .city-static-map-container { display: none !important; }
+
+    /* 2. 調整 info-row 確保目錄與大地圖並排，空間不足則換行 */
+    .info-row {
+        display: flex;
+        flex-wrap: wrap; 
+        gap: 20px;
+        align-items: stretch;
+        margin: 20px 0;
+    }
+
+    /* 3. 大地圖容器樣式 */
+    .special-map-container {
+        flex: 2 1 450px; /* 寬度優先分配給地圖，低於 450px 則換行 */
+        border: 1px solid #a2a9b1;
+        background: #fff;
+        padding: 5px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        display: flex;
+        flex-direction: column;
+    }
+
+    #interactive-map {
+        height: 400px;
+        width: 100%;
+        background: #e9ecef;
+    }
+
+    @media (max-width: 900px) {
+        .special-map-container {
+            flex: 1 1 auto;
+            width: 100%;
+        }
+        #interactive-map { height: 300px; }
+    }
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const infoRow = document.querySelector('.info-row');
+    if (!infoRow) return;
+
+    // 1. 動態插入大地圖 HTML 到 TOC 旁邊
+    const mapContainer = document.createElement('div');
+    mapContainer.className = 'special-map-container';
+    mapContainer.innerHTML = `
+        <div id="interactive-map"></div>
+        <div class="map-caption">
+            <strong>{% if page.lang == "zh" %}中萊茵河谷城堡分佈圖{% elsif page.lang == "jp" %}中ライン渓谷の城マップ{% else %}Middle Rhine Castles Map{% endif %}</strong>
+        </div>
+    `;
+    infoRow.appendChild(mapContainer);
+
+    // 2. 初始化 Leaflet 地圖
+    const mapCenter = [{{ page.map_center | default: "50.05, 7.75" }}];
+    const zoomLevel = {{ page.map_zoom | default: 11 }};
+    const interactiveMap = L.map('interactive-map').setView(mapCenter, zoomLevel);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; OpenStreetMap'
+    }).addTo(interactiveMap);
+
+    // 3. 載入 GeoJSON (德國州界)
+    fetch("{{ site.baseurl }}/assets/germany_states.json")
+        .then(res => res.json())
+        .then(data => {
+            L.geoJSON(data, {
+                style: { color: "#2c3e50", weight: 1, fillOpacity: 0.03 }
+            }).addTo(interactiveMap);
+        });
+
+    // 4. 從 _data 資料夾載入標點
+    const locations = [
+      {% assign data_name = page.data_source %}
+      {% if site.data[data_name] %}
+        {% for item in site.data[data_name] %}
+        {
+          name: "{{ item[page.lang | append: '_name'] | default: item.en_name }}",
+          lat: {{ item.lat }},
+          lng: {{ item.lng }}
+        }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      {% endif %}
+    ];
+
+    locations.forEach(loc => {
+        const marker = L.marker([loc.lat, loc.lng]).addTo(interactiveMap);
+        marker.bindPopup(`<b>${loc.name}</b>`);
+        marker.bindTooltip(loc.name, { direction: 'top', offset: [0, -10] });
+    });
+});
+</script>
