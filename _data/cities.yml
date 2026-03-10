@@ -283,7 +283,7 @@ rheinland-pfalz:
     lat: 50.3597
     lng: 7.5978
     url: "/rheinland-pfalz/koblenz/"
-- zh_name: "克洛普城堡 (Burg Klopp)"
+  - zh_name: "克洛普城堡 (Burg Klopp)"
     en_name: "Burg Klopp"
     jp_name: "クロップ城 (Burg Klopp)"
     lat: 49.9657
