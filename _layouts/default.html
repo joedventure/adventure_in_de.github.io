@@ -519,10 +519,20 @@
             ];
 
             if (typeof map !== 'undefined' && stateCities.length > 0) {
+                // 1. 定義標籤翻譯
+                const uilabel = {
+                    'zh': '點擊查看',
+                    'en': 'View Details',
+                    'jp': '詳細を見る'
+                };
+
+                // 2. 取得目前的標籤
+                const label = uiLabels[currentLang] || uiLabels['zh']; // 預設中文
+                
                 stateCities.forEach(city => {
                     L.marker([city.lat, city.lng])
                         .addTo(map)
-                        .bindPopup(`<a href="${getLangPath(city.url)}"><b>👉 ${city.name}</b></a>`);
+                        .bindPopup(`<b>${city.name}</b><br><a href="${getLangPath(city.url)}">👉 ${label}</a>`);
                 });
             }
             {% endif %}
