@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: special
 title: "中萊茵河谷城堡巡禮"
-show_map: false
-slug: mittelrheintal
 lang: zh
+data_source: rhein_castle
+map_center: 49.97, 7.89
 permalink: /mittelrheintal/
 ---
 
