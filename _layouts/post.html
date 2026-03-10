@@ -3,14 +3,15 @@ layout: default
 ---
 
 {% comment %} 1. 從 _data/cities.yml 根據 URL 抓取該城市的座標資料 {% endcomment %}
-{% assign current_city = nil %}
-{% assign state_data = site.data.cities[page.state_id] %}
-{% for city in state_data %}
-  {% if page.url contains city.url %}
-    {% assign current_city = city %}
-    {% break %}
-  {% endif %}
-{% endfor %}
+{% if page.layout == "post" %}
+  {% assign current_city = nil %}
+  {% assign state_data = site.data.cities[page.state_id] %}
+  {% for city in state_data %}
+    {% if page.url contains city.url %}
+      {% assign current_city = city %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
 
 <style>
     .post-header { margin-bottom: 30px; }
