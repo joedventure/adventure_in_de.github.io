@@ -462,7 +462,7 @@
             }
             function resetHighlight(e) { geojson.resetStyle(e.target); }
 
-            fetch(`${baseUrl}/assets/germany_states.json`)
+            fetch(`${baseUrl}/_data/germany_states.json`)
                 .then(res => res.json())
                 .then(data => {
                     geojson = L.geoJSON(data, {
@@ -491,7 +491,7 @@
             // Set map style for each state
             {% elsif page.map_type == "state" %}
             // 1. 顯示州邊界 (保持你原本的邏輯)
-            fetch(`${baseUrl}/assets/germany_states.json`)
+            fetch(`${baseUrl}/_data/germany_states.json`)
                 .then(res => res.json())
                 .then(data => {
                     const currentStateId = "{{ page.state_id }}";
