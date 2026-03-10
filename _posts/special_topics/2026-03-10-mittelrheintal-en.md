@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "A Journey Through the Castles of the Middle Rhine"
