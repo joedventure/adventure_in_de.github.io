@@ -490,51 +490,53 @@
 
             // Set map style for each state
             {% elsif page.map_type == "state" %}
-            // 1. 顯示州邊界 (保持你原本的邏輯)
-            fetch(`${baseUrl}/assets/germany_states.json`)
-                .then(res => res.json())
-                .then(data => {
-                    const currentStateId = "{{ page.state_id }}";
-                    const stateLayer = L.geoJSON(data, {
-                        filter: (feature) => (feature.id === currentStateId || feature.properties.id === currentStateId),
-                        style: { color: "#2c3e50", weight: 3, fillColor: "#3498db", fillOpacity: 0.1 }
-                    }).addTo(map);
-                    if (stateLayer.getLayers().length > 0) map.fitBounds(stateLayer.getBounds(), { padding: [30, 30] });
-                });
-
-            // 2. 顯示城市圖釘 (更新為從 _data/cities.yml 抓取)
-            const stateCities = [
-                {% assign current_page_lang = page.lang | default: "zh" %} // 設定預設值防止為空
-                {% assign name_key = current_page_lang | append: "_name" %}
-        
+                {% assign lang = page.lang | default: "zh" %}
+                {% assign name_key = lang | append: "_name" %}
                 {% assign raw_cities = site.data.cities[page.state_id] %}
-                {% for city in raw_cities %}
+
+                const currentLang = "{{ lang }}";
+                const labels = {
+                    "zh": "點擊查看",
+                    "en": "View Details",
+                    "jp": "詳細を見る",
+                };
+                const label = labels[currentLang] || labels["zh"];
+
+                fetch(`${baseUrl}/assets/germany_states.json`)
+                    .then(res => res.json())
+                    .then(data => {
+                        const currentStateId = "{{ page.state_id }}";
+                        const stateLayer = L.geoJSON(data, {
+                            filter: (f) => (f.id === currentStateId || f.properties.id === currentStateId),
+                            style: { color: "#2c3e50", weight: 3, fillColor: "#3498db", fillOpacity: 0.1 }
+                        }).addTo(map);
+                        if (stateLayer.getLayers().length > 0) map.fitBounds(stateLayer.getBounds(), { padding: [30, 30] });
+                    });
+
+                const stateCities = [
+                    {% for city in raw_cities %}
                     {
                         "name": {{ city[name_key] | jsonify }},
                         "lat": {{ city.lat }},
                         "lng": {{ city.lng }},
                         "url": {{ city.url | jsonify }}
                     }{% unless forloop.last %},{% endunless %}
-                {% endfor %}
-            ];
+                    {% endfor %}
+                ];
 
-            if (typeof map !== 'undefined' && stateCities.length > 0) {
-                // 1. 定義標籤翻譯
-                const uilabel = {
-                    'zh': '點擊查看',
-                    'en': 'View Details',
-                    'jp': '詳細を見る'
-                };
-
-                // 2. 取得目前的標籤
-                const label = uiLabels[current_page_lang] || uiLabels['zh']; // 預設中文
-                
-                stateCities.forEach(city => {
-                    L.marker([city.lat, city.lng])
-                        .addTo(map)
-                        .bindPopup(`<b>${city.name}</b><br><a href="${getLangPath(city.url)}">👉 ${label}</a>`);
-                });
-            }
+                if (typeof map !== 'undefined' && stateCities.length > 0) {
+                    stateCities.forEach(city => {
+                        L.marker([city.lat, city.lng])
+                            .addTo(map)
+                            .bindPopup(`
+                                <b>${city.name}</b>
+                                ${city.url 
+                                    ? `<br><a href="${getLangPath(city.url)}">👉 ${label}</a>` 
+                                    : ''
+                                }
+                            `);
+                    });
+                }
             {% endif %}
         }
     </script>
