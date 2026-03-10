@@ -462,7 +462,7 @@
             }
             function resetHighlight(e) { geojson.resetStyle(e.target); }
 
-            fetch(`${baseUrl}/data/germany_states.json`)
+            fetch(`${baseUrl}/assets/germany_states.json`)
                 .then(res => res.json())
                 .then(data => {
                     geojson = L.geoJSON(data, {
@@ -491,7 +491,7 @@
             // Set map style for each state
             {% elsif page.map_type == "state" %}
             // 1. 顯示州邊界 (保持你原本的邏輯)
-            fetch(`${baseUrl}/data/germany_states.json`)
+            fetch(`${baseUrl}/assets/germany_states.json`)
                 .then(res => res.json())
                 .then(data => {
                     const currentStateId = "{{ page.state_id }}";
@@ -502,7 +502,7 @@
                     if (stateLayer.getLayers().length > 0) map.fitBounds(stateLayer.getBounds(), { padding: [30, 30] });
                 });
 
-            // 2. 顯示城市圖釘 (更新為從 data/cities.yml 抓取)
+            // 2. 顯示城市圖釘 (更新為從 _data/cities.yml 抓取)
             const stateCities = [
                 {% assign current_page_lang = page.lang | default: "zh" %} // 設定預設值防止為空
                 {% assign name_key = current_page_lang | append: "_name" %}
