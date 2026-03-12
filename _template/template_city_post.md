@@ -9,7 +9,7 @@ lang: jp #choose from zh, en, jp
 permalink: /jp/berlin/berlin-city/ #add /jp or /en infront of /state/city/. If in zh, then just use /state/city/
 ---
 
-これはベルリンの最も象徴的な 5 つの観光スポットを紹介する詳細な旅行ガイドです。
+柏林歷史與景點介紹
 
 ## Berlin1 
 abc
