@@ -58,8 +58,8 @@ bayern:
   - zh_name: "烏茲堡 (Würzburg)"
     en_name: "Würzburg"
     jp_name: "ヴュルツブルク (Würzburg)"
-    lat: 49.7913
-    lng: 9.9534
+    lat: 49.802 
+    lng: 9.936
     url: "/bayern/wuerzburg/"
     
 berlin:
