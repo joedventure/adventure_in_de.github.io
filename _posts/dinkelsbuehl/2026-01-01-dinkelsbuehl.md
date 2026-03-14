@@ -2,11 +2,11 @@
 layout: post
 title: "丁克爾斯比爾歷史與景點介紹" 
 state_name: "巴伐利亞"
-state_id: "berlin" #state_in needs to fit
+state_id: "bayern" 
 show_map: false
 slug: dinkelsbuehl
 lang: zh
-permalink: /bauern/dinkelsbuehl/ 
+permalink: /bayern/dinkelsbuehl/ 
 ---
 
 ## 丁克爾斯比爾城市歷史
