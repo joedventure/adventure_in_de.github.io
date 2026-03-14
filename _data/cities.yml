@@ -60,7 +60,7 @@ bayern:
     jp_name: "ヴュルツブルク (Würzburg)"
     lat: 49.7913
     lng: 9.9534
-    url: "/bayern/Wuerzburg/"
+    url: "/bayern/wuerzburg/"
     
 berlin:
   - zh_name: "柏林 (Berlin)"
