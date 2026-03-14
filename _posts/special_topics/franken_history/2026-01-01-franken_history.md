@@ -13,7 +13,9 @@ permalink: /franken_history/
 接下來就讓我們回到中世紀，了解一下法蘭克尼亞的過去。
 
 ## 上古時代
-![測試圖片]（{{ site.baseurl }}/_image/test_img.jpg）
+![Franken-1]({{ site.baseurl }}/_image/franken-1.png)
+<sup><sub>法蘭克王國五世紀中葉<sup><sub>
+<sup><sub>擷取自Droysen, Allgemeiner historischer Handatlas  （Bielefeld und Leipzig: Verlag von Velhagen & Klasing, 1886）<sup><sub>
 
 法蘭克尼亞地區早在西元前800年左右的青銅器時代就有凱爾特人（Kelten）定居的蹤跡。根據記載，羅馬帝國時期這片美因河流域是日耳曼部落的居住地，其中包括馬科曼尼人（Markomannen），他們在西元前7世紀到3世紀期間被羅馬帝國擊退後向東遷徙，以及後來的赫蒙都人（Hermunduren）。
 
@@ -21,11 +23,13 @@ permalink: /franken_history/
 
 至於法蘭克尼亞北部，則是在西元3至5世紀由法蘭克人（Franken）佔據。法蘭克人原本是居住在萊茵河下游附近的日耳曼民族。他們的名字直到公元3世紀左右才首次出現，但最初的法蘭克部落早已為羅馬人所熟知。一般來說，居住在羅馬帝國北疆萊茵河沿岸的法蘭克人，歷史學家通常將他們分為兩類：西岸的薩利安法蘭克人（Saliens）和東岸的利普里安法蘭克人（Ripuarier），也稱為萊茵法蘭克人（Rheinfranken）。值得一提的是，利普里安法蘭克人曾經征服了羅馬邊境城市科隆（Köln）。文獻中對於利普里安法蘭克人的記載並不多，他們一登場便被納入法蘭克王國墨洛溫王朝（Merowinger）的核心地區—奧斯特拉西亞（Austrasien）。這個地區涵蓋了現在的法蘭克尼亞北部，一直延伸到萊茵河下游。這一時期正值中國魏晉南北朝時代。
 
-Image Source: Droysen, Allgemeiner historischer Handatlas  （Bielefeld und Leipzig: Verlag von Velhagen & Klasing, 1886） S. 19. 1954 taken over by Cornelsen Verlag
-
 註：內文的原文註解以德文為主，與羅馬帝國相關的人物及專有名詞原則上用拉丁文，城市名以現在當地的語言標注，西元前及西元後分別以拉丁文BC與AD標注。
 
 ## 法蘭克王國的崛起與墨洛溫王朝
+![Franken-2]({{ site.baseurl }}/_image/franken-2.png)
+<sup><sub>法蘭克王國，西元511年。<sup><sub>
+<sup><sub>擷取自Droysen, Allgemeiner historischer Handatlas  （Bielefeld und Leipzig: Verlag von Velhagen & Klasing, 1886）<sup><sub>
+
 起源於萊茵河下游的薩利安法蘭克人在西元358年被羅馬擊敗後，遷至羅馬境內的高盧東北（現比利時圖爾奈）定居。 據載，西元481年薩利安法蘭克人的領袖克洛維一世（Chlodwig I）在征服了鄰近的幾個法蘭克部落後稱王，歷史上的墨洛溫王朝正式登場。
 
 後來的幾年裡，克洛維一世不斷向外擴張： 
@@ -39,7 +43,7 @@ Image Source: Droysen, Allgemeiner historischer Handatlas  （Bielefeld und Leip
 
 克洛維一世於西元511年在巴黎逝世，葬於聖德尼聖殿。按照傳統，法蘭克王國被分割給他的四個兒子，形成了以梅斯（Metz，包含現在的法蘭克亞地區）、奧爾良（Orléans）、巴黎（Paris）和蘇瓦松（Soissons）為中心的四個獨立公國。
 
-法蘭克王國，西元511年。 Image Source: Droysen, Allgemeiner historischer Handatlas （Bielefeld und Leipzig: Verlag von Velhagen & Klasing, 1886）
+
 
 ## 奧斯特拉西亞 --卡洛林王朝的搖籃
 奧斯特拉西亞涵蓋了現在的萊茵河下游，比利時，法國東北部，以及僅僅作為邊陲地帶的法蘭克尼亞。西元511年左右，這個奧斯特拉西亞其實叫做梅斯王國（Reich von Metz），由克洛維一世的長子提烏德里克一世（Theuderich I）繼承。在他的統治下，奧斯特拉西亞繼續往東擴張，在531年將圖靈根王國併入掌控之下。文獻中，奧斯特拉西亞這個名字最早則是在西元580年左右被都爾主教格雷戈里（Gregor von Tours）提及。
