@@ -233,7 +233,13 @@ hessen:
     lat: 49.7937
     lng: 8.6682
     url: "/hessen/burg-frankenstein/"
-    
+  - zh_name: "埃爾巴赫 (Erbach)"
+    en_name: "Erbach"
+    jp_name: "エアバッハ (Erbach)"
+    lat: 49.6577
+    lng: 8.9928
+    url: "/hessen/erbach/"
+
 mecklenburg-vorpommern:
   - zh_name: "施威林 (Schwerin)"
     en_name: "Schwerin"
