@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿斯巴赫城堡介紹" 
+title: "馬德堡城堡介紹" 
 state_name: "薩克森-安哈特" 
 state_id: "sachsen-anhalt" 
 show_map: false
@@ -74,7 +74,7 @@ permalink: /sachsen-anhalt/magdeburg/
 
 3. 金鍊黑鹿柱（Hirschsäule）最早可能出現於1425年。關於他的象徵眾說紛紜。有一說是查理曼大帝曾經抓到一隻鹿，並給他戴上了金項鍊後放生。在這個項鍊上刻有一個句子：親愛的獵人，饒我一命，我願獻上我的金項鏈（Lieber Jäger, laß mich leben, ich will dir mein Halsband geben）。另一種理論認為，鹿是天堂的承諾和基督教信仰的象徵，與其他兩個象徵世俗權利的雕像互相呼應。
 
-##  綠色要塞（Grüne Zitadele）
+## 綠色要塞（Grüne Zitadele）
 
 Friedensreich Hundertwasser，又稱百水先生，是奧地利著名的藝術家。他的作品以抽象、繽紛色彩和有機曲線的風格而聞名。
 
