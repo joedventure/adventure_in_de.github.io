@@ -10,7 +10,7 @@ permalink: /bayern/wuerzburg/
 ---
 
 ## 烏茲堡城市歷史 
-![測試圖片]({{ site.baseurl }}/_image/test_img.jpg)
+![Würzburg Altstadt]({{ site.baseurl }}/_image/Würzburg/Würzburg Altstadt.jpg)
 烏茲堡是羅曼蒂克大道的起點，也是一座歷史悠久的城市。在遠古，凱爾特人就已經在瑪利亞堡（Festung Marienberg）所在的區域定居。在西元4至5世紀的民族大遷徙浪潮中，阿勒曼尼人（Alemannen）遷移至此。到了6至7世紀，法蘭克人開始東進，將這片土地納入墨洛溫王朝（Merowinger）的版圖中。 
 
 由於法蘭克人當時已經皈依基督教（或者應該說是天主教？），烏茲堡這個區域接觸基督教的時間也很早。約在686年，愛爾蘭-蘇格蘭裔的傳教士聖基利安（St. Kilian）就已經跟他的同伴們一起在這個區域佈道，並成功讓當時的法蘭克公爵Gosbert和他的眾多臣民紛紛皈依。然而，這一過程並非一帆風順。基利安與他的同伴Kolonat和Totnan最終於689年為信仰殉道。 
@@ -22,6 +22,7 @@ permalink: /bayern/wuerzburg/
 隨著法國大革命的爆發和拿破崙戰爭的硝煙，烏茲堡的命運也隨之波動。1803年，這座城市被世俗化，教會公國的地位不再，並入了巴伐利亞選侯國的版圖。在1806年至1814年間，烏茲堡曾短暫地成為烏茲堡大公國（Großherzogtum Würzburg）的首都，由托斯卡納的斐迪南三世統治，不過最終還是永久併入巴伐利亞王國，成為這個王國的一部分。
 
 ## 瑪利亞堡（Festung Marienberg）
+![Würzburg Altstadt]({{ site.baseurl }}/_image/Würzburg/Würzburg_Marienburg.jpg)
 來烏茲堡不能錯過的就是瑪利亞堡了。根據記載，當時的法蘭克公爵Hedan II在西元700多年的時候，為他的女兒Immina蓋了一座修道院。直到烏茲堡教區於742年左右正式建立前，她應該一直是修道院的院長。自13世紀以來，這裡開始改建成堡壘，並從1253-1719年為烏茲堡采邑主教們的官邸。
 
 ## 烏茲堡宮（Würzburger Residenz）
