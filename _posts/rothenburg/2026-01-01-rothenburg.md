@@ -19,6 +19,7 @@ permalink: /bayern/rothenburg/
 根據1770年左右出現的一則傳說，當時的老市長格奧爾格·努施（Georg Nusch）在蒂利將軍的命令下，一口氣喝下3 ¼升的酒，從而拯救了羅滕堡免遭毀滅。自1881年以來，羅滕堡每年五旬節都會上演「豪飲大師」（Der Meistertrunk）這部戲劇來紀念這一事件。自2016年以來，這部戲劇也被聯合國教科文組織列為世界非物質文化遺產。
 
 ## 普連萊廣場（Plönlein）
+![Plönlein]({{ site.baseurl }}/_image/Rotheburg/Plönlein.jpg)
 來到羅騰堡，怎麼能不提到那最具代表性的景點Plönlein呢？這個名字的意思是「噴泉旁的小廣場」，聽起來是不是就充滿了童話色彩？
 
 站在廣場中央，映入眼簾的是廣場、噴泉、半木造房屋和兩座塔樓，彷彿瞬間穿越回了中世紀（除了隨處可見的相機之外😂）！
@@ -26,6 +27,7 @@ permalink: /bayern/rothenburg/
 此外，這裡還是許多電影和電子遊戲中世紀場景的靈感來源，包括迪士尼的經典之作《木偶奇遇記》。
 
 ## 羅騰堡城牆
+![Rothenburg Stadtmauer]({{ site.baseurl }}/_image/Rotheburg/Rothenburg_Stadtmauer.jpg)
 迴繞羅騰堡的城牆約莫四公里，總計有46座塔樓。據傳，當我們從Kalkturm向北看老城區時，雅各教堂（Jakobskirche）、市政廳塔樓、方濟會教堂（Franziskanerkirche）和城堡大門的塔樓輪廓會讓許多人想起耶路撒冷聖殿山的景色，因此羅滕堡也被稱為「法蘭克的耶路撒冷」（fränkisches Jerusalem）。有沒有去過耶路撒冷的朋友有類似的感覺呢？
 
 幾個有特色城門與塔樓：
