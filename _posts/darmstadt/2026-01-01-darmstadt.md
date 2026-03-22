@@ -23,7 +23,7 @@ permalink: /hessen/darmstadt/
 同時藝術文化發展也快速進行著。達姆施塔特的最後一位大公Ernst Ludwig與其先祖路德維希一世一樣，對藝術懷有極大的熱情與天賦。在他統治期間建造了黑森邦立博物館，並於1899年成立達姆施塔特藝術家村（Darmstädter Künstlerkolonie），邀請藝術家前來駐留，以及展示涵蓋建築、藝術工藝與日常設計的多樣作品，致力於讓藝術走入社會各階層，並於2021年列入聯合國世界文化遺產。
 
 ## 婚禮塔（Hochzeitsturm）
-
+![Hochzeitsturm]({{ site.baseurl }}/_image/Darmstadt/Darmstadt_Hochzeitsturm.jpg)
 達姆市的瑪蒂爾登高地（Mathildenhöhe）上幾乎集結了整個城市的地標們，其中最有名的當然就是婚禮塔了。它是一座充滿表現主義的建築傑作，由Joseph Maria Olbrich 設計，於 1908 年完工，並以紀念黑森大公Ernst Ludwig與Eleonore zu Solms-Hohensolms-Lich的婚姻而得名。
 
 這裡最有特色的地方莫過於塔頂獨特的五指造型。在將近 50公尺高的塔樓有一個絕佳的觀景平台能夠俯瞰整座城市的風光，天氣好的時候還能看到法蘭克福。塔內另有兩間寬敞的房間，至今仍作為舉行婚禮的地方。
@@ -33,6 +33,7 @@ permalink: /hessen/darmstadt/
 這個建築群在2021年被列入世界文化遺產之中。
 
 ## 俄羅斯教堂
+![Darmstadt_Russian_Church]({{ site.baseurl }}/_image/Darmstadt/Darmstadt_Russian_Church.jpg)
 在馬蒂爾登高地的建築群中坐落著一座華麗的俄羅斯教堂。它並非藝術家聚居地（Künstlerkolonie）的一部分，而是於1899年獨立建造而成，並與俄羅斯皇室有著深厚的聯繫。
 
 黑森大公Ernst Ludwig的妹妹Alix是英國維多利亞女王的孫女，並且是末代俄羅斯沙皇尼古拉二世的妻子。嫁入俄羅斯皇室後，她皈依東正教，並改名為Alexandra Feodorovna。為了迎接沙皇一家來訪，這座教堂特別由俄羅斯建築師Leontij Benua設計，並由象徵主義大師暨前衛藝術家Victor Vasnezov裝飾而成。
@@ -40,11 +41,13 @@ permalink: /hessen/darmstadt/
 在教堂後殿內，我們可以看到一幅精描繪著聖母懷抱聖嬰的壁畫，牆面則是以融合拜占庭與新藝術風格的花卉圖，一直延伸至穹頂。而俄羅斯教堂不可缺少的金色洋蔥圓頂依然熠熠生輝，營造出華麗的異國風采。
 
 ## 卡爾王子宮（Prinz-Carl Palais）
+![Prinz-Carl_Palais]({{ site.baseurl }}/_image/Darmstadt/Darmstadt_Prinz-Carl_Palais.jpg)
 卡爾王子宮是Elizabeth Feodorovna的出生地。她是俄羅斯末代皇后Alexandra Feodorovna的姐姐。在俄國，伊莉莎白以美麗和救濟窮人的慈善工作而著稱，後來被俄羅斯大牧首封為聖人。以前的皇宮現在則為德國聯邦養老保險機構的所在地。
 
 滿奇妙的，以前貴族真的到處走透透，結婚也不分國界，沒想到離俄羅斯那麼遠的地方還可以看到跟沙皇有關的地點！
 
 ## 路德維希紀念碑（Ludwig Denkmal）
+![Darmstadt Luisenplatz]({{ site.baseurl }}/_image/Darmstadt/Darmstadt Luisenplatz.jpg)
 路德維希紀念碑與婚禮塔並列為達姆城的地標之一，為了紀念黑森大公國第一任大公路德維希一世，以及在他統治下於1820年頒布的黑森大公國憲法而建造。
 
 最初，紀念碑計劃建於瑪蒂爾登廣場，但在建築師Georg Moller的極力推動下，最終選址改為路易森廣場（Luisenplatz）。這個決定不僅讓紀念碑更顯眼，也與他規劃的新城區理念相呼應，使其成為城市景觀的一部分。
@@ -52,11 +55,13 @@ permalink: /hessen/darmstadt/
 1840年，紀念碑正式動工，四年後落成揭幕。它高達近40公尺，其中雕像本身就有5公尺高。紀念碑內部還藏著一座172階的螺旋樓梯，通往頂端的觀景平台。這裡在特定的日子會開放讓遊客登頂，俯瞰整座達姆城的風光。
 
 ## 聖路德維希教堂（Ludwigskirche）
+![Darmstadt_Ludwigskirche]({{ site.baseurl }}/_image/Darmstadt/Darmstadt_Ludwigskirche.jpg)
 達姆施塔特自宗教改革以來首座天主教教堂的興建，與黑森-達姆施塔特伯國的崛起，黑森大公國的建立，以及隨之而來的城市擴建息息相關。神聖羅馬帝國解散後，黑森大公國吞併了大量世俗化的美因茨選侯領地，政府也隨之推行宗教寬容政策，並藉由建造一座宏偉的天主教堂來展現宗教融合精神。這一理念於1822年體現在一座精心設計的教堂建築之中。
 
 聖路德維希教堂的設計靈感來自羅馬萬神殿，由建築師Georg Moller設計。最有特色的地方莫過於其壯麗的圓頂大廳、柔和的粉色外牆，以及內部28根大理石圓柱。一走進教堂，我們立刻就可以感受到古典與莊嚴的氛圍。然而，聖路德維希教堂在1944年的大轟炸中遭受重創，所幸其大部分結構仍得以保存。經過多年精心的修復與重建，聖路德維希教堂才得以重現昔日風采。
 
 ## 橘園（Orangerie）
+![Darmstadt_Orangerie]({{ site.baseurl }}/_image/Darmstadt/Darmstadt_Orangerie.jpg)
 許多歐洲宮殿都設有橘園（Orangerie）。如名字所述，這裡最初是用來種植柑橘類及其他果樹的建築，功能類似溫室，能夠保護植物免受冬季寒冷影響。這個概念起源於16世紀的義大利與法國，並以凡爾賽宮的橘園為代表。除了作為植物培育場所，橘園也是貴族舉辦宴會、音樂會等社交活動的重要場所。
 作為黑森大公國首府的達姆市當然也有一座橘園。
 
@@ -76,6 +81,7 @@ permalink: /hessen/darmstadt/
 如今，王宮成為達姆工業大學、德國波蘭學院（Deutsches Polen-Institut）及王宮博物館的所在地。王宮的上層另設有一處啤酒花園，夏夜在此小酌一杯，無疑是一種享受！
 
 ## 達姆施塔特國立劇院（Staatstheater Darmstadt）
+![Darmstadt_Staatstheater]({{ site.baseurl }}/_image/Darmstadt/Darmstadt_Staatstheater.jpg)
 達姆施塔特國立劇院座落於聖路德維希教堂旁，前方那片廣闊的綠地常成為市民散步、閒聊的好去處。
 
 或許難以想像，在1972年劇院遷入此處之前，這裡曾是新宮（Neues Palais），黑森大公的居所的所在地。更令人驚訝的是，二戰期間，新宮曾一度作為納粹秘密警察的分部。
@@ -83,6 +89,7 @@ permalink: /hessen/darmstadt/
 1944年，新宮遭遇空襲重創，並於1955年被徹底拆除；隨後，1961年決定在此地興建一座現代化、功能齊全的新劇院，最終成就今日這座充滿現代氣息的國立劇院。
 
 ## 螺旋森林公寓（Waldspirale）
+![Waldspirale]({{ site.baseurl }}/_image/Darmstadt/Darmstadt_Waldspirale.jpg)
 奧地利建築師百水先生Friedensreich Hundertwasser一生共設計了 25 座建築，而我們在達姆市可以看到的螺旋森林（Waldspirale）正是他的最後一件作品。
 
 這座充滿奇幻想像的住宅建築群擁有 105 間獨具特色的公寓。或許是為了呼應達姆施塔特與俄羅斯皇室的歷史聯繫，螺旋森林的設計融合了東方風格，擁有金色洋蔥形尖塔、五彩繽紛的陶瓷柱，以及錯落不規則、宛如舞動的窗戶。自2000年9月落成以來，這座建築便成為達姆施塔特的一大亮點。
@@ -90,6 +97,7 @@ permalink: /hessen/darmstadt/
 遺憾的是，百水先生未能親眼見證它的完工，因為他在竣工前六個月便已離世。然而，他對建築的獨特理念——讓建築如生命般生長，擁有有機形態與繽紛色彩，融入自然元素，並打造人性化的居住環境——卻永遠留存於這座作品之中。
 
 ## 國際會議中心 Darmstadtium
+![Darmstadtium]({{ site.baseurl }}/_image/Darmstadt/Darmstadt_Darmstadtium.jpg)
 達姆城還有一個特別的國際會議中心Darmstadtium。它的名稱與原子序110的鐽（Ds）相同，這是因為亥姆霍茲重離子研究中心（GSI Helmholtzzentrum für Schwerionenforschung GmbH）於1994年在附近的Darmstadt-Wixhausen首次成功合成了這個超重元素。有趣的是，由於110是德國報警的電話號碼，因此鐽也有了Policium（警察元素）的非正式別稱。
 
 不只是鐽，GSI研究中心還成功合成了原子序107至112的多種超重元素，堪稱世界頂尖的重離子研究機構之一。
