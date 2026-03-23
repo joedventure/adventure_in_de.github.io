@@ -517,9 +517,9 @@ sachsen:
     lat: 51.3397
     lng: 12.3731
     url: "/sachsen/leipzig/"
-  - zh_name: "邁森 (Meissen)"
+  - zh_name: "邁森 (Meißen)"
     en_name: "Meissen"
-    jp_name: "マイセン (Meissen)"
+    jp_name: "マイセン (Meißen)"
     lat: 51.1636
     lng: 13.4775
     url: "/sachsen/meissen/"
