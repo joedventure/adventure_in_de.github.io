@@ -68,7 +68,7 @@ In 1714, Landgrave Ernst Ludwig of Hesse-Darmstadt purchased the Harnischhof est
 
 Between 1945 and 1972, the building in the Orangerie was used as a temporary venue for the Hessian State Theatre, with several annexes added. From 1975 to 1978, restoration work began, and the later additions were demolished to restore the Orangerie as much as possible to its original state. Today, its historical appearance has been largely restored, continuing to showcase its former Baroque elegance.
 
-Darmstadt Residential Palace (Residenzschloss Darmstadt)
+## Darmstadt Residential Palace (Residenzschloss Darmstadt)
 The history of the Darmstadt Residential Palace dates back to the early 13th century, evolving from a moated castle built by the Counts of Katzenelnbogen, which itself was established on the site of an early medieval defensive residence.
 
 The Landgraves of Hesse acquired the castle in 1479 but did not provide much additional management. During the Schmalkaldic War, all wooden structures were burned down until they were later rebuilt as stone structures under Landgrave Ludwig IV.
