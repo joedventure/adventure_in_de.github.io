@@ -6,7 +6,7 @@ state_id: "sachsen"
 show_map: false
 slug: goerlitz
 lang: jp
-permalink: /jp/hessen/sachsen/goerlitz/ 
+permalink: /jp/sachsen/goerlitz/ 
 ---
 
 ## ゲルリッツの都市歴史
