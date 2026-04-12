@@ -12,9 +12,10 @@ layout: default
       {% break %}
     {% endif %}
   {% endfor %}
-{% endif %} {% comment %} 
+{% endif %} {% comment %} <-- 這裡原本漏掉閉合了 {% endcomment %}
 
 <style>
+    /* ... 您的樣式內容 ... */
     .post-header { margin-bottom: 30px; }
     .state-badge { display: inline-block; background: #e9ecef; padding: 4px 12px; border-radius: 20px; font-size: 0.9em; color: #495057; margin-bottom: 10px; }
     .info-row { display: flex; gap: 20px; align-items: flex-start; margin: 20px 0; }
