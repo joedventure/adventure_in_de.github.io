@@ -12,13 +12,13 @@ permalink: /en/hessen/ruedesheim/
 ## City History of Rüdesheim
 ![Rüdesheim]({{ site.baseurl }}/_image/Rüdesheim/Rüd_view.jpg)
 
-***From the Roman Frontier to the Archiepiscopal Territory***
+### ***From the Roman Frontier to the Archiepiscopal Territory***
 
 The southern gateway to the Upper Middle Rhine Valley begins in Rüdesheim. The Romans expanded to the Rhine around the 1st century AD. Thanks to the excellent geographical conditions of the Rhine Valley, systematic viticulture was quickly established here and remains the cornerstone of Rüdesheim's economy to this day. After the Franks took over the region in the 5th century, an organized political system followed. By the 8th century at the latest, the Rheingau (the northern bank of the Rhine reaching the western slopes of the Taunus) became an administrative district directly under the Empire, managed by the Rhine Counts (Rheingraf). It is likely that they established the Brömseburg (also known as Niederburg) in Rüdesheim as an official seat, with family members serving for generations as officials (Ministerialen), forming the local nobility of Rüdesheim.
 
 Due to its favorable environment and strategic position on the Rhine's transport routes, the Archbishop of Mainz sought to establish influence in this region. At the Diet of Verona in 983, Emperor Otto II granted the Rheingau to the Archbishop of Mainz (the "Veronese Donation"), and the Rhine Counts gradually lost their ancient power. The Battle of Sprendlingen in 1279 indirectly led to the withdrawal of the Rhine Counts' influence from the Rheingau, and the region came under the administration of a Vicedom appointed by the Archbishop of Mainz.
 
-***River Trade and the Fires of War***
+### ***River Trade and the Fires of War***
 
 Since ancient times, the Rhine has been a vital European waterway with constant commercial traffic. To capture the resulting wealth, numerous castles were built along the banks to monitor shipping and collect customs duties. In 1226, Burg Ehrenfels was completed above the Binger Loch (near the confluence of the Rhine and Nahe rivers), becoming a hub for taxation and defense. Its appearance directly weakened the status of Brömseburg, causing the old castle to lose its strategic value and eventually become the property of the Rüdesheim nobility. It was not until 1279 that the old castle was reclaimed by the state, though it continued to be used by local nobles for a long time. Between the 13th and 14th centuries, Brömseburg was fortified again due to frequent warfare. Meanwhile, the local nobility successively established the Oberburg (Boosenburg), the Brömserhof, and the Vorderburg.
 
@@ -28,7 +28,7 @@ Because of the steep riverbanks, land routes were interrupted here (as there wer
 
 The 17th-century Thirty Years' War, the War of the Palatine Succession, and the Napoleonic Wars left the city with no room to breathe, causing severe damage; Brömseburg was completely reduced to ruins in 1689. In 1806, Mainz's nine-century-long rule came to an end, and the Rheingau was incorporated into the newly formed Duchy of Nassau. Rüdesheim's city walls and towers were sold or partially demolished, but the city did not decline. In 1818, it was officially granted city status (though it had possessed urban institutions before then). In 1867, it became part of Prussia but remained an important town in the Rheingau.
 
-***Industrial Transformation and Post-War Tourism Revival***
+### ***Industrial Transformation and Post-War Tourism Revival***
 
 Rüdesheim's modernization began quite early. The first steamboat arrived at the banks in 1827, and the railway opened in 1856. These new modes of transport delivered Rüdesheim's wines, as well as newly developed sparkling wines and brandies, to broader markets. This led to a steady increase in tourists. Consequently, comfortable hotels and lively taverns appeared one after another.
 
