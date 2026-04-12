@@ -12,7 +12,7 @@ permalink: /en/hessen/wiesbaden/
 ## History of Wiesbaden
 I must admit, for a long time I thought the capital of Hesse was Frankfurt. It wasn't until I had the chance to explore the region that I discovered the capital of Hesse is actually Wiesbaden 😅
 
-***From Roman Thermal Outpost to Medieval Power Struggles***
+### ***From Roman Thermal Outpost to Medieval Power Struggles***
 
 Wiesbaden was first mentioned in historical documents in 122 BC as Aquae Mattiacorum, named after the abundant local thermal springs and the Mattiaci, a Germanic tribe that settled there.
 
@@ -22,7 +22,7 @@ With the decline of the Western Roman Empire in the 6th century, the Franks grad
 
 Entering the Middle Ages, Wiesbaden's history moved into a new phase dominated by the struggle between the nobility and royal power. In 1170, the House of Nassau gained control over the Wiesbaden region, leading the city's development for centuries. In 1232, Wiesbaden was elevated to an Imperial City, gaining higher political status. Unfortunately, this prosperity did not last. The elevation of Wiesbaden posed a great threat to the rival Archbishop of Mainz. Consequently, the city was attacked by Mainz in 1242 and destroyed. It never fully recovered from this blow, becoming an obscure small town and ending its era as an "Imperial City" (imperatoris civitas).
 
-***Governance by the House of Nassau and the Establishment of Modern Administration***
+### ***Governance by the House of Nassau and the Establishment of Modern Administration***
 
 In 1277–78, due to the consistent loyalty of the House of Nassau to the crown, King Rudolf I granted Wiesbaden to Adolf (who later also became King) to counter the influence of Mainz. He bestowed a series of privileges upon Wiesbaden, including coinage rights, silver mining rights, and jurisdiction over the city (including its assets, the mint, and customs). Simultaneously, the city's administrative structure was established. Around 1280, the city government consisted of a mayor appointed by the ruler and seven jurors. By the 15th century, this changed to two mayors and a citizens' assembly acting as a consultative body. In the 18th century, the administration became more sophisticated, with 22 permanent positions responsible for public order and daily administration, such as night watchmen, field wardens, and gate guards.
 
@@ -32,7 +32,7 @@ Wiesbaden finally saw a turning point in 1684 when Prince Georg August of Nassau
 
 Although increasing taxes sparked dissatisfaction among some citizens, overall, the results of these reforms were significant. Wiesbaden's population doubled within a few decades, gradually emerging from its medieval stagnation to become the capital of the Principality of Nassau-Usingen and later the Duchy of Nassau (1806–1866).
 
-***The Glory of an International Spa Town, War, and Modern Transformation***
+### ***The Glory of an International Spa Town, War, and Modern Transformation***
 
 Moving into the 19th century, Wiesbaden continued to prosper and became an internationally renowned spa city. Even after Prussia annexed the Duchy of Nassau in 1866, Wiesbaden's development did not stall; instead, it moved further toward modernization. As the capital of an administrative district under Prussian rule, Wiesbaden attracted a large number of wealthy rentiers, retired military officers, and high-ranking officials. The cityscape, composed of upscale villas and luxury hotels, reflected the prosperity of the time.
 
@@ -43,7 +43,7 @@ After the Nazi regime took power in 1933, Wiesbaden was quickly integrated into 
 After the war, Wiesbaden became the capital of the state of Hesse. In addition to government offices, many publishing houses, insurance companies, and film industries chose to settle here. Not only did the city regain its vitality, but as a famous thermal spa destination, Wiesbaden also became one of the most livable cities in the Rhine-Main region.
 
 ## The Roman District of Wiesbaden
-***The Temple of Sirona (Sironatempel)***
+### ***The Temple of Sirona (Sironatempel)***
 
 Traces of the ancient Roman city can still be found in several places in downtown Wiesbaden. For instance, on Schützenhofstraße (the street where Aldi is located), which is home to the Schützenhofquelle spring, a votive stone dedicated to the Celtic healing goddess Sirona was unearthed, suggesting that a temple dedicated to her may have once stood here. Considering that Sirona was highly revered across the European regions of the Roman Empire, this area was likely the heart of Wiesbaden during the Roman period, much as it is today.
 
@@ -55,25 +55,25 @@ The Frankfurter Rundschau reported in 2023 on a mural of the goddess Sirona pain
 
 https://www.fr.de/rhein-main/wiesbaden/schuetzenhofstrasse-in-wiesbaden-wider-bunter-92477360.html
 
-***Thermal Springs***
+### ***Thermal Springs***
 
 Wiesbaden is most famous for its thermal springs. Since Roman times, it has been a renowned spa destination. Key springs include the Kochbrunnen, Adlerquelle, and Schützenhofquelle. In addition, there are about 20 other shallow thermal sources. The primary component of the spring water is sodium chloride (table salt).
 
 There are three main theories regarding the origin of the high-salinity hot water in Wiesbaden's springs. The first suggests the salt originates from salt mines at the border of Hesse and Thuringia, with hot water flowing through underground fissures northeast toward the Taunus Mountains. The second theory, based on plate tectonics, states that Wiesbaden sits on a rift zone that is still expanding, allowing hot water to rise from 2,000 meters deep, dissolving rock salt along the way. The third view suggests that even without salt mines or rifts, the rock layers here allow high-temperature circulation of salt-rich hydrothermal systems. Each theory has its merits and they may complement each other to explain the mystery of Wiesbaden’s geothermal springs.
 
-***Kaiser-Friedrich-Therme***
+### ***Kaiser-Friedrich-Therme***
 
 When mentioning springs, one must highlight the century-old, artistic Kaiser-Friedrich-Therme in the city center. Built between 1910 and 1913, it is a perfect representation of blending ancient Roman bath inspiration with Art Nouveau (Jugendstil) aesthetics. Upon entering, you are immediately greeted by exquisite wall reliefs, frescoes, and tiles filled with geometric elements throughout the various areas.
 
 The spring water here is approximately 65°C, sourced from the nearby Adlerquelle, and has been a favorite spa destination for Wiesbaden citizens since olden times. Besides bathing, you can try the hot air rooms (Heißlufträume) and the stone steam bath (Steindampfbad) for total relaxation!
 
-***The Roman Fort on the Heidenberg (Römerkastell auf dem Heidenberg)***
+### ***The Roman Fort on the Heidenberg (Römerkastell auf dem Heidenberg)***
 
 The Heidenberg heights are located between present-day Kastellstraße and Platter Straße. From the street name Kastell, one can infer that this area was once the site of Roman military facilities. Indeed, during the construction of the new municipal hospital in 1904–1905, multiple trenches were discovered, confirming that four different forts from various periods had been established here, dating from around 85 AD to the early 2nd century AD.
 
 It is estimated that the fort covered about 2.2 hectares, featuring typical rounded corners. Each side had four defensive towers and two gates, with the main gate located on the eastern side. Inside the fort, the western side housed several stone administrative buildings, including the central headquarters and its shrine of the standards (Fahnenheiligtum). The northern and eastern sides contained various workshops and soldier barracks.
 
-***The Heathen's Wall (Heidenmauer)***
+### ***The Heathen's Wall (Heidenmauer)***
 ![Heidenmauer]({{ site.baseurl }}/_image/Wiesbaden/Wiesbaden_Heidenmauer.jpg)
 The Heathen's Wall is the only remaining Roman architectural ruin in Wiesbaden today. Research confirms the wall was built in the 4th century AD, originally measuring about 520 meters long, starting from the intersection of Schulberg and Hirschgraben and extending to the Market Church (Marktkirche). Unfortunately, the parts we can see today are limited to a semi-circular tower on Schulberg and two sections of the wall totaling about 80 meters.
 
