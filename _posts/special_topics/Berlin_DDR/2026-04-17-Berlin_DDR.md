@@ -1,7 +1,7 @@
 ---
 layout: post
 show_map: false
-title: "柏林的蘇聯遺跡"
+title: "追尋柏林的紅色印記"
 slug: berlin_ddr
 lang: zh
 permalink: /berlin_ddr/
