@@ -2,7 +2,7 @@
 layout: post
 title: "柏林-斯潘道歷史與景點介紹"
 state_name: "柏林"
-state_id: "berlin-spandau"
+state_id: "berlin"
 show_map: false
 slug: berlin-spandau
 lang: zh
