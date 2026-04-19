@@ -10,297 +10,302 @@ permalink: /en/berlin_ddr/
 EN version
 
 
-## 柏林-卡爾斯霍斯特博物館（Museum Berlin Karlshorst）
+## Museum Berlin-Karlshorst
 ![Brömserburg]({{ site.baseurl }}/_image/Mittelrheintal/Rüd_Brömserburg.jpg)
 
-二戰的歐洲戰場開始於1939年9月1日德軍侵略波蘭，結束於1945年德軍無條件投降。可是對於歐洲戰場的結束日，不同國家有不同定義。
+The European theater of World War II began on September 1, 1939, with the German invasion of Poland and ended in 1945 with Germany's unconditional surrender. However, different countries define the end date of the war in Europe differently.
 
-希特勒自殺不久後，納粹德國的接班人Karl Dönitz在1945年5月7日授權二級上將Alfred Jodl於法國蘭斯（Reims）簽署了無條件投降書。然而Jodl僅為單一代表，並非各軍種最高統帥，為了確保法律嚴謹性，盟軍隨後在5月8日深夜於柏林進行了第二次簽署儀式，由德意志國防軍最高統帥Wilhelm Keitel、海軍總司令Hans-Georg von Friedeburg及空軍二級上將Hans-Jürgen Stumpff代表德軍總部與陸海空三軍正式批准投降。
+Shortly after Hitler's suicide, Karl Dönitz, the successor to Nazi Germany, authorized Colonel General Alfred Jodl to sign the unconditional surrender in Reims, France, on May 7, 1945. However, since Jodl was only a single representative and not the supreme commander of all military branches, a second signing ceremony was held late on the night of May 8 in Berlin to ensure legal rigor. It was officially ratified by Field Marshal Wilhelm Keitel of the Oberkommando der Wehrmacht (OKW), Commander-in-Chief of the Navy Hans-Georg von Friedeburg, and Luftwaffe Colonel General Hans-Jürgen Stumpff on behalf of the German High Command and the three branches of the armed forces.
 
-這一天被定為歐戰勝利日，象徵盟軍正式接受納粹德國武裝部隊的投降並全面停止軍事行動。由於投降協議於中歐夏令時間5月8日23:01生效，此時莫斯科時間已是5月9日00:01，這兩小時的時差導致多數西方國家在5月8日慶祝勝利，而蘇聯以及現在的前蘇聯加盟國則將5月9日定為勝利日。
+This day was designated as Victory in Europe Day (VE Day), symbolizing the formal acceptance by the Allies of the surrender of the Nazi German armed forces and the total cessation of military operations. Because the surrender agreement took effect at 23:01 Central European Summer Time on May 8, it was already 00:01 on May 9 in Moscow time. This two-hour time difference led most Western countries to celebrate victory on May 8, while the Soviet Union and current former Soviet states designated May 9 as Victory Day.
 
-5月8日簽署儀式的所在地位於柏林東邊的Karlshorst。這棟建築在納粹時期為軍官俱樂部；1945至1949年間為駐德蘇聯軍事管理委員會（SMAD）的所在地（後來移去Wünsdorf）；1967-1994年間為「偉大的衛國戰爭中法西斯德國無條件投降博物館」（Museum der bedingungslosen Kapitulation des faschistischen Deutschlands im Großen Vaterländischen Krieg）；1995-2022年改名德俄博物館（Deutsch-Russisches Museum）；自2022年開始採用柏林-卡爾斯霍斯特博物館（Museum Berlin-Karlshorst）這個名稱。
+The site of the May 8 signing ceremony is located in Karlshorst, in the east of Berlin. During the Nazi era, this building served as an officers' club; from 1945 to 1949, it was the seat of the Soviet Military Administration in Germany (SMAD) (later moved to Wünsdorf); from 1967 to 1994, it was the "Museum of the Unconditional Surrender of Fascist Germany in the Great Patriotic War"; from 1995 to 2022, it was renamed the German-Russian Museum (Deutsch-Russisches Museum); and since 2022, it has adopted the name Museum Berlin-Karlshorst.
 
-名字的不同，代表著不同的敘事，也呼應著二戰後直到現在的歐洲局勢變化。不過，這裡展出的核心主題一向是關於二戰期間德蘇之間的侵略與殲滅戰，並呈現了歷史事件中雙方的立場與視角。除此之外，還可以看到當初投降協議簽屬的大廳，以及戶外的俄式軍武（如T-34坦克）。
+The different names represent different narratives and echo the changes in the European situation from the end of WWII to the present. However, the core theme of the exhibition here has always been the war of aggression and annihilation between Germany and the Soviet Union during WWII, presenting the positions and perspectives of both sides in historical events. In addition, visitors can see the hall where the surrender agreement was signed, as well as outdoor Russian military equipment (such as T-34 tanks).
 
-## 紀念碑與雕像
+## Monuments and Statues
 
-### 特雷普托公園蘇聯戰士紀念碑（Sowjetisches Ehrenmal Treptow）
+### Soviet War Memorial Treptow (Sowjetisches Ehrenmal Treptow)
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-戰爭帶來的是毀滅，無數生命在這場浩劫中喪失。為了追悼在二戰中陣亡的將士們，蘇聯政府在柏林相繼建立了四個主要的紀念碑，特雷普托公園的蘇聯戰士紀念碑（Sowjetisches Ehrenmal Treptow）為其中規模最大的一個。
+War brings destruction, and countless lives were lost in this catastrophe. To mourn the soldiers who fell in WWII, the Soviet government established four major memorials in Berlin, of which the Soviet War Memorial in Treptower Park is the largest.
 
-這座紀念碑以及整片園區於1946-1949年間建造，並於1949年5月9日（無條件投降紀念日）正式落成。在東德時期，這裡除了是紀念場所之外，也是舉辦大型集會和官方活動的地點。
+The memorial and the entire park were built between 1946 and 1949 and were officially inaugurated on May 9, 1949 (the anniversary of the unconditional surrender). During the East German era, in addition to being a place of remembrance, it was also a location for large rallies and official events.
 
-紀念碑園區的入口是一座大型凱旋門。穿越小徑後映入眼簾的是名為祖國母親（Mutter Heimat）的女性哀悼雕塑。往園區中央看去，會看到左右兩側巨大的紅色花崗岩，以及遠處的紀念碑主體，一座高11公尺的蘇聯士兵青銅雕像。他一手抱著一位孩子，一手握著低垂的劍，象徵著戰勝納粹德國政權。
+The entrance to the memorial park is a large triumphal arch. After walking through the path, what catches the eye is the mourning female sculpture named "Mother Homeland" (Mutter Heimat). Looking towards the center of the park, you will see massive red granite blocks on both sides and the main body of the memorial in the distance—an 11-meter-high bronze statue of a Soviet soldier. He holds a child in one arm and a lowered sword in the other, symbolizing the victory over the Nazi German regime.
 
-園區兩側另外設有16座石棺，上面刻有展現偉大的衛國戰爭場景的浮雕，並附有史達林的語錄。此外，主雕像周圍雖然設有五個墓區，但它們主要具備象徵意義，真正埋葬7,000多名士兵的墳墓則較為低調地分佈在園區的邊緣地帶。
+There are 16 sarcophagi on both sides of the park, engraved with reliefs depicting scenes from the Great Patriotic War and accompanied by quotes from Stalin. Furthermore, while there are five burial areas around the main statue, they are primarily symbolic; the actual graves of more than 7,000 soldiers are distributed more discreetly around the edges of the park.
 
-### 蒂爾加藤公園蘇聯戰士紀念碑（Sowjetisches Ehrenmal Tiergarten）
+### Soviet War Memorial Tiergarten (Sowjetisches Ehrenmal Tiergarten)
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-另一座蘇聯戰士紀念碑位於蒂爾加藤公園（Großer Tiergarten），離布蘭登堡門不遠，走路十分鐘內即可到達。
+Another Soviet War Memorial is located in the Großer Tiergarten, not far from the Brandenburg Gate and reachable within a ten-minute walk.
 
-作為柏林市中心第一座蘇聯紀念碑，它早在 1945 年 11 月 11 日就落成了。主入口區域由兩輛蘇聯T-34 坦克環繞，後面另有兩門大砲。階梯處的石棺以及柱子上刻有陣亡士兵的名字。正中央的柱子上方有一座八公尺高的紅軍士兵青銅雕像，肩上掛著步槍，左手伸向下方陣亡的戰友，象徵著柏林戰役的結束以及無聲的哀悼。
+As the first Soviet memorial in the center of Berlin, it was inaugurated as early as November 11, 1945. The main entrance area is flanked by two Soviet T-34 tanks, with two artillery pieces behind them. The names of fallen soldiers are engraved on the sarcophagi at the steps and on the columns. Atop the central column stands an eight-meter-high bronze statue of a Red Army soldier with a rifle over his shoulder and his left hand reaching down toward his fallen comrades, symbolizing the end of the Battle of Berlin and silent mourning.
 
-在紀念碑後方有一座小公園，分布著 2000 多名陣亡士兵的墳墓。原先的衛兵室則安裝了展示牌，向參觀者介紹柏林的蘇聯紀念碑，以及其他關於二戰的細節，以達到警惕後人的效果。
+Behind the memorial is a small park where the graves of more than 2,000 fallen soldiers are located. The former guardhouse has been installed with display boards that introduce visitors to Berlin's Soviet memorials and other details about WWII, serving as a warning to future generations.
 
-### 台爾曼紀念雕像（Ernst-Thälmann-Denkmal）
+### Ernst Thälmann Memorial (Ernst-Thälmann-Denkmal)
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-共產主義政治家恩斯特·台爾曼（Ernst Thälmann）出生於德國漢堡。他在1919年至1933年間代表德國共產黨（KPD）擔任漢堡市議會議員，並於1924年至1933年間出任帝國議會議員。他在1925年成為德國共產黨主席，並曾於1925年與1932年兩度競選帝國總統。1933年3月初納粹掌權後，台爾曼隨即遭到逮捕，在未經任何審判的情況下於不同的監獄中被關押了11年。1944年8月18日，在希特勒的命令下，台爾曼被送往布痕瓦爾德（Buchenwald）集中營並遭到謀殺。
+The communist politician Ernst Thälmann was born in Hamburg, Germany. He served as a member of the Hamburg Parliament representing the Communist Party of Germany (KPD) from 1919 to 1933 and as a member of the Reichstag from 1924 to 1933. He became the chairman of the KPD in 1925 and ran for the Reich presidency twice, in 1925 and 1932. Shortly after the Nazis took power in early March 1933, Thälmann was arrested and imprisoned in various prisons for 11 years without any trial. On August 18, 1944, by Hitler's order, Thälmann was sent to the Buchenwald concentration camp and murdered.
 
-為了紀念台爾曼的100歲冥誕，東德領導層於1986年在柏林普倫茨勞貝格區（Prenzlauer Berg）落成了以他為名的公園、住宅區以及一座紀念雕像。這座高約15公尺的紀念碑主體是由蘇聯雕塑家Lew Kerbel製作的青銅半身像，生動描繪了台爾曼高舉拳頭的形象。儘管後來許多人曾多次考慮拆除這座紀念碑，但它與後方被視為社會主義建築規劃典範的住宅群，於是在2014年一起被列為歷史古蹟保護。 
+To commemorate the 100th anniversary of Thälmann's birth, the East German leadership inaugurated a park, a residential area, and a memorial statue named after him in Berlin's Prenzlauer Berg district in 1986. The main body of this approximately 15-meter-high monument is a bronze bust created by the Soviet sculptor Lev Kerbel, vividly depicting Thälmann with his fist raised high. Although many people repeatedly considered dismantling the monument later, it was listed as a protected historical monument in 2014 along with the residential blocks behind it, which are regarded as models of socialist urban planning.
 
-## 社會主義壁畫與建築
+## Socialist Murals and Architecture
 
-### 《共和國建設》*Aufbau der Republik*
+### *Aufbau der Republik* (Construction of the Republic)
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-德國聯邦財政部大樓的東北側柱廊上，有一幅名為《共和國的建立》（Aufbau der Republik）的著名壁畫，由藝術家Max Lingner設計、14位邁森瓷器的畫家共同協作完成。壁畫最初名為「和平對人類文化發展的意義及為之奮鬥的必要性」，但在東德領導人的要求下進行了多次修改，最終呈現為一幅展現工人階級崛起的宣傳畫。
+On the northeast colonnade of the German Federal Ministry of Finance building, there is a famous mural titled Aufbau der Republik (Construction of the Republic), designed by artist Max Lingner and completed in collaboration with 14 painters from Meissen Porcelain. Originally titled "The Significance of Peace for the Cultural Development of Humanity and the Necessity of Struggling for It," the mural underwent multiple revisions at the request of East German leaders. It eventually became a propaganda piece showcasing the rise of the working class.
 
-畫面上由左至右分別描繪了政府官員、自由德國青年團（FDJ）成員、音樂家、警察以及童軍。畫面中央聚焦於從事體力勞動的建築工人，呼應了1950年代東德建設史達林大道（Stalinallee；現在的馬克思大道Karl-Marx-Allee）的時代背景。右側則以農業、重工業和工程技術為主題。2000年時，建築前方的廣場上增設了一座「1953年6月17日起義紀念碑」，將和平示威者的照片鑲嵌於地面，與這幅社會主義壁畫形成強烈對比，凸顯了當時政治理想與社會現實之間的巨大矛盾。
+From left to right, the mural depicts government officials, members of the Free German Youth (FDJ), musicians, police officers, and scouts. The center focuses on manual laborers in construction, echoing the era of building Stalinallee (now Karl-Marx-Allee) in East Berlin during the 1950s. The right side features themes of agriculture, heavy industry, and engineering. In 2000, a "Memorial to the June 17, 1953 Uprising" was added to the plaza in front of the building, with photos of peaceful protesters embedded in the ground. This creates a sharp contrast with the socialist mural, highlighting the profound contradiction between political ideals and social reality at the time.
 
-至於聯邦財政部大樓本身也有非常豐富的歷史。在德意志帝國空軍總司令戈林（Hermann Göring）的指示下，於1935至1936短短兩年間即建造完成，作為納粹德國的帝國航空部。這裡擁有超過2000個房間和近7公里長的走廊，其龐大的規模與鋼筋混凝土骨架結構是納粹建築的典型代表。
+The Ministry of Finance building itself has a rich history. Under the direction of Hermann Göring, Commander-in-Chief of the Luftwaffe, it was constructed in just two years (1935–1936) as the Reich Air Ministry (RLM) of Nazi Germany. With over 2,000 rooms and nearly 7 kilometers of corridors, its massive scale and reinforced concrete skeleton are typical of Nazi architecture.
 
-二戰期間建築受到嚴重破壞，戰後迅速展開重建並移除了納粹標誌，並隨後短暫成為蘇聯佔領區的總部。1949年10月7日，德意志民主共和國（Deutsche Demokratische Republik）在此正式宣告成立，這棟建築也被多個政府部門使用，因而被官方稱為多部會大樓（Haus der Ministerien）。柏林圍牆建造前數週，德國統一社會黨（SED）第一書記烏布利希（Walter Ulbricht）也是在這裡說出了那句名言：「沒有人打算建造一堵牆」。
+The building was severely damaged during WWII but was quickly reconstructed afterward, with Nazi symbols removed. It briefly served as the headquarters for the Soviet Military Administration. On October 7, 1949, the German Democratic Republic (GDR) was officially proclaimed here. The building was subsequently used by multiple government departments and was officially known as the "House of Ministries" (Haus der Ministerien). A few weeks before the Berlin Wall was built, Walter Ulbricht, the First Secretary of the SED, famously stated here: "No one has the intention of building a wall."
 
-兩德統一後，這裡成為負責東德企業私有化的託管局總部直到1994年。1992年，為了紀念於1991年遭紅軍（RAF）暗殺的託管局主席羅韋德爾（Detlev Rohwedder），大樓因此以他為名，並自1999年起成為聯邦財政部的辦公地點。 
+After German reunification, it served as the headquarters of the Treuhandanstalt (responsible for privatizing East German enterprises) until 1994. In 1992, the building was named the Detlev Rohwedder House in honor of the Treuhand chairman who was assassinated by the RAF in 1991. Since 1999, it has served as the office of the Federal Ministry of Finance. 
 
-### 《德國工人運動史》*Aus der Geschichte der deutschen Arbeiterbewegung*
+### *Aus der Geschichte der deutschen Arbeiterbewegung* (From the History of the German Workers' Movement)
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-歐洲管理科技學院（ESMT）的同學或是校友都知道，學校建築物的前身是前東德的國務院大樓（Staatsratsgebäude），地位相當於現在的德國聯邦總理府（Bundeskanzleramt）。它是二戰後柏林第一座新建的政府大樓，建於被炸毀的王宮遺址上。
+Students and alumni of the European School of Management and Technology (ESMT) know that the school building was formerly the State Council Building (Staatsratsgebäude) of East Germany, a position equivalent to today's Federal Chancellery. It was the first new government building constructed in Berlin after WWII, built on the ruins of the bombed Royal Palace (Stadtschloss).
 
-這棟建築最有名的地方是舊王宮四號大門的複製品。因為1918年11月9日，李卜克內西（Karl Liebknecht）曾在此大門的陽台上宣布自由社會主義共和國（Freie Sozialistische Republik）成立，東德政府於是藉此設計來象徵其繼承了這段革命傳統。也因此，在ESMT裡面，我們可以看的許多精美的社會主義藝術品。
+The most famous feature of this building is the replica of Portal IV from the old Royal Palace. This was because on November 9, 1918, Karl Liebknecht proclaimed the Free Socialist Republic from the balcony of this portal. The East German government used this design to symbolize its inheritance of this revolutionary tradition. Consequently, many exquisite pieces of socialist art can be seen inside ESMT.
 
-其中最有名的要屬藝術家沃馬卡（Walter Womacka）所創作的巨型彩色玻璃窗了。這幅名為《德國工人運動史》（Aus der Geschichte der deutschen Arbeiterbewegung）的作品面積高達 180 平方公尺，貫穿了三個樓層。從東德統一社會黨的視角出發，描繪了東德代表站在 1918 年革命者的肩膀上，象徵當年革命者奮鬥的目標在東德化為現實。畫面上充滿了東德理想化的生活場景，例如被工業生產設施與工人環繞的幸福家庭。此外，畫中繪有東德共產黨創始人李卜克內西與盧森堡（Rosa Luxemburg）的肖像，並配上「儘管如此！」（Trotz alledem!）的標語，在意識形態上與融入到建築本身的王宮大門相呼應。
+The most famous is the giant stained-glass window created by artist Walter Womacka. Titled Aus der Geschichte der deutschen Arbeiterbewegung (From the History of the German Workers' Movement), this work covers 180 square meters and spans three floors. From the perspective of the SED, it depicts East German representatives standing on the shoulders of the 1918 revolutionaries, symbolizing that the goals the revolutionaries fought for have become a reality in the GDR. The imagery is filled with idealized scenes of life in East Germany, such as happy families surrounded by industrial production facilities and workers. Additionally, the window features portraits of Communist Party founders Karl Liebknecht and Rosa Luxemburg, accompanied by the slogan "Trotz alledem!" (In spite of everything!), ideologically echoing the palace portal integrated into the building.
 
-在製作工藝上，為了展現符合國家意識形態的「現代與光輝燦爛的社會主義未來」，這件作品直接將彩色小玻璃直接貼附在大型透明載體玻璃板上，創造出明亮且現代的視覺效果。
+Technically, to demonstrate a "modern and brilliant socialist future" consistent with state ideology, small colored glass pieces were applied directly to large transparent carrier glass plates, creating a bright and modern visual effect.
 
-另一個看點是大樓二樓的宴會廳。這裡曾是整棟建築中最大的房間，內側的牆面上保留了一個繪有東德國徽的巨型陶瓷馬賽克。
+Another highlight is the banquet hall on the second floor. Once the largest room in the building, the inner wall retains a giant ceramic mosaic featuring the East German national emblem.
 
-這件作品精確重現了東德的國徽，包含了象徵工人、農民與知識份子的鐵鎚、麥穗和圓規。這幅馬賽克是大樓內唯一真正與建築融為一體的藝術品。雖然東德解體後它失去了原有的政治功能，但由於它的歷史以及藝術價值，它被完整地保留下來，同時也有能在必要時用布幕將其遮蔽的裝置，以適應現代的使用需求。
+The work accurately reproduces the GDR emblem, including the hammer, rye, and compass—symbolizing workers, farmers, and intellectuals. This mosaic is the only piece of art in the building truly integrated with the architecture. Although it lost its political function after the collapse of East Germany, it has been preserved in its entirety due to its historical and artistic value. There is also a mechanism to cover it with a curtain when necessary to suit modern usage.
 
-
-### 《我們的生活》*Unser Leben*
+### *Unser Leben* (Our Life)
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-沃馬卡（Walter Womacka）是東德最具代表性的藝術家之一 。他曾任東德美術家協會副主席，並於 1968 年成為東德藝術學院的成員之一。由於他受當時東德領導人烏布利希（Walter Ulbricht）大力支持，沃馬卡的作品在柏林以及前東德的很多地區都可以看到。
+Walter Womacka was one of the most representative artists of East Germany. He served as the Vice President of the Association of Visual Artists of the GDR and became a member of the Academy of Arts in 1968. Because he was strongly supported by the East German leader Walter Ulbricht, Womacka's works can be seen in Berlin and many parts of the former GDR.
 
-亞歷山大廣場上教師之家（Haus des Lehrers）外牆上的馬賽克壁畫即是他的作品。這座7x125公尺，由大約80萬馬賽克磚拼貼而成的作品《我們的生活》（Unser Leben），可以算是歐洲面積最大的藝術品。創作於1962-1964年間，這幅馬賽克壁畫描繪了許多生活化的場景，如家庭生活、校園教育、農業豐收、科學進步、各行各業的人們各司其職等題材，展現出東德政府所想傳達的理想化社會。除此之外，壁畫上的生命樹、象徵和平的鴿子以及拿著花朵的小朋友，也傳達了和諧的社會以及對未來充滿希望的願景。
+The mosaic mural on the exterior of the Haus der Lehrers (House of the Teacher) at Alexanderplatz is one of his works. Measuring 7x125 meters and composed of approximately 800,000 mosaic tiles, Unser Leben (Our Life) is considered the largest piece of art in Europe by area. Created between 1962 and 1964, the mural depicts various scenes of everyday life, such as family life, school education, agricultural harvest, scientific progress, and people from all walks of life performing their duties, showcasing the idealized society the East German government wished to convey. Furthermore, the tree of life, peace doves, and children holding flowers on the mural convey a vision of a harmonious society and a future full of hope.
 
-至於教師之家本身，其前身是 1908 年落成的教師之家（Lehrervereinshaus）。這裡歷史意義深遠：1919 年 2 月曾為遇害的共產主義領袖盧森堡（Rosa Luxemburg）與李卜克內西（Karl Liebknecht）舉辦紀念活動；1920 年，德國共產黨（KPD）與獨立社會民主黨（USPD）也是在此宣告合併。或許正是因為這棟建築曾有著濃厚的左翼政治色彩，才使得他成為二戰後最早建成的高樓吧。
+As for the Haus der Lehrers itself, its predecessor was the Teacher's Association House inaugurated in 1908. The site has deep historical significance: in February 1919, it held memorial services for the murdered communist leaders Rosa Luxemburg and Karl Liebknecht; in 1920, the KPD and the USPD announced their merger here. It was perhaps because the building had such strong left-wing political associations that it became one of the first high-rise buildings completed after WWII.
 
-
-### 《凌駕時空的人們》*Der Mensch überwindet Zeit und Raum*
+### *Der Mensch überwindet Zeit und Raum* (Man Overcomes Time and Space)
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-位於旅行之家（Haus des Reisens）的銅製浮雕作品《凌駕時空的人們》（Der Mensch überwindet Zeit und Raum）也是沃馬卡的作品之一。作品的主體有一對年輕男女以及一位太空人。圍繞在他們的是各種景色的意象，如水面上的船、樹木、鳥類和太陽等，表達出社會主義致力於科學與技術的進步，進而讓人們能夠不受時空限制，以先驅者的姿態前往太空，並將這份美好傳達給世界。
+The copper relief Der Mensch überwindet Zeit und Raum (Man Overcomes Time and Space), located on the Haus des Reisens (House of Travel), is another of Walter Womacka's works. The main subject features a young couple and an astronaut. Surrounding them are various scenic images, such as ships on water, trees, birds, and the sun. This reflects the socialist commitment to progress in science and technology, suggesting that humanity can transcend the limits of time and space, venturing into the cosmos as pioneers and bringing that beauty back to the world.
 
-旅行之家在兩德統一之前一直是東德國家旅行社總部及東德國際航空（Interflug）辦公室的所在地 。建築的一樓設有國內外航班與鐵路售票櫃檯，並設有日夜開放的外國人登記服務處及外匯兌換所 。現在則是有一家夜店以及健身房。
+Before German reunification, the Haus des Reisens served as the headquarters of the GDR State Travel Agency and the offices of Interflug (the East German national airline). The ground floor housed ticket counters for domestic and international flights and trains, as well as a 24-hour registration office for foreigners and a currency exchange. Today, the building houses a nightclub and a gym.
 
-### 民族友誼噴泉（Brunnen der Völkerfreundschaft）
-常去亞歷山大廣場的朋友們，應該都對廣場中央那座大噴泉印象深刻。這座噴泉本名是民族友誼噴泉（Brunnen der Völkerfreundschaft），為沃馬卡於1969至1970年廣場重新規劃期間所打造的作品。
+### Fountain of Friendship between Peoples (Brunnen der Völkerfreundschaft)
+Those who frequent Alexanderplatz are likely impressed by the large fountain in the center of the square. Originally named the Brunnen der Völkerfreundschaft (Fountain of Friendship between Peoples), it was created by Womacka between 1969 and 1970 during the redesign of the square.
 
-這座噴泉高6.20公尺，以鍛造銅銅、玻璃、陶瓷和琺瑯等多種材質打造，並由內、外兩個水池組成。外層是直徑達23公尺的巨大圓池，內層則有17根高低交錯、呈螺旋狀排列的銅柱，頂端各有菱形的銅盤。水流會從最高處湧出，沿著這17個銅盤如螺旋般逐層流下，匯入內池，隨後再透過內池外牆上的出水口流入外池。在內池的外牆上還繪有動植物圖案以及充滿民俗風情的和平意象。
+The fountain stands 6.20 meters high and is crafted from forged copper, glass, ceramics, and enamel. It consists of an inner and an outer pool. The outer pool is a massive circular basin with a diameter of 23 meters. The inner section features 17 copper columns of varying heights arranged in a spiral, each topped with a diamond-shaped copper plate. Water gushes from the highest point, cascading down the 17 plates like a spiral into the inner pool, and then flows into the outer pool through outlets on the inner wall. The outer wall of the inner pool is decorated with motifs of flora, fauna, and folk-style imagery of peace.
 
-藉由這個螺旋向下流動的水流，整座噴泉生動地傳達了萬民友誼的理念，將源源不絕的水流作為友誼的象徵，從這裡向外延伸到世界各地。
+Through this downward-spiraling flow of water, the fountain vividly conveys the concept of universal friendship, using the continuous flow as a symbol of friendship extending from this point to the rest of the world.
 
-### 《作為組織者的新聞界》*Die Presse als Organisator*
+### *Die Presse als Organisator* (The Press as Organizer)
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-位於亞歷山大廣場的西北側，我們也可以找到東德社會主義現代主義風格（Sozialistische Moderne）的傑出代表：柏林出版社大樓（Haus des Berliner Verlages）及其附屬的新聞咖啡館（Pressecafé）。
+On the northwest side of Alexanderplatz, we can find an outstanding representative of GDR Socialist Modernism (Sozialistische Moderne): the Haus des Berliner Verlages (Berlin Publishing House) and its adjacent Pressecafé (Press Café).
 
-柏林出版社大樓為一座高17層樓、長150公尺的鋼骨結構建築。當時的東德領導人烏布利希極力推動此計畫，希望藉由夜晚燈火通明的辦公室，為東柏林的核心營造出充滿生氣的氛圍。
+The Berlin Publishing House is a 17-story steel-frame building stretching 150 meters in length. Walter Ulbricht, the East German leader at the time, strongly pushed for this project, hoping that the brightly lit offices at night would create a vibrant atmosphere for the heart of East Berlin.
 
-延伸自大樓主體的新聞咖啡館則是一座兩層樓建築。內部功能完備，設有工作室、照片沖洗室、廣告接待處以及會議室。在東德時期，這裡是非常受國內外記者歡迎的聚會地點，因為這裡提供了許多在東德境內難以取得的多國刊物，餐廳的食物比其他地方好吃很多，內裝更配有知名設計師Ernst Moeckl設計的經典座椅Z-Stuhl。以現在的標準來說，應該就是間好吃又好看的頂級網紅店吧！
+The Pressecafé, an extension of the main building, is a two-story structure. It was fully functional with studios, darkrooms, advertising reception, and conference rooms. During the GDR era, it was a popular meeting spot for domestic and foreign journalists because it provided international publications that were otherwise difficult to obtain in East Germany. The restaurant's food was significantly better than elsewhere, and the interior featured the classic "Z-chair" designed by the renowned designer Ernst Moeckl. By today's standards, it would likely be a top-tier "Instagrammable" spot with both great food and aesthetics!
 
-作為東德現代社會主義風格的名建築，壁畫當然是少不了的。在新聞咖啡館的外牆上有一幅 Willi Neubert創作的琺瑯瓷磚壁畫《作為組織者的新聞界》（Die Presse als Organisator）。這上面生動描繪了東德出版與編輯工作的情景，以及人們閱讀新聞的畫面。仔細看，還能發現隱藏其中的馬克思畫像。有趣的是，兩德統一後，這幅具有濃厚意識形態色彩的壁畫居然被一家牛排餐廳的招牌遮蓋了長達29年！要一直到2021年才再次修復完成，重新出現在大眾面前。
+As a famous example of Socialist Modernist architecture, a mural was indispensable. On the exterior wall of the Pressecafé is an enamel tile mural by Willi Neubert titled Die Presse als Organisator (The Press as Organizer). It vividly depicts scenes of publishing and editing in the GDR, as well as people reading the news. Looking closely, one can find a hidden portrait of Karl Marx. Interestingly, after reunification, this ideologically charged mural was covered by a steakhouse sign for 29 years! It was not until 2021 that it was finally restored and reappeared before the public.
 
-### 市政廳拱廊（Rathaus-Passagen）
+### Rathaus-Passagen (Town Hall Arcades)
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-個人很喜歡亞歷山大廣場附近的市政廳拱廊（Rathaus-Passagen）。這個巨大的建築群與相鄰的紅色市政廳（Rotes Rathaus）互相呼應，每次路過都能感受到一種帶點現代又復古的奇妙感覺。
+The Rathaus-Passagen near Alexanderplatz is a personal favorite. This massive complex complements the adjacent Rotes Rathaus (Red Town Hall), and passing by it always evokes a curious mix of modern and retro vibes.
 
-市政廳拱廊建築群建於1967年至1973年間，由建築師Heinz Graffunder帶領的團隊以當時常見的預製板（Plattenbau）技術打造。不過，這裡使用了更好的建材以及外牆馬賽克裝飾來提升質感，外部的紅色磚牆也與隔壁的紅色市政廳在視覺上產生呼應。
+The Rathaus-Passagen complex was built between 1967 and 1973 by a team led by architect Heinz Graffunder using the then-common Plattenbau (prefabricated panel) technique. However, it utilized higher-quality materials and exterior mosaic decorations to enhance its texture. The red brick exterior walls also create a visual dialogue with the neighboring Red Town Hall.
 
-在建築設計上，市政廳拱廊採用了上層居住，下層生活的複合式空間概念。在東德時期，底部兩層是進駐了許多精品店以及高級餐廳，也因此這裡是當時最頂級購物中心之一。上方則是格局比一般的東德預製板房屋更寬敞的公寓。憑藉著優越的機能以及極具競爭力的租金，當時排隊入住往往需等待三至五年之久。
+Architecturally, the Rathaus-Passagen adopted a mixed-use concept with living spaces above and commercial life below. During the GDR era, the bottom two floors housed many boutiques and high-end restaurants, making it one of the premier shopping centers of the time. The upper floors contained apartments that were more spacious than typical GDR Plattenbau units. Due to its excellent amenities and competitive rent, people often had to wait three to five years for an apartment.
 
-在公共藝術方面，許多早期的藝術品已下落不明，但建築北側仍保留著1970年由雕塑家Gerhard Rommel創作的建築工人紀念碑（Bauarbeiterdenkmal）。這件青銅浮雕特別描繪了女性工程師，反映了當時東德提倡性別平等的社會價值觀。
+Regarding public art, many early pieces have disappeared, but the Bauarbeiterdenkmal (Construction Workers' Memorial) created by sculptor Gerhard Rommel in 1970 remains on the north side of the building. This bronze relief specifically depicts female engineers, reflecting the social values of gender equality promoted by the GDR at the time.
 
-### 馬克思大道（Karl-Marx Allee）
+### Karl-Marx Allee
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-柏林另一個我也很喜歡的地方是馬克思大道（Karl-Marx Allee），因為這條路非常寬敞，兩旁的建築也非常巨大，走在路上總覺得心曠神怡。
+這部分關於馬克思大道及其標誌性建築的內容，同樣為您翻譯為英文與日文版本，並嚴格保持 Markdown 結構：
 
-馬克思大道從亞歷山大廣場一直延伸到法蘭克福門（Frankfurter Tor）。它的前身為大法蘭克福街（Große Frankfurter Straße），為當時柏林東部的主要道路。二戰後東德政府為了解決住房短缺的問題，並在冷戰時期向西方展現社會主義的優越性，便決定將這裡打造成為最具聲望的重建項目。深受莫斯科與聖彼得堡的蘇聯建築啟發，街道被拓寬至90公尺，以便未來舉行盛大的軍事遊行。1949年12月21日，為了慶祝史達林70歲生日，這條路正式更名為史達林大道（Stalinallee）。
-
-史達林死後，隨著蘇聯領導人赫魯雪夫在1956年蘇共第二十次代表大會上批判史達林，東德政府的態度急遽轉變。1961年11月14日深夜，政府秘密拆除了大道上的史達林巨型銅像，整個街道一夜改名，西段被更名為馬克思大道，東段則更名為法蘭克福大道（Frankfurter Allee）。
-
-馬克思大道一路上有很多經典的蘇聯式建築，個人認為最經典的是Strausberger Platz的建築群。兩座大樓矗立在圓環兩側，遠遠看過去就像是進入柏林的巨大城門，讓人一眼就能感受到社會主義建設的強大實力。兩旁的公寓也是非常現代化。在1950年代，這些公寓配備了當時極為罕見的中央供暖、熱水、寬敞的廚房和電梯，外牆還貼滿了閃亮的陶瓷面磚，並點綴著華麗的浮雕與裝飾柱。這種設計完美結合了普魯士古典美與蘇聯的宏大風格，跟當時柏林其他破舊的戰後建築相比，完全就是為了展現社會主義實力而打造的工人宮殿（Paläste für das Volk）。
-
-諷刺的是，1953年6月，為了抗議政府強行提高工作定額，史達林大道工地的建築工人率先發起罷工，這場抗爭隨即演變成席捲全東德的六一七事件，最終遭到蘇聯坦克的鎮壓。沒想到在這條象徵工人夢想的大道，竟然成為東德歷史上最黑暗的一頁。
-
-### 莫斯科咖啡館（Café Moskau）與《蘇聯各族人民的生活》*Aus dem Leben der Völk-er der Sowjetunion*
+English Version
+Karl-Marx-Allee
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-莫斯科咖啡館（Café Moskau）是象徵東德與蘇聯兄弟情誼的標誌性建築。咖啡館於 1964 年 1 月 18 日開幕，主打蘇聯各國特色美食，內部設有酒吧、咖啡廳、夜總會及手工藝品店。這裡曾是高級社交場所，不過也是不少黑市交易間諜活動的據點。1989年被列為歷史古蹟後，咖啡廳於 1994 年停止餐廳營運，現在則是各類活動已經會議舉辦的場所。
+Another place in Berlin I really like is Karl-Marx-Allee. The road is incredibly wide, and the buildings on both sides are so massive that walking here always feels refreshing and grand.
 
-莫斯科咖啡館的主入口處裝飾著一幅名為《蘇聯各族人民的生活》（Aus dem Leben der Völk-er der Sowjetunion）的巨型馬賽克壁畫，由藝術家Bert Heller設計，並由Elisabeth Jeske以天然石材打造。
+Karl-Marx-Allee stretches from Alexanderplatz to Frankfurter Tor. Its predecessor was Große Frankfurter Straße, which was the main thoroughfare of eastern Berlin. After WWII, to solve the housing shortage and demonstrate the superiority of socialism to the West during the Cold War, the GDR government decided to turn this area into its most prestigious reconstruction project. Inspired by Soviet architecture in Moscow and St. Petersburg, the street was widened to 90 meters to accommodate grand military parades. On December 21, 1949, to celebrate Stalin's 70th birthday, it was officially renamed Stalinallee.
 
-這幅面積達135平方公尺的作品以柔和的米、白及金色為主調。背景呈現了金色的天空、第一顆人造衛星史普尼克（Sputnik）衛星、象徵電氣化建設的水壩與鑽井平台，以及底層克里姆林宮與清真寺等建築剪影。畫面中心則是一群身著各地傳統服飾的蘇聯農民、漁民與工人。整個畫面宛如一幅珍貴的掛毯，象徵著蘇聯各民族彼此和諧生活的美好場景。
+After Stalin's death, as Soviet leader Nikita Khrushchev criticized Stalin at the 20th Congress of the Communist Party in 1956, the GDR government's attitude shifted abruptly. Late on the night of November 14, 1961, the government secretly removed the giant bronze statue of Stalin on the boulevard. The entire street was renamed overnight: the western section became Karl-Marx-Allee, and the eastern section became Frankfurter Allee.
 
-此外，在壁畫上的柱子頂端還立著由藝術家Fritz Kühn創作的1:1比例的史普尼克衛星模型，作為蘇聯科技的象徵。
+There are many classic Soviet-style buildings along Karl-Marx-Allee, but I find the architectural ensemble at Strausberger Platz to be the most iconic. Two massive buildings stand on either side of the roundabout, looking like a giant gate into Berlin from a distance, instantly conveying the power of socialist construction. The apartments on both sides were also very modern. In the 1950s, these units were equipped with central heating, hot water, spacious kitchens, and elevators—luxuries that were extremely rare at the time. The facades were covered in shiny ceramic tiles and adorned with ornate reliefs and decorative columns. This design perfectly combined Prussian Classicism with Soviet grandeur; compared to other dilapidated post-war buildings in Berlin at the time, these were truly "Palaces for the People" (Paläste für das Volk) built to showcase socialist strength.
 
-### 國際電影院（Kino International）與《當代人們的生活》*Aus dem Leben der heutigen Menschen*
+Ironically, in June 1953, construction workers on the Stalinallee site were the first to strike in protest against the government's forced increase in work quotas. This protest quickly evolved into the June 17th Uprising that swept across East Germany, only to be suppressed by Soviet tanks. It is a profound historical irony that this boulevard, symbolizing the workers' dream, became the site of one of the darkest chapters in East German history.
+
+### Café Moskau and *Aus dem Leben der Völker der Sowjetunion* (From the Life of the Peoples of the Soviet Union)
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-1963年開幕，由建築師Josef Kaiser設計的國際電影院（Kino International）是柏林最具代表性的現代主義建築之一，它的完工也象徵著東德政府試圖擺脫史達林時代沉重的建築風格，轉向接軌西方當代的簡潔美學。其懸浮式鋼骨構造與二樓向外延伸九公尺的玻璃帷幕大廳，營造出輕盈且開放的空間感。
+Café Moskau is an iconic building symbolizing the brotherhood between the GDR and the Soviet Union. Opened on January 18, 1964, it featured specialties from various Soviet republics and housed a bar, café, nightclub, and handicraft shop. While it was a high-end social venue, it also served as a hub for black market activities and espionage. After being listed as a historical monument in 1989, the café ceased restaurant operations in 1994 and now serves as a venue for various events and conferences.
 
-自開幕以來，國際電影院不僅是東柏林最頂尖的首映戲院，配備了先進的聲學設計，更是一個多功能文化中心。在冷戰期間，這裡的片單呈現出獨特的風格，如探討社會主義關係的電影，也為了票房收益罕見地播映了些許西商業大片，成為鐵幕中少有的東西方文化交會點。
+The main entrance of Café Moskau is decorated with a giant mosaic mural titled Aus dem Leben der Völker der Sowjetunion (From the Life of the Peoples of the Soviet Union), designed by artist Bert Heller and crafted by Elisabeth Jeske using natural stones.
 
-1989年11月9日，當首部探討同性戀題材的東德電影《Coming Out》在此首映時，柏林圍牆恰好在電影演到一半的時候倒塌，使這座影院成為見證歷史巨變的地標。為了紀念這個事件，電影院自 1997 年起固定於週一推出MonGay系列放映，至今已成為德國歷史最悠久的酷兒專題影展。
+This 135-square-meter work uses soft beige, white, and gold tones. The background features a golden sky, the Sputnik satellite, dams and drilling rigs symbolizing electrification, and silhouettes of the Kremlin and mosques at the bottom. At the center is a group of Soviet farmers, fishermen, and workers in traditional dress. The entire piece resembles a precious tapestry, symbolizing the harmonious life of the various nations within the Soviet Union.
 
-兩德統一後，建築被列為歷史古蹟，並由約爾克電影集團（Yorck Kinogruppe）接手經營，轉型為藝術電影院及柏林影展的重要場地。經歷全面翻修，這座充滿傳奇色彩的影院已於2026 年3月重新開幕。
+Additionally, a 1:1 scale model of the Sputnik satellite, created by artist Fritz Kühn, stands atop a pillar on the mural as a symbol of Soviet scientific achievement.
 
-除了電影院本身，國際電影院外牆三個面上的浮雕《當代人們的生活》（Aus dem Leben der heutigen Menschen）也是一大看點。總計共有14個菱形的白色水泥浮雕，每個都生動描繪了社會主義理想下人們個面向的生活，如工作、體育競技、文化育樂、研究教學與醫療保健等場景，以樂觀主義宣揚社會主義下的日常生活比資本主義更具價值。
-
-然而浮雕的創作並不是一帆風順的。它們最初是由雕塑家Waldemar Grzimek設計，不過他因為不滿東德統一社會黨（SED）強硬的藝術政策，拒絕在柏林圍牆建立前遷居東柏林，於是後續工作由他的團隊成員Karl-Heinz Schamal和Hubert Schiefelbein接手完成。在1963年戲院開幕時，僅有西側的浮雕趕上完工進度。
-在德國古蹟保護基金會的資助下，這些珍貴的浮雕才得持續保留至今。
-
-### 法蘭克福門（Frankfurter Tor）
+### Kino International and *Aus dem Leben der heutigen Menschen* (From the Life of People Today)
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-法蘭克福門（Frankfurter Tor）最早的位置約在現在U5 Weberwiese站附近，為柏林海關牆的一座城門，以其通往奧得河畔法蘭克福（Frankfurt (Oder)）的軍隊道路起點而得名。1716年法蘭克福門為木製城門，1802年改建為石造城門，於1867年為了城市擴建而拆除。在第二次世界大戰期間，這裡在1945年春季的蘇聯紅軍攻堅戰以及先前的轟炸中遭到嚴重破壞。戰後，廢墟在1950至1956年間進行了全面的重建，建造了7至9層樓高的大型住宅區，而現在的法蘭克福門則是在1957年為了致敬舊城門而重新命名。
+Opened in 1963 and designed by architect Josef Kaiser, Kino International is one of Berlin's most representative modernist buildings. Its completion symbolized the GDR government's attempt to move away from the heavy architectural style of the Stalin era toward the clean aesthetics of contemporary Western design. Its suspended steel structure and the second-floor glass lobby extending nine meters outward create a sense of lightness and openness.
 
-法蘭克福門由建築師Hermann Henselmann於1956年根據御林廣場（Gendarmenmarkt）上的法國大教堂與德國大教堂為靈感設計建造。雙塔被設計成一座城市大門，象徵著進入東柏林市中心的入口。作為冷戰時期東德社會主義體制的代表作，這裡的建築被稱為「糖果盒風格」（Zuckerbäckerstil），大量借鑒了古典主義與封建宮廷建築的元素，包含圓柱、橫梁、裝飾物和裝飾性外牆，與西德提倡的包浩斯現代風格形成鮮明對比。
+Since its opening, Kino International has been more than just East Berlin's premier premiere theater with advanced acoustics; it was a multi-functional cultural center. During the Cold War, its film list featured a unique style, including films exploring socialist relationships and, occasionally, Western commercial blockbusters for revenue, making it a rare cultural intersection behind the Iron Curtain.
 
-除了宏偉的外觀，塔樓的南北兩側各有不同的內部設施。北塔地面層有塔樓畫廊（Galerie im Turm）進駐，為居住在柏林的藝術家提供展覽空間。南塔頂樓設有一間可供租用的高空休息室（Lounge im Turm），適合舉辦小型招待會或其他慶祝活動。自2023年春季起，塔樓10樓開放了一間別具特色的東德設計模型公寓。這間公寓由在此長居並推廣建築文化的建築師Thomas Krüger開放參觀，並由設計師Stephan Schilgen進行室內佈置。公寓內展示了許多罕見的東德原創家具和藝術品，說明了東德時代的設計不僅限於政治宣傳的糖果盒風格，還蘊含著古典現代主義的傳統。參觀者在這裡不僅能深刻體驗東德的生活感，還能享受俯瞰柏林市的絕佳視野。
+On November 9, 1989, during the premiere of the first East German film to explore gay themes, Coming Out, the Berlin Wall fell just as the movie was playing, making this cinema a landmark witness to historical change. To commemorate this, the cinema has hosted the "MonGay" screening series every Monday since 1997, now Germany's longest-running queer film series.
 
-### 《新德國報》出版社大樓（Verlagsgebäude Neues Deutschland）
+After reunification, the building was listed as a historical monument and taken over by the Yorck Kinogruppe, transforming into an arthouse cinema and an important venue for the Berlin International Film Festival. Following a full renovation, this legendary cinema reopened in March 2026.
+
+Besides the cinema itself, the reliefs on three sides of the exterior wall titled Aus dem Leben der heutigen Menschen (From the Life of People Today) are a major highlight. There are 14 diamond-shaped white cement reliefs, each vividly depicting various aspects of life under the socialist ideal, such as work, sports, culture, research, and healthcare, promoting the optimistic view that daily life under socialism was more valuable than under capitalism.
+
+However, the creation of the reliefs was not without challenges. They were originally designed by sculptor Waldemar Grzimek, but he refused to move to East Berlin before the Wall was built due to his dissatisfaction with the SED's rigid art policies. The work was completed by his team members Karl-Heinz Schamal and Hubert Schiefelbein. When the theater opened in 1963, only the reliefs on the west side were finished. Thanks to funding from the German Foundation for Monument Protection, these precious reliefs have been preserved to this day.
+
+### Frankfurter Tor
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-走在柏林東站（Ostbahnhof）附近的街道上，很難不被一棟掛著 Neues Deutschland巨大招牌的建築吸引。想當初我也是湊巧搭車經過這裡，那時候還以為那是德國二戰後重建的標語，沒想到在好奇心驅使下研究後，才發現這個地方有很曲折的故事。
+The original location of Frankfurter Tor was near today's U5 Weberwiese station. It was one of the gates of the Berlin Customs Wall, named after the military road that began there and led to Frankfurt (Oder). In 1716, Frankfurter Tor was a wooden gate; it was rebuilt as a stone gate in 1802 and demolished in 1867 to make room for urban expansion. During World War II, the area was severely damaged by the Soviet Red Army's offensive in the spring of 1945 and previous aerial bombings. After the war, the ruins were completely reconstructed between 1950 and 1956 into a large residential complex 7 to 9 stories high. The current Frankfurter Tor was renamed in 1957 as a tribute to the old city gate.
 
-建築所在的Franz-Mehring-Platz，在1867年的時候是剛啟用的Küstriner Bahnhof所在地，為連接柏林至柯尼斯堡（Königsberg，現在俄羅斯境內的加里寧格勒Калининград）及俄羅斯邊境的重要火車站。這座義大利文藝復興風格的三層磚造建築包含了長達188公尺的月台大廳公尺，有著壯觀的鋼結構拱門結構。不過車站僅營運了15年，便因為Schlesischer Bahnhof的興建（也就是現在的柏林東站）而於1882年關閉，隨後被轉作倉庫使用。
+Frankfurter Tor was designed by architect Hermann Henselmann in 1956, inspired by the French and German Cathedrals on Gendarmenmarkt. The twin towers were designed as a city gate, symbolizing the entrance to East Berlin's city center. As a representative work of the East German socialist system during the Cold War, the architecture here was dubbed the "Wedding Cake Style" (Zuckerbäckerstil). It drew heavily on elements of Classicism and feudal palace architecture, including columns, beams, ornaments, and decorative facades, forming a sharp contrast with the Bauhaus modern style promoted by West Germany.
 
-1928年，英國猶太裔銀行家Jules Marx與合夥人買下了這座舊車站，並將其改建為當時柏林最大的綜合劇院「Plaza」。劇院於1929年開幕，擁有3000個座位，不僅提供高水準的平價娛樂，也曾是德國共產黨（KPD）舉辦政治活動的場所。可惜好景不常，納粹掌權後，劇院遭到沒收，並為納粹的意識形態服務。Jules Marx逃往法國，但隨後遭到逮捕並被引渡回德國，最終1944年在薩克森豪森集中營遇害。二戰末期，Plaza劇院建築在戰火中被摧毀。
+Beyond its grand exterior, the north and south towers house different facilities. The ground floor of the north tower is home to the Galerie im Turm, providing exhibition space for artists living in Berlin. The top floor of the south tower features a Lounge im Turm available for rent, suitable for small receptions or celebrations. Since the spring of 2023, a unique GDR design model apartment has opened on the 10th floor. This apartment is opened for visitors by architect Thomas Krüger, who long lived there and promotes architectural culture, with interior arrangements by designer Stephan Schilgen. The apartment showcases many rare original GDR furniture pieces and artworks, illustrating that GDR design was not limited to the "Wedding Cake Style" of political propaganda but also carried traditions of Classical Modernism. Visitors here can experience the living atmosphere of the GDR era while enjoying a magnificent view over the city of Berlin.
 
-隨著蘇聯接管東柏林，這個地方被選為東德執政黨機關報《新德國報》的總部。1969年1月6日，全新的《新德國報》出版與印刷綜合大樓開始動工。1972年，該廣場以共產主義政治家兼記者Franz Mehring的名字，正式更名為Franz-Mehring-Platz，《新德國報》也正式以新的地址出刊。這裡的印刷廠規模龐大，不僅印刷《新德國報》，還印製其他7種日報、19種週報及大量刊物，1989年前每天印刷量高達200萬份。這座綜合大樓內部設施極為完善，甚至包含了員工餐廳、診所、物理治療室、桑拿以及駕訓班。
-
-1990年兩德統一後，由於這棟建築位於前德國國營鐵路（Deutsche Reichsbahn）的土地上，1995 年至 2005 年間，《新德國報》出版社與作為國營鐵路法律繼承人的德國鐵路公司（Deutsche Bahn）針對該處房產展開了長期的法律訴訟。在此期間，報社被迫短暫遷出，直到2005年才得以回歸。現在的《新德國報》大樓在經過現代化翻修後，已轉型為多元化的辦公與文化中心，租戶涵蓋了羅莎盧森堡基金會（Rosa-Luxemburg-Stiftung）及多個非政府組織。為了不讓後人遺忘這段錯綜複雜的歷史，大樓外特別設立了多座紀念碑，分別向舊車站、消失的Plaza劇院、受迫害的創辦人Jules Marx以及報社的奮鬥歷程致敬，使這座建築成為柏林都市記憶中不可或缺的一部分。
-
-### 洪堡大學法學院圖書館的列寧彩色玻璃窗（Das Lenin-Glasfenster in der Zweigbibliothek Rechtswissenschaft der HU Berlin）
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
-誰能想到，洪堡大學法律系圖書館內居然隱藏著一系列畫有馬克思、恩格斯以及列寧的彩繪玻璃？從1895到1917年間，列寧曾多次造訪柏林，並且是當時皇家圖書館的常客。為了紀念列寧曾經在此埋頭苦讀的經歷，東德時期將圖書館的大閱覽室改名為列寧廳（Lenin-Lesesaal），並於1968年由藝術家Frank Glaser創作了一扇巨大的彩色玻璃窗。
-
-在玻璃窗上可以看到列寧在書堆中學習、與工人及知識分子交談、在飄揚的紅旗下參與遊行，以及身處武裝革命群眾之中的場景。其中最引人注目的是一個巨大化、伸出手臂指引前方的列寧形象，以及在他身後的馬克思與恩格斯。
-
-蘇聯解體、兩德統一後，大量共產主義的標誌相繼被拆除，這扇玻璃窗卻意外地躲過一劫，成為柏林甚至德國少數描繪列寧的作品。雖然這扇玻璃窗的存在飽受質疑，卻也迫使我們重新審視正義與民主的定義。
-
-## 分裂、監控與東德生活
-
-### 國家安全部/史塔西（Ministerium für Staatssicherheit）
+### Neues Deutschland Publishing House Building (Verlagsgebäude Neues Deutschland)
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-史塔西（Stasi），正式名稱為國家安全部（Ministerium für Staatssicherheit；MfS），是東德於1950年至1990年間的國家情報機構與秘密警察。它的建立深受蘇聯情報機構如契卡和KGB影響，並將自身定位為東德執政黨德國統一社會黨（SED）的「黨的盾牌與利劍」（Schild und Schwert der Partei）。
+Walking through the streets near Berlin Ostbahnhof, it is hard not to be attracted by a building with a giant "Neues Deutschland" sign. I first encountered it by chance while passing by on a bus. At the time, I thought it was just a post-war reconstruction slogan. Driven by curiosity, my research revealed a very twisted story behind this place.
 
-史塔西的核心目標是維護共產黨的絕對權力、監控並壓制任何潛在的政治異議與反抗。為了達成這個目的，史塔西滲透了東德社會的每一個角落，對內進行了人類歷史上最嚴密、最龐大的群眾監控。直到1989年，史塔西擁有多達九萬多名全職特工，並招募了約19萬名線人。他們包含了各行各業的普通市民，甚至要求家人、朋友或配偶互相監視與告密。
-史塔西的監控手段極度侵犯隱私，包含竊聽電話、拆閱信件、在公寓內安裝竊聽器與隱藏攝影機。他們甚至使用特殊的布料從審訊椅上或偷來的內衣中收集目標對象的體味樣本（氣味瓶），以便未來需要時使用經過訓練的警犬進行追蹤。
+Franz-Mehring-Platz, where the building stands, was the site of the newly opened Küstriner Bahnhof in 1867. It was an important station connecting Berlin to Königsberg (now Kaliningrad in Russia) and the Russian border. This three-story brick building in the Italian Renaissance style included a 188-meter-long platform hall with spectacular steel arch structures. However, the station operated for only 15 years and closed in 1882 due to the construction of Schlesischer Bahnhof (now Berlin Ostbahnhof), later serving as a warehouse.
 
-在1970年代後，為避免引起國際社會對其逮捕與酷刑的關注，史塔西的手段轉向了稱為「分解」（Zersetzung）的心理戰術。這種戰術旨在透過心理折磨讓異議份子失去反抗意志。具體手法包含散播損害名譽的謠言、製造家庭或婚姻衝突、阻礙職業發展，以及侵入目標家中移動家具、改變鬧鐘時間等，使受害者產生幻覺或精神崩潰
+In 1928, British-Jewish banker Jules Marx and partners bought the old station and converted it into "Plaza," the largest variety theater in Berlin at the time. Opened in 1929 with 3,000 seats, it provided high-quality, affordable entertainment and also served as a venue for the political activities of the Communist Party of Germany (KPD). Unfortunately, after the Nazis came to power, the theater was confiscated to serve Nazi ideology. Jules Marx fled to France but was later arrested and extradited back to Germany, eventually being murdered in the Sachsenhausen concentration camp in 1944. Near the end of WWII, the Plaza theater building was destroyed in the fighting.
 
-在史塔西長達四十年的運作歷史中，幾位關鍵人物與重大事件深刻形塑了其對內鎮壓與對外滲透的軌跡。Erich Mielke是史塔西任期最長的部長，他自1957年至1989年全面掌權，將這個機構打造成一個龐大且無孔不入的國家監視帝國。
+As the Soviet Union took over East Berlin, this site was chosen as the headquarters for Neues Deutschland, the central organ of the ruling East German party. Construction of the new publishing and printing complex began on January 6, 1969. In 1972, the square was officially renamed Franz-Mehring-Platz after the communist politician and journalist Franz Mehring, and Neues Deutschland officially began publication at the new address. The printing plant here was massive, printing not only Neues Deutschland but also seven other daily newspapers, 19 weekly newspapers, and numerous other publications, with a daily circulation of up to 2 million copies before 1989. The complex was self-contained, even including staff canteens, clinics, physiotherapy rooms, a sauna, and a driving school.
 
-在對外情報領域，Markus Wolf於1952年至1986年間轄下的偵察總局策劃了冷戰時期最具破壞性的滲透行動之一。他派遣特工Günter Guillaume潛入西德，取得西德政府的信任，並成為西德總理Willy Brandt的私人高級助手。他的間諜身份終於在1974年敗露並遭到逮捕。這場醜聞引發了巨大的政治風暴，直接迫使總理Brandt引咎辭職。
+After German reunification in 1990, since the building was on land belonging to the former Deutsche Reichsbahn, a long legal battle ensued between the publisher and Deutsche Bahn (the legal successor to the Reichsbahn) from 1995 to 2005. The newspaper was forced to move out briefly during this time, returning only in 2005. Today, after modern renovations, the building has transformed into a diverse office and cultural center, housing tenants like the Rosa-Luxemburg-Stiftung and various NGOs. To ensure this complex history is not forgotten, several memorials have been erected outside the building, paying tribute to the old station, the lost Plaza theater, the persecuted founder Jules Marx, and the newspaper's struggle, making this building an indispensable part of Berlin's urban memory.
 
-在國內控制方面，史塔西對異議人士的迫害也曾引發強烈的社會反彈。例如在1976年，東德政府將知名民謠歌手與政權批評者Wolf Biermann驅逐出境，這項高壓舉動激起了十多位東德著名作家與藝術家罕見的公開抗議，成為東德政治與文化史上的一大分水嶺。
-
-然而，這個看似堅不可摧的監視體系最終在1989年的和平革命中走向瓦解。同年11月，在政權搖搖欲墜之際，局長Mielke下令大規模銷毀機密檔案，試圖掩蓋史塔西長期侵犯人權的罪行。為了搶救這些見證歷史與迫害的證據，勇敢的東德民眾與民權運動者於1990年1月15日大舉衝入柏林的史塔西總部，成功阻止了檔案的進一步破壞。這次群眾佔領行動不僅為史塔西的恐怖統治畫下了句點，更為日後德國社會的轉型正義與歷史反思保留了無可取代的紀錄。
-
-想多了解史塔西的話，可以前往位於柏林Lichtenberg的史塔西博物館，這裡以前是史塔西總部的所在地，兩德統一後轉型為民主園區（Campus für Demokratie）。其中最核心的1號樓是部長Erich Mielke的辦公大樓，也是現在博物館的所在地，而7號樓及隱藏在後方的檔案庫等建築，則分別負責監視社會反對勢力與集中儲存數以百萬計的機密監控資料。
-
-博物館內原封不動地保留了Mielke當年的辦公室、私人休息室以及大型會議室的原貌，讓參觀者能直觀感受到極權官僚體系的壓迫氛圍。館內的常設展更展示了史塔西無孔不入的監控技術與手段，包含各種隱藏式相機以及竊聽設備。此外，史塔西檔案館對外開放民眾查閱當年被監視的紀錄，並展示了工作人員如何耗費數十年，將當年被史塔西撕碎的數百萬張文件碎片重新手工拼湊起來的浩大重建工程。透過真實的歷史場景保留與教育展覽，柏林史塔西總部與博物館如今已成為反思獨裁歷史與推動轉型正義的重要地點。
-
-### 柏林霍恩申豪森紀念館（Gedenkstätte Berlin-Hohenschönhausen）
-柏林霍恩申豪森紀念館承載了德國自1945年以來不同階段關於政治迫害的歷史。這裡在1939年是國家社會主義人民福利機構（NSV）的大型廚房。1945年5月，蘇聯內務人民委員部（НКВД）設立了第3號特殊營（Speziallager Nr. 3），作為犯人的中轉與關押地。這裡曾拘留超過一萬六千人，對象包括前納粹黨員、間諜，甚至是年滿12歲以上、參與「狼人」地下組織的青少年。 營區內的生活條件極度惡劣，食物匱乏且醫療不足。在最多高達四千多人同時被擠壓在狹小空間的情況下，估計有約一千名囚犯因此死亡。
-
-1946年11月特殊營解散後，囚犯們被迫在地下室建造牢房。自1947年起，這裡成為了中央看守所。牢房極度潮濕且沒有暖氣，囚犯只有木板床和排泄桶。除此之外，蘇聯軍方頻繁採取剝奪睡眠、強迫長時間站立等肉體暴力與威脅，在夜間進行數小時的疲勞審訊。此時期的囚犯除了前納粹份子外，還包括大量政治異見者，如社會民主黨（SPD）、基督教民主聯盟（CDU）等民主黨派成員及被視為威脅的共產主義異見者。
-
-1951年，東德國家安全部 史塔西接管了這座監獄，並迫使囚犯建造新的監獄大樓。整個建築群位於一個龐大且戒備森嚴的軍事禁區內，被高牆、瞭望塔和武裝警衛包圍，為了掩人耳目，這裡自1970年代起在東柏林的地圖上甚至被標示為無人區。這時期大量政治犯被監禁在此，如1953年六一七事件的參與者、失寵的政治家、異議份子、從西柏林被綁架來的批評人士，以及企圖翻越柏林圍牆的民眾等。
-1989年史塔西解體後，所有政治犯獲釋，監獄於1990年10月3日德國統一當天正式關閉。 隨後，柏林參議院於1991年建議將此地改建為紀念館，1992年該建築群被列為歷史古蹟，並於1994年開放參觀，2000年起進一步擴展為正式的紀念機構。 
-
-### 柏林圍牆（Berliner Mauer）
+### The Lenin Stained Glass Window at the HU Berlin Law Library (Das Lenin-Glasfenster in der Zweigbibliothek Rechtswissenschaft der HU Berlin)
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-柏林圍牆（Berliner Mauer）存在於1961年至1989年間，是冷戰時期德國分裂與集權壓迫最具體的象徵。
+Who would have thought that the Humboldt University Law Library hides a series of stained glass windows depicting Marx, Engels, and Lenin? Between 1895 and 1917, Lenin visited Berlin many times and was a regular at the Royal Library. To commemorate Lenin’s time spent studying there, the large reading room was renamed the "Lenin Hall" (Lenin-Lesesaal) during the GDR era, and in 1968, the artist Frank Glaser created a massive stained glass window for it.
 
-第二次世界大戰結束後，根據1945年的《波茨坦協定》，戰敗的德國及其首都柏林被同盟國（美、英、法、蘇）劃分為四個佔領區。隨著西方與蘇聯的意識形態衝突加劇，1949年分別成立了親西方的德意志聯邦共和國（西德）與受蘇聯控制的德意志民主共和國（東德）。 
-在1949年至1961年間，由於對東德的政治與經濟體制不滿，約有270萬至400萬名東德民眾（約佔東德總人口的六分之一）選擇逃往西方。這些難民中有一半是25歲以下的年輕人，龐大的人才外流使得東德面臨嚴重的社會與經濟崩潰危機。當時兩德的內部邊界雖已逐漸封鎖，但柏林市內的區域邊界仍然開放，西柏林因此成為東德人逃亡的最後一道缺口。
+The glass window depicts scenes of Lenin studying among stacks of books, talking with workers and intellectuals, participating in parades under waving red flags, and standing amidst armed revolutionary masses. The most striking figure is a giant Lenin with his arm extended, pointing forward, with Marx and Engels behind him.
 
-雖然東德領導人烏布利希（Walter Ulbricht）在1961年6月還對外謊稱「沒有人打算建造一堵牆」，然而為了徹底阻止這場大逃亡並鞏固政權，在1961年8月13日清晨，東德在極度保密的情況下，突然動用軍警部隊以鐵絲網和路障封鎖了東、西柏林之間的交界，切斷了所有的交通樞紐，隨後數週內，這些臨時障礙物被換成了由混凝土板與空心磚砌成的實體圍牆。圍牆瞬間切斷了城市的街道、廣場與社區，也無情地拆散了無數的家庭與朋友。
+Following the collapse of the Soviet Union and German reunification, many communist symbols were removed, but this stained glass window unexpectedly survived. It remains one of the few works in Berlin—and even in Germany—depicting Lenin. While its presence is often questioned, it forces us to re-examine the definitions of justice and democracy.
 
-柏林圍牆並非單純的一道牆，而是一個長達約155公里的雙層防禦系統。東德政府將圍牆周邊的建築物拆除，打造出被西方稱為「死亡地帶」（Todesstreifen）的無人區。這個地帶配備了大量瞭望塔、防犬帶、反車輛障礙物、強光照明設備，以及第二道內牆。 更殘酷的是，東德對邊防部隊下達了射擊令（Schießbefehl），授權士兵若無法阻止逃亡者，便可直接開槍射擊。在1961年至1989年間，至少有136至140人在試圖翻越柏林圍牆時遭到射殺、意外身亡或因走投無路而喪生。
+## Division, Surveillance, and Life in East Germany
 
-柏林圍牆建起後，立刻成為冷戰對峙的最前線。1961年10月，美蘇兩國坦克的火砲在查理檢查哨（Checkpoint Charlie）隔著幾公尺的距離互相瞄準，引發了可能爆發第三次世界大戰的緊張對峙。然而，西方領袖也頻頻透過演講表達對柏林人的支持，如1963年美國總統甘迺迪造訪西柏林，發表了著名的「我是柏林人」（Ich bin ein Berliner）的演說，以及1987年，雷根總統在布蘭登堡門前公開呼籲蘇聯領導人「戈巴契夫先生，推倒這堵牆！」（Mr. Gorbachev, tear down this wall!）。 另一方面，西德總理布蘭特（Willy Brandt）於1960年代末期推行「新東方政策」（Neue Ostpolitik），藉由承認現狀來換取實質關係的解凍。這項政策促成了1971年的《四強協定》（Viermächteabkommen über Berlin）與後續幾次領土交換協議，解決了西柏林居民長久以來的交通阻礙問題。
-
-到了1980年代末期，隨著蘇聯領導人戈巴契夫推行經濟與政治改革，不再強硬干預東歐各國內政，東方集團開始出現裂痕。1989年5月，匈牙利率先拆除了與奧地利接壤的邊境鐵絲網，在鐵幕上打開缺口，引發數萬名東德人經由匈牙利或各國大使館逃往西方。同時，東德境內（如萊比錫）爆發了要求民主自由與旅行權利的「星期一示威」（Montagsdemonstrationen），抗議人數急遽增長至數十萬人，最終迫使強硬的東德領導人何內克（Erich Honecker）下台。
-
-1989年11月9日，一個料未及的事件即將發生。這天傍晚，東德執政黨官員夏博夫斯基（Günter Schabowski）在記者會上因內部溝通不良，提早宣佈了一項放寬人民出國旅遊的新草案。當記者追問新規定何時生效時，他在翻找文件後結巴地回答：「據我所知，立即生效，毫不遲延。」 這則新聞播出後，成千上萬震驚且狂喜的東柏林人立刻湧向邊境檢查哨，要求過境。面對龐大的人潮，沒有收到任何指示的邊防軍無法阻擋，最終在深夜11點半左右主動升起起落杆，全面開放了Bornholmer Straße等檢查哨。那一夜，被圍牆阻隔28年的東、西柏林人相擁而泣，許多人爬上圍牆歡呼，甚至拿著鐵鎚開始敲下圍牆的碎塊作為紀念。
-
-柏林圍牆的倒塌宣告了東德政權的瓦解。在接下來的幾個月內，圍牆被迅速拆除，並在美、英、法、蘇與兩德簽署《2加4協定》（Zwei-plus-Vier-Vertrag）後，德國於1990年10月3日正式實現了國家統一。 現在，除了少數被作為歷史古蹟保留下來的實體牆段（如柏林圍牆紀念館），以及市中心地上用來標示舊址的雙排鵝卵石之外，柏林圍牆大多已不復存在。不過，柏林圍牆已經從當年壓迫政策的標誌，轉變成了平民爭取自由勇氣與的象徵。
-
-### 柏林圍牆紀念碑（Gedenkstätte Berliner Mauer）
+### Ministry for State Security / Stasi (Ministerium für Staatssicherheit)
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-在Bernauer Straße的柏林圍牆紀念園區，我們可以進一步了解東西的被柏林圍牆分隔的歷史。這裡保留了70公尺長的圍牆原址，包含一座瞭望塔以及死亡地帶，並結合了大型戶外展覽、文獻中心、以及紀念嘗試跨越圍牆而犧牲的罹難者們的緬懷之窗。地面上也標示了當年投奔自由的逃亡地道位置，與史塔西為攔截逃亡所挖掘的反制地道。
+The Stasi, officially known as the Ministry for State Security (Ministerium für Staatssicherheit; MfS), was the state intelligence agency and secret police of East Germany (GDR) from 1950 to 1990. Its creation was deeply influenced by Soviet intelligence agencies such as the Cheka and the KGB, and it positioned itself as the "shield and sword of the party" (Schild und Schwert der Partei) for the ruling Socialist Unity Party of Germany (SED).
 
-### 查理檢查哨（Checkpoint Charlie）
+The core objective of the Stasi was to maintain the absolute power of the Communist Party and to monitor and suppress any potential political dissent or resistance. To achieve this, the Stasi permeated every corner of East German society, conducting the most rigorous and massive mass surveillance in human history. By 1989, the Stasi employed over 90,000 full-time agents and recruited approximately 190,000 informants (Inoffizielle Mitarbeiter). These informants included ordinary citizens from all walks of life, and the Stasi even required family members, friends, or spouses to monitor and report on one another.
+
+Stasi surveillance methods were extremely invasive, including wiretapping phones, intercepting mail, and installing bugs and hidden cameras in apartments. They even used special fabrics to collect body odor samples from interrogation chairs or stolen underwear (odor jars), which were stored so that trained dogs could track targets if needed in the future.
+
+After the 1970s, to avoid international attention regarding arrests and torture, the Stasi shifted its tactics toward a psychological warfare method known as "decomposition" (Zersetzung). This tactic aimed to break the will of dissidents through psychological torment. Specific methods included spreading damaging rumors, creating family or marital conflicts, obstructing career paths, and entering targets' homes to move furniture or change alarm clock times to induce hallucinations or mental breakdowns in the victims.
+
+Throughout the Stasi’s forty-year history, key figures and major events shaped its trajectory. Erich Mielke was the longest-serving Minister of State Security, wielding total power from 1957 to 1989 and transforming the agency into a vast, omnipresent surveillance empire.
+
+In the field of foreign intelligence, the Main Directorate for Reconnaissance (HVA), led by Markus Wolf from 1952 to 1986, masterminded some of the most damaging operations of the Cold War. He dispatched agent Günter Guillaume to infiltrate West Germany, where he gained the trust of the government and became a senior personal aide to West German Chancellor Willy Brandt. His identity was finally revealed in 1974, leading to his arrest. The resulting scandal triggered a massive political storm that forced Chancellor Brandt to resign.
+
+Domestically, the Stasi's persecution of dissidents often sparked strong social backlash. For example, in 1976, the GDR government expelled the famous folk singer and regime critic Wolf Biermann. This high-handed move provoked a rare public protest from over a dozen prominent East German writers and artists, marking a major turning point in the political and cultural history of the GDR.
+
+However, this seemingly invincible surveillance system finally collapsed during the Peaceful Revolution of 1989. In November of that year, as the regime crumbled, Director Mielke ordered the mass destruction of classified files to cover up the Stasi's long-term human rights abuses. To save this evidence of history and persecution, brave East German citizens and civil rights activists stormed the Stasi headquarters in Berlin on January 15, 1990, successfully stopping the further destruction of files. This mass occupation marked the end of the Stasi's reign of terror and preserved an irreplaceable record for transitional justice and historical reflection in German society.
+
+To learn more about the Stasi, you can visit the Stasi Museum in Lichtenberg, Berlin. This was formerly the site of the Stasi headquarters and was transformed into a "Campus for Democracy" after reunification. The core of the site is Building 1, which served as Erich Mielke’s office building and now houses the museum. Building 7 and the archives hidden behind it were responsible for monitoring social opposition and centrally storing millions of classified surveillance records.
+
+The museum preserves Mielke’s former office, private lounge, and large conference room exactly as they were, allowing visitors to feel the oppressive atmosphere of the totalitarian bureaucracy. The permanent exhibition showcases the Stasi’s pervasive surveillance technology, including various hidden cameras and wiretapping devices. Furthermore, the Stasi Records Agency allows citizens to access records of their surveillance and displays the massive reconstruction project where staff have spent decades painstakingly hand-piecing together millions of document fragments shredded by the Stasi. Through preserved historical scenes and educational exhibitions, the Berlin Stasi headquarters and museum have become vital sites for reflecting on dictatorial history and promoting transitional justice.
+
+Berlin-Hohenschönhausen Memorial (Gedenkstätte Berlin-Hohenschönhausen)
+The Berlin-Hohenschönhausen Memorial carries the history of political persecution in Germany through different stages since 1945. In 1939, this site was a large canteen for the National Socialist People's Welfare (NSV). In May 1945, the Soviet People's Commissariat for Internal Affairs (NKVD) established Special Camp No. 3 here as a transit and detention center for prisoners. More than 16,000 people were detained here, including former Nazi members, spies, and even teenagers over the age of 12 accused of participating in "Werewolf" underground organizations. Living conditions in the camp were extremely harsh, with food shortages and inadequate medical care. With up to 4,000 people squeezed into the small space at once, an estimated 1,000 prisoners died.
+
+After the special camp was dissolved in November 1946, prisoners were forced to build cells in the basement. From 1947, it became a central remand prison. The cells were extremely damp and unheated; prisoners had only wooden boards for beds and buckets for waste. Additionally, the Soviet military frequently used physical violence, threats, and sleep deprivation, conducting grueling interrogations for hours at night. Prisoners during this period included not only former Nazis but also many political dissidents, such as members of democratic parties like the SPD and CDU, as well as communist dissenters viewed as threats.
+
+In 1951, the Stasi took over the prison and forced inmates to build a new prison complex. The entire compound was located within a vast and heavily guarded military restricted zone, surrounded by high walls, watchtowers, and armed guards. To keep it secret, the area was even marked as a "no-man's-land" on East Berlin maps from the 1970s. During this period, a large number of political prisoners were incarcerated here, including participants in the June 17, 1953 uprising, fallen politicians, dissidents, critics kidnapped from West Berlin, and citizens caught attempting to cross the Berlin Wall.
+
+Following the dissolution of the Stasi in 1989, all political prisoners were released, and the prison was officially closed on October 3, 1990, the day of German reunification. Subsequently, the Berlin Senate recommended in 1991 that the site be converted into a memorial. The complex was listed as a historical monument in 1992, opened to visitors in 1994, and further expanded into a formal memorial institution in 2000.
+
+### The Berlin Wall (Berliner Mauer)
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-查理檢查哨的名稱源自北約音標字母，是繼Alpha（Helmstedt-Marienborn）與Bravo（Dreilinden-Drewitz）之後，由盟軍設立的第三個檢查哨。1961年10月，美蘇兩國坦克在此全副武裝地對峙，戰事一觸即發，為冷戰史上極為驚險的時刻。此外，這裡也是無數人企圖逃離東柏林的地方，相關故事皆記錄在鄰近的露天展覽中。
+The Berlin Wall (Berliner Mauer) existed from 1961 to 1989 and was the most concrete symbol of German division and totalitarian oppression during the Cold War.
 
-儘管原始的檢查哨站早在1990年就被移往盟軍博物館，但作為間諜電影的經典場景，現址重建的縮小版複製品與紀念最後一批駐軍的士兵照片，依然吸引全球遊客前來一探那段鐵幕下的肅殺歲月。
+After the end of World War II, according to the 1945 Potsdam Agreement, defeated Germany and its capital, Berlin, were divided into four occupation zones by the Allied powers (USA, UK, France, and the USSR). As ideological conflicts between the West and the Soviet Union intensified, the pro-Western Federal Republic of Germany (West Germany) and the Soviet-controlled German Democratic Republic (East Germany) were established in 1949.
 
-### 東邊畫廊（East Side Gallery）
+Between 1949 and 1961, dissatisfied with East Germany's political and economic systems, approximately 2.7 to 4 million East Germans (about one-sixth of the total population) chose to flee to the West. Half of these refugees were young people under the age of 25. This massive brain drain brought East Germany to the brink of social and economic collapse. While the internal German border was gradually being sealed, the sector borders within Berlin remained open, making West Berlin the last loophole for East Germans to escape.
+
+Although East German leader Walter Ulbricht lied to the world in June 1961, stating that "no one has the intention of building a wall," the GDR suddenly mobilized military and police forces in the early morning of August 13, 1961. Under extreme secrecy, they used barbed wire and roadblocks to seal the border between East and West Berlin, cutting off all transportation hubs. Over the following weeks, these temporary barriers were replaced by a solid wall made of concrete slabs and hollow blocks. The wall instantly severed city streets, squares, and neighborhoods, heartlessly tearing apart countless families and friends.
+
+The Berlin Wall was not just a single wall, but a 155-kilometer-long double-layered defense system. The East German government demolished buildings around the wall to create a no-man's-land known in the West as the "Death Strip" (Todesstreifen). This zone was equipped with watchtowers, dog runs, anti-vehicle obstacles, high-intensity lighting, and a second inner wall. Even more cruelly, the GDR issued a "shoot-to-kill" order (Schießbefehl), authorizing border guards to open fire if they could not otherwise stop fugitives. Between 1961 and 1989, at least 136 to 140 people were shot, died in accidents, or perished in desperation while attempting to cross the wall.
+
+After its construction, the Berlin Wall immediately became the front line of Cold War confrontation. In October 1961, American and Soviet tanks faced off at Checkpoint Charlie, aiming their cannons at each other from just a few meters away—a tense standoff that threatened the outbreak of World War III. However, Western leaders frequently visited to express support through speeches, such as U.S. President John F. Kennedy's famous "Ich bin ein Berliner" speech in 1963, and President Ronald Reagan's 1987 call at the Brandenburg Gate: "Mr. Gorbachev, tear down this wall!" On the other hand, West German Chancellor Willy Brandt pursued "Ostpolitik" in the late 1960s, seeking to thaw relations by recognizing the status quo. This policy led to the 1971 Four-Power Agreement on Berlin, which resolved long-standing transit obstacles for West Berlin residents.
+
+By the late 1980s, cracks began to appear in the Eastern Bloc as Soviet leader Mikhail Gorbachev introduced economic and political reforms and stopped intervening forcefully in the internal affairs of Eastern European nations. In May 1989, Hungary took the lead in dismantling the barbed wire on its border with Austria, opening a gap in the Iron Curtain. This triggered an exodus of tens of thousands of East Germans to the West via Hungary or various embassies. Simultaneously, "Monday Demonstrations" (Montagsdemonstrationen) demanding democracy, freedom, and travel rights erupted across East Germany (notably in Leipzig), with protester numbers surging to hundreds of thousands, eventually forcing the hardline leader Erich Honecker to resign.
+
+On November 9, 1989, an unexpected event occurred. That evening, GDR official Günter Schabowski, due to poor internal communication, prematurely announced a new draft regulation relaxing travel restrictions at a press conference. When asked by a journalist when the new rules would take effect, he checked his documents and stammered: "As far as I know, it takes effect immediately, without delay." After the news broadcast, thousands of shocked and ecstatic East Berliners rushed to the border checkpoints demanding to pass. Facing the massive crowd and having received no orders, the border guards were unable to stop them and eventually raised the barriers at checkpoints like Bornholmer Straße around 11:30 PM. That night, East and West Berliners, separated for 28 years, embraced and wept; many climbed the wall to cheer, and some even began chipping away pieces of the wall with hammers as souvenirs.
+
+The fall of the Berlin Wall signaled the collapse of the East German regime. In the following months, the wall was rapidly dismantled. Following the signing of the "Two Plus Four Treaty" between the U.S., UK, France, the USSR, and the two German states, Germany was officially reunified on October 3, 1990. Today, except for a few sections preserved as historical monuments (such as the Berlin Wall Memorial) and the double row of cobblestones marking its former path in the city center, most of the wall has disappeared. However, the Berlin Wall has transformed from a symbol of oppression into a symbol of the courage and the common person's struggle for freedom.
+
+### Berlin Wall Memorial (Gedenkstätte Berliner Mauer)
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-1989年柏林圍牆倒塌後短短幾天內，藝術家們便開始在圍牆作畫。最初在波茨坦廣場的畫作曾被東德邊防衛兵塗毀，不過藝術家們不氣餒，他們決定將圍牆打造成世界上最大的畫廊，並在取得東德國防部的同意後，選定了Mühlenstraße上的這段圍牆作為作畫地點。
+At the Berlin Wall Memorial on Bernauer Straße, we can learn more about the history of the city's division. This site preserves 70 meters of the original wall, including a watchtower and the "Death Strip." It features a large outdoor exhibition, a documentation center, and the "Window of Remembrance" dedicated to those who died attempting to cross the wall. The ground is also marked with the locations of escape tunnels dug by those seeking freedom, as well as counter-tunnels dug by the Stasi to intercept them.
 
-這座露天畫廊全長1316公尺，有來自21個國家118位藝術家共同參與創作，於1990年9月28日正式開幕。這不僅是世界上最長的露天畫廊，也是目前現存最長的連續柏林圍牆遺跡。藝術家們透過一百多幅畫作紀錄了當代歷史，並對1989至1990年間的政治變革發表評論。這些作品表達了對圍牆倒塌與冷戰結束的喜悅、對和平與自由民主的期盼，同時也反映出對未知未來的擔憂。
-
-東邊畫廊中備受歡迎的著名看點絕對是Dmitri Vrubel的經典之作《神啊，請助我在這致命之愛中生還》（Го́споди! Помоги́ мне вы́жить среди́ э́той сме́ртной любви́；Mein Gott, hilf mir, diese tödliche Liebe zu überleben）。壁畫描繪的是前蘇聯領導人布里茲涅夫（Leonid Brezhnev）與東德領導人何內克（Erich Honecker）之間的社會主義兄弟之吻。我以前一直以為這只是藝術家的想像，完全這竟然是真實發生過的歷史事件！
-
-透過這些藝術創作，這段圍牆免於被拆除與進一步衰敗的命運。開幕一年多後，東邊畫廊被柏林邦列為受保護的紀念碑，作為傳達柏林長達28年分裂歷史的重要原址見證。為了確保這座露天畫廊能長久存續，柏林邦政府於2018年11月將東邊畫廊的產權正式移交給柏林圍牆基金會（Stiftung Berliner Mauer），由其專責這座紀念碑的後續保存與維護。
-
-### 奧伯鮑姆橋（Oberbaumbrücke）
+### Checkpoint Charlie
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-柏林最美的橋，東邊畫廊不遠處的奧伯鮑姆橋（Oberbaumbrücke）自稱第二，沒有其他橋敢自稱第一！
+The name "Checkpoint Charlie" comes from the NATO phonetic alphabet, being the third checkpoint established by the Allies after Alpha (Helmstedt-Marienborn) and Bravo (Dreilinden-Drewitz). In October 1961, American and Soviet tanks faced off here fully armed, bringing the world to the brink of war in one of the most perilous moments of the Cold War. Furthermore, it was a site where countless individuals attempted to flee East Berlin, with their stories documented in the nearby open-air exhibition.
 
-它的名字Oberbaum源於一項古老的關稅制度。當時人們在河面上設置樹幹（Baum）作為路障來收取通行費，而這裡正是柏林東側關稅牆的邊界。這座橋於1724年初建時僅是簡易的木橋，直到1894年為了應對都市擴張與地鐵建設，才翻修為今日我們所見、融合防禦塔樓風格的石造橋樑。
+Although the original checkpoint booth was moved to the Allied Museum in 1990, its status as a classic setting for spy movies remains. The reconstructed small-scale replica at the site, along with the photographs of the last soldiers stationed there, continues to attract tourists from around the world to witness the chilling atmosphere of the Iron Curtain era.
 
-柏林圍牆建立後不久，這座橋就被關閉，當時包括整條施普雷河的水域和橋樑本身都屬於東柏林管轄。直到1963年聖誕節，這裡才重新設立了僅供行人通行的邊境檢查站。兩德統一後，橋樑的擴建為四線道，成為提供行人、車輛以及地鐵U1線通行的重要交通建設，也是柏林的象徵之一。
-
-### 魔鬼山（Teufelsberg）
+### East Side Gallery
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-柏林西邊有一座魔鬼山（Teufelsberg）。對於熟悉的人來說，這裡是街頭藝術的聖地，不過這裡曾經是一座美國監聽站。
+Just days after the fall of the Berlin Wall in 1989, artists began painting on the wall. While initial works at Potsdamer Platz were painted over by East German border guards, the artists were undeterred. They decided to transform the wall into the world's largest gallery and, with the consent of the GDR Ministry of Defense, selected this section of the wall on Mühlenstraße as their canvas.
 
-魔鬼山的歷史可以追溯到第二次世界大戰前。1937年，希特勒預計在Heerstraße和魔鬼湖（Teufelssee）之間建立軍事技術學院（Wehrtechnische Fakultät），以供工程師進行軍備與戰爭研究，可是建築只蓋了一半就因為二戰的戰況而被叫停。
+This open-air gallery is 1,316 meters long and features works by 118 artists from 21 countries. It officially opened on September 28, 1990. It is not only the longest open-air gallery in the world but also the longest continuous stretch of the Berlin Wall still in existence. Through over a hundred paintings, artists documented contemporary history and commented on the political changes of 1989–1990. These works express joy over the fall of the wall and the end of the Cold War, hope for peace, freedom, and democracy, while also reflecting concerns about an uncertain future.
 
-二戰結束後，柏林化為一片廢墟。為了尋找合適地方處理瓦礫，柏林參議院選擇了Grunewald這片區域，並利用軍事技術學院幾乎未被破壞的堅固地基作為堆疊瓦礫的基礎。從1950年到1972年，每天有800輛卡車運載7000噸的碎石來到這裡，22年間總共在此堆疊了2600萬立方公尺的二戰建築瓦礫。高達120公尺的人工魔鬼山正式誕生。
+The most popular highlight of the East Side Gallery is undoubtedly Dmitri Vrubel's classic work, My God, Help Me to Survive This Deadly Love (Го́споди! Помоги́ мне вы́жить среди́ э́той сме́ртной любви́). The mural depicts the "Socialist Fraternal Kiss" between former Soviet leader Leonid Brezhnev and East German leader Erich Honecker. I used to think this was just a product of the artist's imagination, but it turns out to be a real historical event!
 
-1950年代，美國與英國佔領軍看中了這座山丘的戰略潛力，並開始將其用於軍事與間諜活動。1961年至1963年間，美軍在此建造了永久性的雷達站建築群。這裡成為了美國國家安全局（NSA）在美國本土之外最重要的據點之一，並發展成為盟軍梯隊系統（Echelon）間諜網路中最大且最重要的監聽設施。擁有五座標誌性雷達穹頂的建築群在此期間負責攔截、監聽甚至干擾蘇聯及東方集團國家的無線電通訊，園區內全天候運作，約有1500人在此從事情報工作。
+Through these artistic creations, this section of the wall was saved from demolition and further decay. A year after its opening, the East Side Gallery was designated a protected monument by the state of Berlin, serving as an important original witness to Berlin's 28-year history of division. To ensure its long-term preservation, the Berlin state government officially transferred ownership of the East Side Gallery to the Berlin Wall Foundation (Stiftung Berliner Mauer) in November 2018.
 
-隨著冷戰結束與衛星通訊技術的進步，傳統的監聽方法逐漸過時，監聽站於1992年正式關閉。此後至1994年，這裡曾短暫用來進行民用航空的空中交通監控。後續另有一些開發計畫，不過都沒能實現。廢棄的建築則逐漸成為柏林另類文化、藝術家與塗鴉創作者的聚集地。如今，這個園區被經營為一個策展型的街頭藝術畫廊，吸引許多年輕國際遊客造訪。
-
-### 格林尼克橋（Glienicker Brücke）
+### Oberbaum Bridge (Oberbaumbrücke)
 ![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
 
-格林尼克橋（Glienicker Brücke）跨越哈維爾河（Die Havel），是一座連接著波茨坦（Potsdam）與柏林西南部極具歷史意義的重要通道。冷戰時期，東西德邊界正好穿過橋樑的中央，儘管東德曾將其命名為團結之橋（Brücke der Einheit），但在柏林圍牆建起後，兩德平民便完全無法通行。由於地處偏遠且易於監視，這裡成為美蘇兩大陣營交換間諜與囚犯的絕佳地點，也使這座橋充滿了戲劇性而舉世聞名。
+When it comes to the most beautiful bridge in Berlin, if the Oberbaumbrücke near the East Side Gallery claims second place, no other bridge would dare claim first!
 
-柏林圍牆倒塌的隔天，格林尼克橋重新開放，恢復了雙向交通，如今已成為德國1號聯邦公路的一部分。如果仔細看橋身，可以發現兩側的綠色油漆色調略有不同，這源於冷戰時期東西兩德分別維修、各自上漆的結果，也成為德國曾經分裂的歷史見證。
+Its name, "Oberbaum," originates from an ancient customs system where tree trunks (Baum) were used as river barriers to collect tolls. This was the boundary of Berlin's eastern customs wall. Originally built as a simple wooden bridge in 1724, it was renovated in 1894 into the stone structure we see today—blending the style of defensive towers—to accommodate urban expansion and subway construction.
 
+The bridge was closed shortly after the Berlin Wall was erected, as the entire Spree River and the bridge itself fell under East Berlin's jurisdiction. It wasn't until Christmas 1963 that a border crossing for pedestrians only was established here. After reunification, the bridge was expanded to four lanes, becoming a vital artery for pedestrians, vehicles, and the U1 subway line, and remains one of Berlin's most iconic symbols.
 
+### Devil's Mountain (Teufelsberg)
+![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+
+In the west of Berlin lies the Teufelsberg (Devil's Mountain). To those in the know, it is a mecca for street art, but it was once a US listening station.
+
+The history of Teufelsberg dates back to before WWII. In 1937, Hitler intended to build a Faculty of Military Technology (Wehrtechnische Fakultät) between Heerstraße and Teufelssee for engineers to conduct armament and war research. However, construction was halted halfway due to the progress of the war.
+
+After the war, Berlin was in ruins. Seeking a place to dispose of debris, the Berlin Senate chose this area in the Grunewald forest, using the nearly indestructible foundations of the military faculty as a base to pile rubble. From 1950 to 1972, 800 trucks daily delivered 7,000 tons of debris. Over 22 years, a total of 26 million cubic meters of WWII building rubble were stacked here, creating the 120-meter-high man-made Teufelsberg.
+
+In the 1950s, US and British occupation forces recognized the hill's strategic potential and began using it for military and intelligence activities. Between 1961 and 1963, the US military built a permanent radar station complex. This became one of the most important NSA outposts outside the US and developed into the largest and most critical listening facility in the Allied Echelon spy network. The complex, with its five iconic radar domes, was responsible for intercepting and monitoring radio communications from the Soviet Union and Eastern Bloc countries. Operating 24/7, about 1,500 people worked there in intelligence.
+
+With the end of the Cold War and advances in satellite technology, traditional listening methods became obsolete, and the station officially closed in 1992. Between then and 1994, it was briefly used for civil aviation air traffic control. Subsequent development plans fell through, and the abandoned buildings gradually became a gathering place for Berlin's alternative culture, artists, and graffiti creators. Today, the site is operated as a curated street art gallery, attracting many young international visitors.
+
+### Glienicke Bridge (Glienicker Brücke)
+![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+
+Spanning the Havel River, the Glienicke Bridge (Glienicker Brücke) is a historically significant passage connecting Potsdam and southwestern Berlin. During the Cold War, the border between East and West Germany ran right through the middle of the bridge. Although East Germany named it the "Bridge of Unity" (Brücke der Einheit), it was completely closed to civilians after the Berlin Wall was built. Due to its remote location and ease of surveillance, it became the perfect spot for the US and Soviet camps to exchange spies and prisoners, making the bridge world-famous and the subject of much drama.
+
+The day after the fall of the Berlin Wall, the Glienicke Bridge reopened to two-way traffic and is now part of Germany's Federal Highway 1. If you look closely at the bridge, you can see that the shades of green paint on the two sides are slightly different. This is a result of East and West Germany performing their own maintenance and painting during the Cold War—a silent witness to Germany's divided history.
