@@ -10,7 +10,7 @@ permalink: /berlin_ddr/
 柏林實在太多有趣的地方了，除了古城牆以及教堂們，柏林還還乘載著東德時代的歷史記憶。趁這些蹤跡永遠消失之前好好探索一下。
 
 
-## 柏林-卡爾斯霍斯特博物館（Museum Berlin Karlshorst）
+## 柏林-卡爾斯霍斯特博物館（Museum Berlin-Karlshorst）
 ![Brömserburg]({{ site.baseurl }}/_image/Mittelrheintal/Rüd_Brömserburg.jpg)
 
 二戰的歐洲戰場開始於1939年9月1日德軍侵略波蘭，結束於1945年德軍無條件投降。可是對於歐洲戰場的結束日，不同國家有不同定義。
