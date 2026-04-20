@@ -11,7 +11,7 @@ permalink: /berlin_ddr/
 
 
 ## 柏林-卡爾斯霍斯特博物館（Museum Berlin-Karlshorst）
-![Brömserburg]({{ site.baseurl }}/_image/Mittelrheintal/Rüd_Brömserburg.jpg)
+![Museum Berlin-Karlshorst]({{ site.baseurl }}/_image/Berlin_DDR/Museum_Karlshorst.jpg)
 
 二戰的歐洲戰場開始於1939年9月1日德軍侵略波蘭，結束於1945年德軍無條件投降。可是對於歐洲戰場的結束日，不同國家有不同定義。
 
@@ -26,7 +26,7 @@ permalink: /berlin_ddr/
 ## 紀念碑與雕像
 
 ### 特雷普托公園蘇聯戰士紀念碑（Sowjetisches Ehrenmal Treptow）
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Sowjetisches Ehrenmal Treptow]({{ site.baseurl }}/_image/Berlin_DDR/Ehrenmal_Treptow.jpg)
 
 戰爭帶來的是毀滅，無數生命在這場浩劫中喪失。為了追悼在二戰中陣亡的將士們，蘇聯政府在柏林相繼建立了四個主要的紀念碑，特雷普托公園的蘇聯戰士紀念碑（Sowjetisches Ehrenmal Treptow）為其中規模最大的一個。
 
@@ -37,7 +37,7 @@ permalink: /berlin_ddr/
 園區兩側另外設有16座石棺，上面刻有展現偉大的衛國戰爭場景的浮雕，並附有史達林的語錄。此外，主雕像周圍雖然設有五個墓區，但它們主要具備象徵意義，真正埋葬7,000多名士兵的墳墓則較為低調地分佈在園區的邊緣地帶。
 
 ### 蒂爾加藤公園蘇聯戰士紀念碑（Sowjetisches Ehrenmal Tiergarten）
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Sowjetisches Ehrenmal Tiergarten]({{ site.baseurl }}/_image/Berlin_DDR/Ehrenmal_Tiergarten.jpg)
 
 另一座蘇聯戰士紀念碑位於蒂爾加藤公園（Großer Tiergarten），離布蘭登堡門不遠，走路十分鐘內即可到達。
 
@@ -46,7 +46,7 @@ permalink: /berlin_ddr/
 在紀念碑後方有一座小公園，分布著2000多名陣亡士兵的墳墓。原先的衛兵室則安裝了展示牌，向參觀者介紹柏林的蘇聯紀念碑，以及其他關於二戰的細節，以達到警惕後人的效果。
 
 ### 台爾曼紀念雕像（Ernst-Thälmann-Denkmal）
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Denkmal_Thälmann]({{ site.baseurl }}/_image/Berlin_DDR/Denkmal_Thälmann.jpg)
 
 共產主義政治家恩斯特·台爾曼（Ernst Thälmann）出生於德國漢堡。他在1919年至1933年間代表德國共產黨（KPD）擔任漢堡市議會議員，並於1924年至1933年間出任帝國議會議員。他在1925年成為德國共產黨主席，並曾於1925年與1932年兩度競選帝國總統。1933年3月初納粹掌權後，台爾曼隨即遭到逮捕，在未經任何審判的情況下於不同的監獄中被關押了11年。1944年8月18日，在希特勒的命令下，台爾曼被送往布痕瓦爾德（Buchenwald）集中營並遭到謀殺。
 
@@ -55,7 +55,7 @@ permalink: /berlin_ddr/
 ## 社會主義壁畫與建築
 
 ### 《共和國建設》*Aufbau der Republik*
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Aufbau der Republik]({{ site.baseurl }}/_image/Berlin_DDR/Aufbau der Republik.jpg)
 
 德國聯邦財政部大樓的東北側柱廊上，有一幅名為《共和國的建立》（Aufbau der Republik）的著名壁畫，由藝術家Max Lingner設計、14位邁森瓷器的畫家共同協作完成。壁畫最初名為「和平對人類文化發展的意義及為之奮鬥的必要性」，但在東德領導人的要求下進行了多次修改，最終呈現為一幅展現工人階級崛起的宣傳畫。
 
@@ -68,7 +68,8 @@ permalink: /berlin_ddr/
 兩德統一後，這裡成為負責東德企業私有化的託管局總部直到1994年。1992年，為了紀念於1991年遭紅軍（RAF）暗殺的託管局主席羅韋德爾（Detlev Rohwedder），大樓因此以他為名，並自1999年起成為聯邦財政部的辦公地點。 
 
 ### 《德國工人運動史》*Aus der Geschichte der deutschen Arbeiterbewegung*
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Berlin_ESMT]({{ site.baseurl }}/_image/Berlin_DDR/Berlin_ESMT.jpg)
+![Aus der Geschichte der deutschen Arbeiterbewegung]({{ site.baseurl }}/_image/Berlin_DDR/Aus der Geschichte der deutschen Arbeiterbewegung.jpg)
 
 歐洲管理科技學院（ESMT）的同學或是校友都知道，學校建築物的前身是前東德的國務院大樓（Staatsratsgebäude），地位相當於現在的德國聯邦總理府（Bundeskanzleramt）。它是二戰後柏林第一座新建的政府大樓，建於被炸毀的王宮遺址上。
 
@@ -83,7 +84,8 @@ permalink: /berlin_ddr/
 這件作品精確重現了東德的國徽，包含了象徵工人、農民與知識份子的鐵鎚、麥穗和圓規。這幅馬賽克是大樓內唯一真正與建築融為一體的藝術品。雖然東德解體後它失去了原有的政治功能，但由於它的歷史以及藝術價值，它被完整地保留下來，同時也有能在必要時用布幕將其遮蔽的裝置，以適應現代的使用需求。
 
 ### 《我們的生活》*Unser Leben*
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Unser Leben]({{ site.baseurl }}/_image/Berlin_DDR/Unser Leben.jpg)
+![Haus des Lehrers]({{ site.baseurl }}/_image/Berlin_DDR/Haus des Lehrers.jpg)
 
 沃馬卡（Walter Womacka）是東德最具代表性的藝術家之一 。他曾任東德美術家協會副主席，並於1968年成為東德藝術學院的成員之一。由於他受當時東德領導人烏布利希（Walter Ulbricht）大力支持，沃馬卡的作品在柏林以及前東德的很多地區都可以看到。
 
@@ -92,13 +94,15 @@ permalink: /berlin_ddr/
 至於教師之家本身，其前身是1908年落成的教師之家（Lehrervereinshaus）。這裡歷史意義深遠：1919年2月曾為遇害的共產主義領袖盧森堡（Rosa Luxemburg）與李卜克內西（Karl Liebknecht）舉辦紀念活動；1920年，德國共產黨（KPD）與獨立社會民主黨（USPD）也是在此宣告合併。或許正是因為這棟建築曾有著濃厚的左翼政治色彩，才使得他成為二戰後最早建成的高樓吧。
 
 ### 《凌駕時空的人們》*Der Mensch überwindet Zeit und Raum*
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Der Mensch überwindet Zeit und Raum]({{ site.baseurl }}/_image/Berlin_DDR/Der Mensch überwindet Zeit und Raum.jpg)
 
 位於旅行之家（Haus des Reisens）的銅製浮雕作品《凌駕時空的人們》（Der Mensch überwindet Zeit und Raum）也是沃馬卡的作品之一。作品的主體有一對年輕男女以及一位太空人。圍繞在他們的是各種景色的意象，如水面上的船、樹木、鳥類和太陽等，表達出社會主義致力於科學與技術的進步，進而讓人們能夠不受時空限制，以先驅者的姿態前往太空，並將這份美好傳達給世界。
 
 旅行之家在兩德統一之前一直是東德國家旅行社總部及東德國際航空（Interflug）辦公室的所在地 。建築的一樓設有國內外航班與鐵路售票櫃檯，並設有日夜開放的外國人登記服務處及外匯兌換所 。現在則是有一家夜店以及健身房。
 
 ### 民族友誼噴泉（Brunnen der Völkerfreundschaft）
+![Brunnen der Völkerfreundschaft]({{ site.baseurl }}/_image/Berlin_DDR/Brunnen der Völkerfreundschaft.jpg)
+
 常去亞歷山大廣場的朋友們，應該都對廣場中央那座大噴泉印象深刻。這座噴泉本名是民族友誼噴泉（Brunnen der Völkerfreundschaft），為沃馬卡於1969至1970年廣場重新規劃期間所打造的作品。
 
 這座噴泉高6.2公尺，以鍛造銅銅、玻璃、陶瓷和琺瑯等多種材質打造，並由內、外兩個水池組成。外層是直徑達23公尺的巨大圓池，內層則有17根高低交錯、呈螺旋狀排列的銅柱，頂端各有菱形的銅盤。水流會從最高處湧出，沿著這17個銅盤如螺旋般逐層流下，匯入內池，隨後再透過內池外牆上的出水口流入外池。在內池的外牆上還繪有動植物圖案以及充滿民俗風情的和平意象。
@@ -106,7 +110,8 @@ permalink: /berlin_ddr/
 藉由這個螺旋向下流動的水流，整座噴泉生動地傳達了萬民友誼的理念，將源源不絕的水流作為友誼的象徵，從這裡向外延伸到世界各地。
 
 ### 《作為組織者的新聞界》*Die Presse als Organisator*
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Haus des Berliner Verlages]({{ site.baseurl }}/_image/Berlin_DDR/Haus des Berliner Verlages.jpg)
+![Die Presse als Organisator]({{ site.baseurl }}/_image/Berlin_DDR/Die Presse als Organisator.jpg)
 
 位於亞歷山大廣場的西北側，我們也可以找到東德社會主義現代主義風格（Sozialistische Moderne）的傑出代表：柏林出版社大樓（Haus des Berliner Verlages）及其附屬的新聞咖啡館（Pressecafé）。
 
@@ -117,7 +122,7 @@ permalink: /berlin_ddr/
 作為東德現代社會主義風格的名建築，壁畫當然是少不了的。在新聞咖啡館的外牆上有一幅 Willi Neubert創作的琺瑯瓷磚壁畫《作為組織者的新聞界》（Die Presse als Organisator）。這上面生動描繪了東德出版與編輯工作的情景，以及人們閱讀新聞的畫面。仔細看，還能發現隱藏其中的馬克思畫像。有趣的是，兩德統一後，這幅具有濃厚意識形態色彩的壁畫居然被一家牛排餐廳的招牌遮蓋了長達29年！要一直到2021年才再次修復完成，重新出現在大眾面前。
 
 ### 市政廳拱廊（Rathaus-Passagen）
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Rathaus-Passagen]({{ site.baseurl }}/_image/Berlin_DDR/Rathaus-Passagen.jpg)
 
 個人很喜歡亞歷山大廣場附近的市政廳拱廊（Rathaus-Passagen）。這個巨大的建築群與相鄰的紅色市政廳（Rotes Rathaus）互相呼應，每次路過都能感受到一種帶點現代又復古的奇妙感覺。
 
@@ -128,7 +133,8 @@ permalink: /berlin_ddr/
 在公共藝術方面，許多早期的藝術品已下落不明，但建築北側仍保留著1970年由雕塑家Gerhard Rommel創作的建築工人紀念碑（Bauarbeiterdenkmal）。這件青銅浮雕特別描繪了女性工程師，反映了當時東德提倡性別平等的社會價值觀。
 
 ### 馬克思大道（Karl-Marx Allee）
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Karl-Marx Allee]({{ site.baseurl }}/_image/Berlin_DDR/Karl-Marx Allee.jpg)
+![Karl-Marx Allee2]({{ site.baseurl }}/_image/Berlin_DDR/Karl-Marx Allee2.jpg)
 
 柏林另一個我也很喜歡的地方是馬克思大道（Karl-Marx Allee），因為這條路非常寬敞，兩旁的建築也非常巨大，走在路上總覺得心曠神怡。
 
@@ -140,8 +146,9 @@ permalink: /berlin_ddr/
 
 諷刺的是，1953年6月，為了抗議政府強行提高工作定額，史達林大道工地的建築工人率先發起罷工，這場抗爭隨即演變成席捲全東德的六一七事件，最終遭到蘇聯坦克的鎮壓。沒想到在這條象徵工人夢想的大道，竟然成為東德歷史上最黑暗的一頁。
 
-### 莫斯科咖啡館（Café Moskau）與《蘇聯各族人民的生活》*Aus dem Leben der Völk-er der Sowjetunion*
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+### 莫斯科咖啡館（Café Moskau）與《蘇聯各族人民的生活》*Aus dem Leben der Völker der Sowjetunion*
+![Café Moskau]({{ site.baseurl }}/_image/Berlin_DDR/Café Moskau.jpg)
+![Aus dem Leben der Völker der Sowjetunion]({{ site.baseurl }}/_image/Berlin_DDR/Aus dem Leben der Völker der Sowjetunion.jpg)
 
 莫斯科咖啡館（Café Moskau）是象徵東德與蘇聯兄弟情誼的標誌性建築。咖啡館於1964年1月18日開幕，主打蘇聯各國特色美食，內部設有酒吧、咖啡廳、夜總會及手工藝品店。這裡曾是高級社交場所，不過也是不少黑市交易間諜活動的據點。1989年被列為歷史古蹟後，咖啡廳於1994年停止餐廳營運，現在則是各類活動已經會議舉辦的場所。
 
@@ -152,7 +159,8 @@ permalink: /berlin_ddr/
 此外，在壁畫上的柱子頂端還立著由藝術家Fritz Kühn創作的1:1比例的史普尼克衛星模型，作為蘇聯科技的象徵。
 
 ### 國際電影院（Kino International）與《當代人們的生活》*Aus dem Leben der heutigen Menschen*
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Kino International]({{ site.baseurl }}/_image/Berlin_DDR/Kino International,jpg)
+![Aus dem Leben der heutigen Menschen]({{ site.baseurl }}/_image/Berlin_DDR/Aus dem Leben der heutigen Menschen.jpg)
 
 1963年開幕，由建築師Josef Kaiser設計的國際電影院（Kino International）是柏林最具代表性的現代主義建築之一，它的完工也象徵著東德政府試圖擺脫史達林時代沉重的建築風格，轉向接軌西方當代的簡潔美學。其懸浮式鋼骨構造與二樓向外延伸九公尺的玻璃帷幕大廳，營造出輕盈且開放的空間感。
 
@@ -169,7 +177,8 @@ permalink: /berlin_ddr/
 在德國古蹟保護基金會的資助下，這些珍貴的浮雕得以持續保留至今。
 
 ### 法蘭克福門（Frankfurter Tor）
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Frankfurter Tor]({{ site.baseurl }}/_image/Berlin_DDR/Frankfurter Tor.jpg)
+
 
 法蘭克福門（Frankfurter Tor）最早的位置約在現在U5 Weberwiese站附近，為柏林海關牆的一座城門，以其通往奧得河畔法蘭克福（Frankfurt (Oder)）的軍隊道路起點而得名。1716年法蘭克福門為木製城門，1802年改建為石造城門，於1867年為了城市擴建而拆除。在第二次世界大戰期間，這裡在1945年春季的蘇聯紅軍攻堅戰以及先前的轟炸中遭到嚴重破壞。戰後，廢墟在1950至1956年間進行了全面的重建，建造了7至9層樓高的大型住宅區，而現在的法蘭克福門則是在1957年為了致敬舊城門而重新命名。
 
@@ -178,7 +187,7 @@ permalink: /berlin_ddr/
 除了宏偉的外觀，塔樓的南北兩側各有不同的內部設施。北塔地面層有塔樓畫廊（Galerie im Turm）進駐，為居住在柏林的藝術家提供展覽空間。南塔頂樓設有一間可供租用的高空休息室（Lounge im Turm），適合舉辦小型招待會或其他慶祝活動。自2023年春季起，塔樓10樓開放了一間別具特色的東德設計模型公寓。這間公寓由在此長居並推廣建築文化的建築師Thomas Krüger開放參觀，並由設計師Stephan Schilgen進行室內佈置。公寓內展示了許多罕見的東德原創家具和藝術品，說明了東德時代的設計不僅限於政治宣傳的糖果盒風格，還蘊含著古典現代主義的傳統。參觀者在這裡不僅能深刻體驗東德的生活感，還能享受俯瞰柏林市的絕佳視野。
 
 ### 《新德國報》出版社大樓（Verlagsgebäude Neues Deutschland）
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Verlagsgebäude Neues Deutschland]({{ site.baseurl }}/_image/Berlin_DDR/Verlagsgebäude Neues Deutschland.jpg)
 
 走在柏林東站（Ostbahnhof）附近的街道上，很難不被一棟掛著 Neues Deutschland巨大招牌的建築吸引。想當初我也是湊巧搭車經過這裡，那時候還以為那是德國二戰後重建的標語，沒想到在好奇心驅使下研究後，才發現這個地方有很曲折的故事。
 
@@ -191,7 +200,7 @@ permalink: /berlin_ddr/
 1990年兩德統一後，由於這棟建築位於前德國國營鐵路（Deutsche Reichsbahn）的土地上，1995年至2005年間，《新德國報》出版社與作為國營鐵路法律繼承人的德國鐵路公司（Deutsche Bahn）針對該處房產展開了長期的法律訴訟。在此期間，報社被迫短暫遷出，直到2005年才得以回歸。現在的《新德國報》大樓在經過現代化翻修後，已轉型為多元化的辦公與文化中心，租戶涵蓋了羅莎盧森堡基金會（Rosa-Luxemburg-Stiftung）及多個非政府組織。為了不讓後人遺忘這段錯綜複雜的歷史，大樓外特別設立了多座紀念碑，分別向舊車站、消失的Plaza劇院、受迫害的創辦人Jules Marx以及報社的奮鬥歷程致敬，使這座建築成為柏林都市記憶中不可或缺的一部分。
 
 ### 洪堡大學法學院圖書館的列寧彩色玻璃窗（Das Lenin-Glasfenster in der Zweigbibliothek Rechtswissenschaft der HU Berlin）
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Lenin Alte Bibliothek]({{ site.baseurl }}/_image/Berlin_DDR/Lenin Alte Bibliothek.jpg)
 
 誰能想到，洪堡大學法律系圖書館內居然隱藏著一系列畫有馬克思、恩格斯以及列寧的彩繪玻璃？從1895到1917年間，列寧曾多次造訪柏林，並且是當時皇家圖書館的常客。為了紀念列寧曾經在此埋頭苦讀的經歷，東德時期將圖書館的大閱覽室改名為列寧廳（Lenin-Lesesaal），並於1968年由藝術家Frank Glaser創作了一扇巨大的彩色玻璃窗。
 
@@ -202,8 +211,6 @@ permalink: /berlin_ddr/
 ## 分裂、監控與東德生活
 
 ### 國家安全部/史塔西（Ministerium für Staatssicherheit）
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
-
 史塔西（Stasi），正式名稱為國家安全部（Ministerium für Staatssicherheit；MfS），是東德於1950年至1990年間的國家情報機構與秘密警察。它的建立深受蘇聯情報機構如契卡和KGB影響，並將自身定位為東德執政黨德國統一社會黨（SED）的「黨的盾牌與利劍」（Schild und Schwert der Partei）。
 
 史塔西的核心目標是維護共產黨的絕對權力、監控並壓制任何潛在的政治異議與反抗。為了達成這個目的，史塔西滲透了東德社會的每一個角落，對內進行了人類歷史上最嚴密、最龐大的群眾監控。直到1989年，史塔西擁有多達九萬多名全職特工，並招募了約19萬名線人。他們包含了各行各業的普通市民，甚至要求家人、朋友或配偶互相監視與告密。
@@ -224,6 +231,8 @@ permalink: /berlin_ddr/
 博物館內原封不動地保留了Mielke當年的辦公室、私人休息室以及大型會議室的原貌，讓參觀者能直觀感受到極權官僚體系的壓迫氛圍。館內的常設展更展示了史塔西無孔不入的監控技術與手段，包含各種隱藏式相機以及竊聽設備。此外，史塔西檔案館對外開放民眾查閱當年被監視的紀錄，並展示了工作人員如何耗費數十年，將當年被史塔西撕碎的數百萬張文件碎片重新手工拼湊起來的浩大重建工程。透過真實的歷史場景保留與教育展覽，柏林史塔西總部與博物館如今已成為反思獨裁歷史與推動轉型正義的重要地點。
 
 ### 柏林霍恩申豪森紀念館（Gedenkstätte Berlin-Hohenschönhausen）
+![Hohenschönhausen]({{ site.baseurl }}/_image/Berlin/BER_Hohenschönhausen.jpg)
+
 柏林霍恩申豪森紀念館承載了德國自1945年以來不同階段關於政治迫害的歷史。這裡在1939年是國家社會主義人民福利機構（NSV）的大型廚房。1945年5月，蘇聯內務人民委員部（НКВД）設立了第3號特殊營（Speziallager Nr. 3），作為犯人的中轉與關押地。這裡曾拘留超過一萬六千人，對象包括前納粹黨員、間諜，甚至是年滿12歲以上、參與「狼人」地下組織的青少年。 營區內的生活條件極度惡劣，食物匱乏且醫療不足。在最多高達四千多人同時被擠壓在狹小空間的情況下，估計有約一千名囚犯因此死亡。
 
 1946年11月特殊營解散後，囚犯們被迫在地下室建造牢房。自1947年起，這裡成為了中央看守所。牢房極度潮濕且沒有暖氣，囚犯只有木板床和排泄桶。除此之外，蘇聯軍方頻繁採取剝奪睡眠、強迫長時間站立等肉體暴力與威脅，在夜間進行數小時的疲勞審訊。此時期的囚犯除了前納粹份子外，還包括大量政治異見者，如社會民主黨（SPD）、基督教民主聯盟（CDU）等民主黨派成員及被視為威脅的共產主義異見者。
@@ -232,8 +241,6 @@ permalink: /berlin_ddr/
 1989年史塔西解體後，所有政治犯獲釋，監獄於1990年10月3日德國統一當天正式關閉。 隨後，柏林參議院於1991年建議將此地改建為紀念館，1992年該建築群被列為歷史古蹟，並於1994年開放參觀，2000年起進一步擴展為正式的紀念機構。 
 
 ### 柏林圍牆（Berliner Mauer）
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
-
 柏林圍牆（Berliner Mauer）存在於1961年至1989年間，是冷戰時期德國分裂與集權壓迫最具體的象徵。
 
 第二次世界大戰結束後，根據1945年的《波茨坦協定》，戰敗的德國及其首都柏林被同盟國（美、英、法、蘇）劃分為四個佔領區。隨著西方與蘇聯的意識形態衝突加劇，1949年分別成立了親西方的德意志聯邦共和國（西德）與受蘇聯控制的德意志民主共和國（東德）。 
@@ -252,19 +259,19 @@ permalink: /berlin_ddr/
 柏林圍牆的倒塌宣告了東德政權的瓦解。在接下來的幾個月內，圍牆被迅速拆除，並在美、英、法、蘇與兩德簽署《2加4協定》（Zwei-plus-Vier-Vertrag）後，德國於1990年10月3日正式實現了國家統一。 現在，除了少數被作為歷史古蹟保留下來的實體牆段（如柏林圍牆紀念館），以及市中心地上用來標示舊址的雙排鵝卵石之外，柏林圍牆大多已不復存在。不過，柏林圍牆已經從當年壓迫政策的標誌，轉變成了平民爭取自由勇氣與的象徵。
 
 ### 柏林圍牆紀念碑（Gedenkstätte Berliner Mauer）
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Berlin Wall]({{ site.baseurl }}/_image/Berlin_DDR/Berlin Wall.jpg)
 
 在Bernauer Straße的柏林圍牆紀念園區，我們可以進一步了解東西的被柏林圍牆分隔的歷史。這裡保留了70公尺長的圍牆原址，包含一座瞭望塔以及死亡地帶，並結合了大型戶外展覽、文獻中心、以及紀念嘗試跨越圍牆而犧牲的罹難者們的緬懷之窗。地面上也標示了當年投奔自由的逃亡地道位置，與史塔西為攔截逃亡所挖掘的反制地道。
 
 ### 查理檢查哨（Checkpoint Charlie）
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Checkpoint Charlie]({{ site.baseurl }}/_image/Berlin_DDR/Checkpoint Charlie.jpg)
 
 查理檢查哨的名稱源自北約音標字母，是繼Alpha（Helmstedt-Marienborn）與Bravo（Dreilinden-Drewitz）之後，由盟軍設立的第三個檢查哨。1961年10月，美蘇兩國坦克在此全副武裝地對峙，戰事一觸即發，為冷戰史上極為驚險的時刻。此外，這裡也是無數人企圖逃離東柏林的地方，相關故事皆記錄在鄰近的露天展覽中。
 
 儘管原始的檢查哨站早在1990年就被移往盟軍博物館，但作為間諜電影的經典場景，現址重建的縮小版複製品與紀念最後一批駐軍的士兵照片，依然吸引全球遊客前來一探那段鐵幕下的肅殺歲月。
 
 ### 東邊畫廊（East Side Gallery）
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![East Side Gallery]({{ site.baseurl }}/_image/Berlin_DDR/East Side Gallery.jpg)
 
 1989年柏林圍牆倒塌後短短幾天內，藝術家們便開始在圍牆作畫。最初在波茨坦廣場的畫作曾被東德邊防衛兵塗毀，不過藝術家們不氣餒，他們決定將圍牆打造成世界上最大的畫廊，並在取得東德國防部的同意後，選定了Mühlenstraße上的這段圍牆作為作畫地點。
 
@@ -275,7 +282,7 @@ permalink: /berlin_ddr/
 透過這些藝術創作，這段圍牆免於被拆除與進一步衰敗的命運。開幕一年多後，東邊畫廊被柏林邦列為受保護的紀念碑，作為傳達柏林長達28年分裂歷史的重要原址見證。為了確保這座露天畫廊能長久存續，柏林邦政府於2018年11月將東邊畫廊的產權正式移交給柏林圍牆基金會（Stiftung Berliner Mauer），由其專責這座紀念碑的後續保存與維護。
 
 ### 奧伯鮑姆橋（Oberbaumbrücke）
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Oberbaumbrücke]({{ site.baseurl }}/_image/Berlin_DDR/Oberbaumbrücke.jpg)
 
 柏林最美的橋，東邊畫廊不遠處的奧伯鮑姆橋（Oberbaumbrücke）自稱第二，沒有其他橋敢自稱第一！
 
@@ -284,7 +291,7 @@ permalink: /berlin_ddr/
 柏林圍牆建立後不久，這座橋就被關閉，當時包括整條施普雷河的水域和橋樑本身都屬於東柏林管轄。直到1963年聖誕節，這裡才重新設立了僅供行人通行的邊境檢查站。兩德統一後，橋樑的擴建為四線道，成為提供行人、車輛以及地鐵U1線通行的重要交通建設，也是柏林的象徵之一。
 
 ### 魔鬼山（Teufelsberg）
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
+![Teufelsberg]({{ site.baseurl }}/_image/Berlin_DDR/Teufelsberg.jpg)
 
 柏林西邊有一座魔鬼山（Teufelsberg）。對於熟悉的人來說，這裡是街頭藝術的聖地，不過這裡曾經是一座美國監聽站。
 
@@ -297,8 +304,6 @@ permalink: /berlin_ddr/
 隨著冷戰結束與衛星通訊技術的進步，傳統的監聽方法逐漸過時，監聽站於1992年正式關閉。此後至1994年，這裡曾短暫用來進行民用航空的空中交通監控。後續另有一些開發計畫，不過都沒能實現。廢棄的建築則逐漸成為柏林另類文化、藝術家與塗鴉創作者的聚集地。如今，這個園區被經營為一個策展型的街頭藝術畫廊，吸引許多年輕國際遊客造訪。
 
 ### 格林尼克橋（Glienicker Brücke）
-![Mäuseturm]({{ site.baseurl }}/_image/Mittelrheintal/Bingen_Mäuseturm.jpg)
-
 格林尼克橋（Glienicker Brücke）跨越哈維爾河（Die Havel），是一座連接著波茨坦（Potsdam）與柏林西南部極具歷史意義的重要通道。冷戰時期，東西德邊界正好穿過橋樑的中央，儘管東德曾將其命名為團結之橋（Brücke der Einheit），但在柏林圍牆建起後，兩德平民便完全無法通行。由於地處偏遠且易於監視，這裡成為美蘇兩大陣營交換間諜與囚犯的絕佳地點，也使這座橋充滿了戲劇性而舉世聞名。
 
 柏林圍牆倒塌的隔天，格林尼克橋重新開放，恢復了雙向交通，如今已成為德國1號聯邦公路的一部分。如果仔細看橋身，可以發現兩側的綠色油漆色調略有不同，這源於冷戰時期東西兩德分別維修、各自上漆的結果，也成為德國曾經分裂的歷史見證。
